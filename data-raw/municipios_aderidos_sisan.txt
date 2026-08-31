@@ -1,0 +1,2474 @@
+                        MUNICÍPIOS ADERIDOS AO SISAN
+
+  Código do                                           Ano de
+                   UF      Nome do Município                   Resolução da Adesão
+Município (IBGE)                                      Adesão
+    1200054        AC          Assis Brasil (AC)       2026      Nº 26 - 26/07/2026
+    1200203        AC        Cruzeiro do Sul (AC)      2024       Nº 4 - 07/05/2024
+    1200302        AC             Feijó (AC)           2026      Nº 26 - 26/07/2026
+    1200336        AC          Mâncio Lima (AC)        2026      Nº 19 - 26/02/2026
+    1200385        AC       Plácido de Castro (AC)     2024       Nº 4 - 07/05/2024
+    1200401        AC          Rio Branco (AC)         2014       Nº 8 - 27/11/2014
+    1200427        AC        Rodrigues Alves (AC)      2025      Nº 14 - 16/10/2025
+    2700102        AL          Água Branca (AL)        2024       Nº 6 - 29/05/2024
+    2700300        AL           Arapiraca (AL)         2024       Nº 4 - 07/05/2024
+    2700409        AL             Atalaia (AL)         2025       Nº 4 - 20/03/2025
+    2700706        AL            Batalha (AL)          2024       Nº 7 - 21/06/2024
+    2700904        AL          Belo Monte (AL)         2024       Nº 9 - 20/08/2024
+    2701001        AL         Boca da Mata (AL)        2024       Nº 7 - 21/06/2024
+    2701100        AL          Branquinha (AL)         2024       Nº 7 - 21/06/2024
+    2701209        AL         Cacimbinhas (AL)         2025       Nº 4 - 20/03/2025
+    2701308        AL            Cajueiro (AL)         2025      Nº 17 - 31/12/2025
+    2701357        AL          Campestre (AL)          2025      Nº 14 - 16/10/2025
+    2701407        AL         Campo Alegre (AL)        2024       Nº 4 - 07/05/2024
+    2701704        AL             Capela (AL)          2024       Nº 7 - 21/06/2024
+    2701803        AL           Carneiros (AL)         2026      Nº 23 - 26/05/2026
+    2701902        AL           Chã Preta (AL)         2025       Nº 3 - 28/02/2025
+    2702108        AL       Colônia Leopoldina (AL)    2024       Nº 9 - 20/08/2024
+    2702207        AL         Coqueiro Seco (AL)       2024       Nº 7 - 21/06/2024
+    2702306        AL            Coruripe (AL)         2024       Nº 9 - 20/08/2024
+    2702355        AL            Craíbas (AL)          2024       Nº 7 - 21/06/2024
+    2702405        AL        Delmiro Gouveia (AL)      2025       Nº 3 - 28/02/2025
+    2702553        AL       Estrela de Alagoas (AL)    2024       Nº 2 - 08/03/2024
+    2702603        AL          Feira Grande (AL)       2025       Nº 9 - 30/06/2025
+    2702801        AL            Flexeiras (AL)        2024       Nº 4 - 07/05/2024
+    2703007        AL           Ibateguara (AL)        2026      Nº 23 - 26/05/2026
+    2703106        AL              Igaci (AL)          2025      Nº 14 - 16/10/2025
+    2703205        AL           Igreja Nova (AL)       2024       Nº 7 - 21/06/2024
+    2703304        AL             Inhapi (AL)          2025      Nº 17 - 31/12/2025
+    2703403        AL       Jacaré dos Homens (AL)     2024       Nº 7 - 21/06/2024
+    2703502        AL            Jacuípe (AL)          2025       Nº 7 - 28/04/2025
+    2703759        AL         Jequiá da Praia (AL)     2024       Nº 8 - 03/07/2024
+    2703809        AL        Joaquim Gomes (AL)        2026      Nº 23 - 26/05/2026
+    2703908        AL             Jundiá (AL)          2025       Nº 4 - 20/03/2025
+    2704005        AL           Junqueiro (AL)         2024       Nº 2 - 08/03/2024
+    2704104        AL        Lagoa da Canoa (AL)       2024       Nº 2 - 08/03/2024
+    2704203        AL       Limoeiro de Anadia (AL)    2024       Nº 7 - 21/06/2024
+2704302   AL           Maceió (AL)            2024   Nº 4 - 07/05/2024
+2704401   AL        Major Isidoro (AL)        2026   Nº 21 - 30/03/2026
+2704500   AL          Maragogi (AL)           2026   Nº 19 - 26/02/2026
+2704609   AL          Maravilha (AL)          2024   Nº 8 - 03/07/2024
+2704807   AL         Maribondo (AL)           2026   N° 28 - 26/08/2026
+2705101   AL    Matriz de Camaragibe (AL)     2024   Nº 7 - 21/06/2024
+2705309   AL     Minador do Negrão (AL)       2024   Nº 2 - 08/03/2024
+2705408   AL       Monteirópolis (AL)         2026   Nº 19 - 26/02/2026
+2705507   AL           Murici (AL)            2024   Nº 5 - 09/05/2024
+2705606   AL         Novo Lino (AL)           2024   Nº 4 - 07/05/2024
+2705705   AL   Olho d'Água das Flores (AL)    2024   Nº 7 - 21/06/2024
+2706000   AL          Olivença (AL)           2024   Nº 7 - 21/06/2024
+2706208   AL          Palestina (AL)          2024   Nº 7 - 21/06/2024
+2706307   AL     Palmeira dos Índios (AL)     2024   Nº 2 - 08/03/2024
+2706406   AL       Pão de Açúcar (AL)         2024   Nº 2 - 08/03/2024
+2706422   AL         Pariconha (AL)           2024   Nº 9 - 20/08/2024
+2706505   AL    Passo de Camaragibe (AL)      2024   Nº 8 - 03/07/2024
+2706703   AL           Penedo (AL)            2025   Nº 2 - 24/02/2025
+2706802   AL         Piaçabuçu (AL)           2024   Nº 4 - 07/05/2024
+2706901   AL            Pilar (AL)            2024   Nº 7 - 21/06/2024
+2707107   AL          Piranhas (AL)           2024   Nº 7 - 21/06/2024
+2707305   AL         Porto Calvo (AL)         2024   Nº 7 - 21/06/2024
+2707404   AL      Porto de Pedras (AL)        2026   Nº 26 - 26/07/2026
+2707503   AL    Porto Real do Colégio (AL)    2025   Nº 3 - 28/02/2025
+2707701   AL          Rio Largo (AL)          2026   Nº 23 - 26/05/2026
+2707909   AL    Santa Luzia do Norte (AL)     2024   Nº 7 - 21/06/2024
+2708105   AL    Santana do Mundaú (AL)        2024   Nº 7 - 21/06/2024
+2708402   AL     São José da Tapera (AL)      2024   Nº 4 - 07/05/2024
+2708501   AL    São Luís do Quitunde (AL)     2024   Nº 7 - 21/06/2024
+2708600   AL   São Miguel dos Campos (AL)     2024   Nº 8 - 03/07/2024
+2708709   AL   São Miguel dos Milagres (AL)   2025   Nº 12 - 03/09/2025
+2708808   AL       São Sebastião (AL)         2024   Nº 7 - 21/06/2024
+2708907   AL           Satuba (AL)            2025   Nº 3 - 28/02/2025
+2708956   AL    Senador Rui Palmeira (AL)     2026   Nº 19 - 26/02/2026
+2709152   AL       Teotônio Vilela (AL)       2024   Nº 9 - 20/08/2024
+2709202   AL           Traipu (AL)            2026   Nº 23 - 26/05/2026
+2709301   AL    União dos Palmares (AL)       2024   Nº 7 - 21/06/2024
+2709400   AL           Viçosa (AL)            2026   Nº 25 - 26/06/2026
+1300060   AM          Amaturá (AM)            2024   Nº 03 - 05/04/2024
+1300086   AM           Anamã (AM)             2026   Nº 19 - 26/02/2026
+1300300   AM          Autazes (AM)            2026   N° 28 - 26/08/2026
+1300508   AM         Barreirinha (AM)         2024   Nº 6 - 29/05/2024
+1300607   AM    Benjamin Constant (AM)        2026   Nº 19 - 26/02/2026
+1300631   AM           Beruri (AM)            2025   Nº 17 - 31/12/2025
+1300680   AM    Boa Vista do Ramos (AM)       2024   Nº 03 - 05/04/2024
+1300706   AM       Boca do Acre (AM)          2026   N° 28 - 26/08/2026
+1300805   AM           Borba (AM)             2025   Nº 14 - 16/10/2025
+1300904   AM          Canutama (AM)            2026   Nº 26 - 26/07/2026
+1301001   AM          Carauari (AM)            2026   Nº 21 - 30/03/2026
+1301100   AM           Careiro (AM)            2024   Nº 2 - 08/03/2024
+1301209   AM            Coari (AM)             2024   Nº 03 - 05/04/2024
+1301605   AM          Fonte Boa (AM)           2026   Nº 23 - 26/05/2026
+1301902   AM         Itacoatiara (AM)          2026   Nº 25 - 26/06/2026
+1302009   AM          Itapiranga (AM)          2026   N° 28 - 26/08/2026
+1302207   AM            Juruá (AM)             2026   Nº 26 - 26/07/2026
+1302504   AM         Manacapuru (AM)           2021   Nº 2 - 25/11/2021
+1302553   AM          Manaquiri (AM)           2024   Nº 8 - 03/07/2024
+1302603   AM           Manaus (AM)             2024   Nº 4 - 07/05/2024
+1302702   AM          Manicoré (AM)            2024   Nº 8 - 03/07/2024
+1303007   AM         Nhamundá (AM)             2021   Nº 2 - 25/11/2021
+1303106   AM    Nova Olinda do Norte (AM)      2026   N° 28 - 26/08/2026
+1303205   AM         Novo Airão (AM)           2024   Nº 2 - 08/03/2024
+1303304   AM        Novo Aripuanã (AM)         2026   Nº 26 - 26/07/2026
+1303403   AM          Parintins (AM)           2026   Nº 19 - 26/02/2026
+1303700   AM     Santo Antônio do Içá (AM)     2024   Nº 7 - 21/06/2024
+1303809   AM   São Gabriel da Cachoeira (AM)   2026   N° 28 - 26/08/2026
+1303908   AM    São Paulo de Olivença (AM)     2024   Nº 03 - 05/04/2024
+1304062   AM          Tabatinga (AM)           2026   N° 28 - 26/08/2026
+1304104   AM           Tapauá (AM)             2026   Nº 23 - 26/05/2026
+1304203   AM             Tefé (AM)             2025   Nº 17 - 31/12/2025
+1304237   AM          Tonantins (AM)           2020   Nº 1 - 23/01/2020
+1304260   AM            Uarini (AM)            2025   Nº 13 - 17/09/2025
+1304302   AM           Urucará (AM)            2026   Nº 23 - 26/05/2026
+1304401   AM         Urucurituba (AM)          2026   N° 28 - 26/08/2026
+1600154   AP   Pedra Branca do Amapari (AP)    2024   Nº 4 - 07/05/2024
+1600303   AP           Macapá (AP)             2024   Nº 12 - 19/11/2024
+1600808   AP        Vitória do Jari (AP)       2024   Nº 5 - 09/05/2024
+2900108   BA            Abaíra (BA)            2025   Nº 13 - 17/09/2025
+2900207   BA            Abaré (BA)             2025   Nº 15 - 31/10/2025
+2900405   BA          Água Fria (BA)           2025   Nº 13 - 17/09/2025
+2900504   BA        Érico Cardoso (BA)         2025   Nº 9 - 30/06/2025
+2900603   BA           Aiquara (BA)            2025   Nº 9 - 30/06/2025
+2900702   BA          Alagoinhas (BA)          2026   Nº 19 - 26/02/2026
+2900801   BA          Alcobaça (BA)            2026   Nº 23 - 26/05/2026
+2900900   BA          Almadina (BA)            2025   Nº 14 - 16/10/2025
+2901007   BA          Amargosa (BA)            2024   Nº 2 - 08/03/2024
+2901106   BA      Amélia Rodrigues (BA)        2026   Nº 26 - 26/07/2026
+2901155   BA      América Dourada (BA)         2025   Nº 15 - 31/10/2025
+2901205   BA            Anagé (BA)             2025   Nº 2 - 24/02/2025
+2901304   BA           Andaraí (BA)            2024   Nº 7 - 21/06/2024
+2901353   BA          Andorinha (BA)           2025   Nº 14 - 16/10/2025
+2901403   BA           Angical (BA)            2026   Nº 22 - 29/04/2026
+2901502   BA           Anguera (BA)            2026   Nº 21 - 30/03/2026
+2901700   BA       Antônio Cardoso (BA)        2025   Nº 13 - 17/09/2025
+2901908   BA            Aporá (BA)            2024   Nº 9 - 20/08/2024
+2901957   BA          Apuarema (BA)           2024   Nº 9 - 20/08/2024
+2902104   BA            Araci (BA)            2026   Nº 22 - 29/04/2026
+2902252   BA           Arataca (BA)           2024   Nº 4 - 07/05/2024
+2902302   BA           Aratuípe (BA)          2026   N° 28 - 26/08/2026
+2902401   BA        Aurelino Leal (BA)        2024   Nº 8 - 03/07/2024
+2902609   BA        Baixa Grande (BA)         2024   Nº 13 - 13/12/2024
+2902807   BA        Barra da Estiva (BA)      2025   Nº 14 - 16/10/2025
+2902906   BA       Barra do Choça (BA)        2026   Nº 25 - 26/06/2026
+2903102   BA       Barra do Rocha (BA)        2025   Nº 14 - 16/10/2025
+2903235   BA          Barro Alto (BA)         2024   Nº 9 - 20/08/2024
+2903276   BA          Barrocas (BA)           2026   Nº 23 - 26/05/2026
+2903300   BA         Barro Preto (BA)         2025   Nº 2 - 24/02/2025
+2903409   BA          Belmonte (BA)           2026   N° 28 - 26/08/2026
+2903607   BA           Biritinga (BA)         2024   Nº 7 - 21/06/2024
+2903706   BA          Boa Nova (BA)           2025   Nº 4 - 20/03/2025
+2903805   BA      Boa Vista do Tupim (BA)     2026   Nº 21 - 30/03/2026
+2903904   BA      Bom Jesus da Lapa (BA)      2024   Nº 9 - 20/08/2024
+2904001   BA           Boninal (BA)           2024   Nº 2 - 08/03/2024
+2904050   BA            Bonito (BA)           2025   Nº 8 - 30/04/2025
+2904100   BA           Boquira (BA)           2025   Nº 17 - 31/12/2025
+2904209   BA          Botuporã (BA)           2025   Nº 12 - 03/09/2025
+2904308   BA           Brejões (BA)           2025   Nº 7 - 28/04/2025
+2904506   BA     Brotas de Macaúbas (BA)      2024   Nº 9 - 20/08/2024
+2904803   BA           Caatiba (BA)           2025   Nº 13 - 17/09/2025
+2904852   BA   Cabaceiras do Paraguaçu (BA)   2024   Nº 2 - 08/03/2024
+2905206   BA           Caetité (BA)           2025   Nº 14 - 16/10/2025
+2905305   BA         Cafarnaum (BA)           2025   Nº 14 - 16/10/2025
+2905404   BA            Cairu (BA)            2026   Nº 25 - 26/06/2026
+2905701   BA          Camaçari (BA)           2025   Nº 9 - 30/06/2025
+2905909   BA   Campo Alegre de Lourdes (BA)   2026   Nº 21 - 30/03/2026
+2906204   BA          Canarana (BA)           2025   Nº 14 - 16/10/2025
+2906303   BA         Canavieiras (BA)         2026   N° 28 - 26/08/2026
+2906402   BA           Candeal (BA)           2025   Nº 12 - 03/09/2025
+2906808   BA         Cansanção (BA)           2025   Nº 14 - 16/10/2025
+2906824   BA          Canudos (BA)            2025   Nº 9 - 30/06/2025
+2906857   BA    Capela do Alto Alegre (BA)    2026   Nº 21 - 30/03/2026
+2906873   BA        Capim Grosso (BA)         2024   Nº 4 - 07/05/2024
+2906907   BA          Caravelas (BA)          2024   Nº 2 - 08/03/2024
+2907103   BA         Carinhanha (BA)          2024   Nº 2 - 08/03/2024
+2907202   BA          Casa Nova (BA)          2024   Nº 13 - 13/12/2024
+2907301   BA         Castro Alves (BA)        2024   Nº 9 - 20/08/2024
+2907509   BA             Catu (BA)            2026   Nº 19 - 26/02/2026
+2907558   BA          Caturama (BA)           2024   Nº 7 - 21/06/2024
+2907905   BA             Cipó (BA)            2024   Nº 2 - 08/03/2024
+2908101   BA            Cocos (BA)            2024   Nº 7 - 21/06/2024
+2908200   BA     Conceição da Feira (BA)      2024   Nº 03 - 05/04/2024
+2908309   BA   Conceição do Almeida (BA)   2025   Nº 9 - 30/06/2025
+2908507   BA   Conceição do Jacuípe (BA)   2026   N° 28 - 26/08/2026
+2908606   BA          Conde (BA)           2024   Nº 4 - 07/05/2024
+2908705   BA        Condeúba (BA)          2025   Nº 9 - 30/06/2025
+2908903   BA     Coração de Maria (BA)     2017   Nº 5 - 11/10/2017
+2909000   BA        Cordeiros (BA)         2026   Nº 21 - 30/03/2026
+2909307   BA        Correntina (BA)        2024   Nº 2 - 08/03/2024
+2909406   BA         Cotegipe (BA)         2026   Nº 19 - 26/02/2026
+2909505   BA       Cravolândia (BA)        2025   Nº 13 - 17/09/2025
+2909604   BA        Crisópolis (BA)        2026   Nº 20 - 04/03/2026
+2909703   BA        Cristópolis (BA)       2026   Nº 19 - 26/02/2026
+2909802   BA      Cruz das Almas (BA)      2026   N° 28 - 26/08/2026
+2909901   BA          Curaçá (BA)          2017   Nº 5 - 11/10/2017
+2910008   BA        Dário Meira (BA)       2025   Nº 4 - 20/03/2025
+2910057   BA        Dias d'Ávila (BA)      2024   Nº 03 - 05/04/2024
+2910107   BA       Dom Basílio (BA)        2024   Nº 03 - 05/04/2024
+2910206   BA    Dom Macedo Costa (BA)      2024   Nº 4 - 07/05/2024
+2910305   BA      Elísio Medrado (BA)      2024   Nº 13 - 13/12/2024
+2910727   BA        Eunápolis (BA)         2024   Nº 2 - 08/03/2024
+2910776   BA       Feira da Mata (BA)      2025   Nº 12 - 03/09/2025
+2910800   BA     Feira de Santana (BA)     2026   Nº 23 - 26/05/2026
+2911006   BA       Floresta Azul (BA)      2024   Nº 10 - 30/09/2024
+2911105   BA   Formosa do Rio Preto (BA)   2026   Nº 19 - 26/02/2026
+2911253   BA          Gavião (BA)          2025   Nº 17 - 31/12/2025
+2911402   BA          Glória (BA)          2024   Nº 13 - 13/12/2024
+2911501   BA         Gongogi (BA)          2024   Nº 13 - 13/12/2024
+2911808   BA        Guaratinga (BA)        2025   Nº 9 - 30/06/2025
+2911907   BA           Iaçu (BA)           2025   Nº 17 - 31/12/2025
+2912004   BA        Ibiassucê (BA)         2025   Nº 17 - 31/12/2025
+2912202   BA         Ibicoara (BA)         2025   Nº 9 - 30/06/2025
+2912301   BA           Ibicuí (BA)         2025   Nº 17 - 31/12/2025
+2912400   BA          Ibipeba (BA)         2025   Nº 13 - 17/09/2025
+2912509   BA        Ibipitanga (BA)        2026   Nº 22 - 29/04/2026
+2912707   BA       Ibirapitanga (BA)       2025   Nº 12 - 03/09/2025
+2912905   BA         Ibirataia (BA)        2026   Nº 21 - 30/03/2026
+2913002   BA          Ibitiara (BA)        2026   Nº 21 - 30/03/2026
+2913101   BA          Ibititá (BA)         2026   Nº 23 - 26/05/2026
+2913200   BA        Ibotirama (BA)         2024   Nº 4 - 07/05/2024
+2913309   BA           Ichu (BA)           2025   Nº 13 - 17/09/2025
+2913408   BA          Igaporã (BA)         2025   Nº 9 - 30/06/2025
+2913457   BA         Igrapiúna (BA)        2024   Nº 12 - 19/11/2024
+2913507   BA           Iguaí (BA)          2024   Nº 11 - 09/10/2024
+2913705   BA        Inhambupe (BA)         2024   Nº 2 - 08/03/2024
+2913804   BA         Ipecaetá (BA)         2024   Nº 7 - 21/06/2024
+2913903   BA           Ipiaú (BA)          2025   Nº 15 - 31/10/2025
+2914000   BA           Ipirá (BA)          2026   Nº 19 - 26/02/2026
+2914406   BA         Iraquara (BA)         2025   Nº 15 - 31/10/2025
+2914604   BA              Irecê (BA)              2024   Nº 9 - 20/08/2024
+2914703   BA            Itaberaba (BA)            2025   Nº 9 - 30/06/2025
+2914802   BA             Itabuna (BA)             2025   Nº 16 - 08/12/2025
+2915106   BA              Itagi (BA)              2025   Nº 9 - 30/06/2025
+2915205   BA             Itagibá (BA)             2025   Nº 8 - 30/04/2025
+2915353   BA        Itaguaçu da Bahia (BA)        2025   Nº 17 - 31/12/2025
+2915403   BA         Itaju do Colônia (BA)        2024   Nº 4 - 07/05/2024
+2915502   BA             Itajuípe (BA)            2024   Nº 9 - 20/08/2024
+2915601   BA            Itamaraju (BA)            2026   Nº 23 - 26/05/2026
+2915700   BA             Itamari (BA)             2024   Nº 10 - 30/09/2024
+2915809   BA             Itambé (BA)              2017   Nº 5 - 11/10/2017
+2916302   BA             Itapebi (BA)             2026   Nº 22 - 29/04/2026
+2916401   BA            Itapetinga (BA)           2025   Nº 17 - 31/12/2025
+2916500   BA            Itapicuru (BA)            2026   Nº 25 - 26/06/2026
+2916708   BA            Itaquara (BA)             2026   Nº 25 - 26/06/2026
+2916807   BA            Itarantim (BA)            2026   Nº 22 - 29/04/2026
+2916906   BA             Itiruçu (BA)             2026   Nº 26 - 26/07/2026
+2917003   BA              Itiúba (BA)             2023   Nº 4 - 21/12/2023
+2917334   BA               Iuiu (BA)              2026   N° 28 - 26/08/2026
+2917508   BA            Jacobina (BA)             2024   Nº 4 - 07/05/2024
+2917607   BA           Jaguaquara (BA)            2016   Nº 1 - 21/03/2016
+2917706   BA            Jaguarari (BA)            2024   Nº 2 - 08/03/2024
+2917805   BA            Jaguaripe (BA)            2026   Nº 21 - 30/03/2026
+2918001   BA             Jequié (BA)              2024   Nº 8 - 03/07/2024
+2918100   BA           Jeremoabo (BA)             2026   N° 28 - 26/08/2026
+2918209   BA            Jiquiriçá (BA)            2025   Nº 9 - 30/06/2025
+2918308   BA             Jitaúna (BA)             2025   Nº 13 - 17/09/2025
+2918357   BA          João Dourado (BA)           2024   Nº 2 - 08/03/2024
+2918407   BA             Juazeiro (BA)            2017   Nº 5 - 11/10/2017
+2918555   BA             Jussari (BA)             2025   Nº 17 - 31/12/2025
+2918605   BA            Jussiape (BA)             2026   Nº 25 - 26/06/2026
+2918704   BA        Lafaiete Coutinho (BA)        2025   Nº 14 - 16/10/2025
+2919009   BA            Lajedinho (BA)            2025   Nº 9 - 30/06/2025
+2919058   BA        Lajedo do Tabocal (BA)        2026   Nº 21 - 30/03/2026
+2919108   BA            Lamarão (BA)              2024   Nº 4 - 07/05/2024
+2919157   BA             Lapão (BA)               2025   Nº 13 - 17/09/2025
+2919207   BA         Lauro de Freitas (BA)        2024   Nº 7 - 21/06/2024
+2919306   BA             Lençóis (BA)             2024   Nº 4 - 07/05/2024
+2919504   BA   Livramento de Nossa Senhora (BA)   2026   Nº 21 - 30/03/2026
+2919702   BA            Macarani (BA)             2025   Nº 14 - 16/10/2025
+2919801   BA            Macaúbas (BA)             2025   Nº 12 - 03/09/2025
+2920007   BA           Maiquinique (BA)           2025   Nº 9 - 30/06/2025
+2920106   BA              Mairi (BA)              2025   Nº 17 - 31/12/2025
+2920205   BA            Malhada (BA)              2024   Nº 10 - 30/09/2024
+2920304   BA        Malhada de Pedras (BA)        2025   Nº 7 - 28/04/2025
+2920403   BA         Manoel Vitorino (BA)         2025   Nº 6 - 02/04/2025
+2920452   BA            Mansidão (BA)             2026   Nº 25 - 26/06/2026
+2920502   BA           Maracás (BA)             2025   Nº 9 - 30/06/2025
+2920601   BA          Maragogipe (BA)           2024   Nº 03 - 05/04/2024
+2920700   BA            Maraú (BA)              2025   Nº 13 - 17/09/2025
+2920809   BA       Marcionílio Souza (BA)       2024   Nº 9 - 20/08/2024
+2920908   BA           Mascote (BA)             2024   Nº 10 - 30/09/2024
+2921005   BA       Mata de São João (BA)        2026   Nº 26 - 26/07/2026
+2921054   BA            Matina (BA)             2024   Nº 9 - 20/08/2024
+2921203   BA        Miguel Calmon (BA)          2026   Nº 25 - 26/06/2026
+2921302   BA           Milagres (BA)            2024   Nº 7 - 21/06/2024
+2921401   BA          Mirangaba (BA)            2024   Nº 2 - 08/03/2024
+2921450   BA            Mirante (BA)            2025   Nº 9 - 30/06/2025
+2921500   BA         Monte Santo (BA)           2026   Nº 21 - 30/03/2026
+2921609   BA           Morpará (BA)             2024   Nº 8 - 03/07/2024
+2921708   BA       Morro do Chapéu (BA)         2026   Nº 23 - 26/05/2026
+2921906   BA            Mucugê (BA)             2026   Nº 23 - 26/05/2026
+2922102   BA         Mundo Novo (BA)            2026   Nº 19 - 26/02/2026
+2922201   BA         Muniz Ferreira (BA)        2025   Nº 17 - 31/12/2025
+2922300   BA           Muritiba (BA)            2024   Nº 7 - 21/06/2024
+2922409   BA            Mutuípe (BA)            2025   Nº 14 - 16/10/2025
+2922656   BA          Nordestina (BA)           2025   Nº 14 - 16/10/2025
+2922730   BA         Nova Fátima (BA)           2025   Nº 15 - 31/10/2025
+2922755   BA           Nova Ibiá (BA)           2024   Nº 4 - 07/05/2024
+2922854   BA        Nova Redenção (BA)          2026   Nº 23 - 26/05/2026
+2922904   BA          Nova Soure (BA)           2026   Nº 22 - 29/04/2026
+2923100   BA           Olindina (BA)            2025   Nº 4 - 20/03/2025
+2923407   BA     Palmas de Monte Alto (BA)      2024   Nº 03 - 05/04/2024
+2923605   BA          Paramirim (BA)            2025   Nº 7 - 28/04/2025
+2923704   BA           Paratinga (BA)           2024   Nº 03 - 05/04/2024
+2923803   BA          Paripiranga (BA)          2025   Nº 14 - 16/10/2025
+2923902   BA           Pau Brasil (BA)          2024   Nº 4 - 07/05/2024
+2924009   BA         Paulo Afonso (BA)          2026   Nº 22 - 29/04/2026
+2924058   BA          Pé de Serra (BA)          2024   Nº 7 - 21/06/2024
+2924207   BA        Pedro Alexandre (BA)        2026   Nº 23 - 26/05/2026
+2924306   BA             Piatã (BA)             2023   Nº 4 - 21/12/2023
+2924504   BA            Pindaí (BA)             2025   Nº 9 - 30/06/2025
+2924603   BA          Pindobaçu (BA)            2024   Nº 03 - 05/04/2024
+2924702   BA             Piripá (BA)            2026   Nº 21 - 30/03/2026
+2924801   BA            Piritiba (BA)           2026   Nº 22 - 29/04/2026
+2925105   BA            Poções (BA)             2024   Nº 6 - 29/05/2024
+2925303   BA         Porto Seguro (BA)          2023   Nº 1 - 30/06/2023
+2925402   BA           Potiraguá (BA)           2024   Nº 9 - 20/08/2024
+2925709   BA   Presidente Jânio Quadros (BA)    2024   Nº 9 - 20/08/2024
+2925758   BA   Presidente Tancredo Neves (BA)   2025   Nº 2 - 24/02/2025
+2925808   BA          Queimadas (BA)            2025   Nº 14 - 16/10/2025
+2925931   BA          Quixabeira (BA)           2026   Nº 21 - 30/03/2026
+2926004   BA           Remanso (BA)             2024   Nº 03 - 05/04/2024
+2926301   BA      Riachão do Jacuípe (BA)       2025   Nº 15 - 31/10/2025
+2926400   BA     Riacho de Santana (BA)      2024   Nº 2 - 08/03/2024
+2926509   BA     Ribeira do Amparo (BA)      2026   Nº 19 - 26/02/2026
+2926707   BA       Rio de Contas (BA)        2024   Nº 03 - 05/04/2024
+2926806   BA       Rio do Antônio (BA)       2026   Nº 26 - 26/07/2026
+2926905   BA        Rio do Pires (BA)        2025   Nº 17 - 31/12/2025
+2927002   BA          Rio Real (BA)          2024   Nº 2 - 08/03/2024
+2927101   BA          Rodelas (BA)           2026   Nº 19 - 26/02/2026
+2927507   BA       Santa Bárbara (BA)        2025   Nº 12 - 03/09/2025
+2927804   BA    Santa Cruz da Vitória (BA)   2025   Nº 9 - 30/06/2025
+2927903   BA         Santa Inês (BA)         2025   Nº 17 - 31/12/2025
+2928000   BA          Santaluz (BA)          2026   Nº 25 - 26/06/2026
+2928059   BA        Santa Luzia (BA)         2026   Nº 26 - 26/07/2026
+2928109   BA   Santa Maria da Vitória (BA)   2024   Nº 9 - 20/08/2024
+2928604   BA        Santo Amaro (BA)         2026   N° 28 - 26/08/2026
+2928703   BA   Santo Antônio de Jesus (BA)   2024   Nº 2 - 08/03/2024
+2928950   BA       São Domingos (BA)         2025   Nº 9 - 30/06/2025
+2929057   BA    São Félix do Coribe (BA)     2025   Nº 14 - 16/10/2025
+2929255   BA        São Gabriel (BA)         2025   Nº 17 - 31/12/2025
+2929354   BA     São José da Vitória (BA)    2025   Nº 9 - 30/06/2025
+2929602   BA          Sapeaçu (BA)           2024   Nº 2 - 08/03/2024
+2929750   BA          Saubara (BA)           2024   Nº 03 - 05/04/2024
+2929800   BA           Saúde (BA)            2024   Nº 7 - 21/06/2024
+2929909   BA           Seabra (BA)           2026   N° 28 - 26/08/2026
+2930105   BA     Senhor do Bonfim (BA)       2024   Nº 9 - 20/08/2024
+2930154   BA     Serra do Ramalho (BA)       2024   Nº 9 - 20/08/2024
+2930204   BA          Sento Sé (BA)          2025   Nº 13 - 17/09/2025
+2930402   BA        Serra Preta (BA)         2018   Nº 8 - 19/11/2018
+2930501   BA          Serrinha (BA)          2024   Nº 7 - 21/06/2024
+2930600   BA        Serrolândia (BA)         2026   Nº 19 - 26/02/2026
+2930758   BA       Sítio do Mato (BA)        2024   Nº 9 - 20/08/2024
+2930808   BA       Souto Soares (BA)         2025   Nº 9 - 30/06/2025
+2931053   BA       Tanque Novo (BA)          2025   Nº 17 - 31/12/2025
+2931103   BA         Tanquinho (BA)          2025   Nº 9 - 30/06/2025
+2931202   BA          Taperoá (BA)           2026   Nº 25 - 26/06/2026
+2931350   BA     Teixeira de Freitas (BA)    2026   Nº 25 - 26/06/2026
+2931400   BA     Teodoro Sampaio (BA)        2024   Nº 03 - 05/04/2024
+2931509   BA         Teofilândia (BA)        2026   Nº 19 - 26/02/2026
+2931608   BA         Teolândia (BA)          2025   Nº 14 - 16/10/2025
+2931707   BA         Terra Nova (BA)         2024   Nº 03 - 05/04/2024
+2932002   BA           Uauá (BA)             2024   Nº 7 - 21/06/2024
+2932101   BA           Ubaíra (BA)           2025   Nº 12 - 03/09/2025
+2932200   BA         Ubaitaba (BA)           2024   Nº 10 - 30/09/2024
+2932309   BA           Ubatã (BA)            2025   Nº 12 - 03/09/2025
+2932408   BA           Uibaí (BA)            2025   Nº 13 - 17/09/2025
+2932804   BA           Utinga (BA)           2026   Nº 25 - 26/06/2026
+2932903   BA          Valença (BA)           2024   Nº 03 - 05/04/2024
+2933000   BA          Valente (BA)           2024   Nº 8 - 03/07/2024
+2933109   BA      Várzea do Poço (BA)      2026   Nº 22 - 29/04/2026
+2933257   BA         Vereda (BA)           2025   Nº 17 - 31/12/2025
+2933307   BA   Vitória da Conquista (BA)   2018   Nº 9 - 18/12/2018
+2933505   BA   Wenceslau Guimarães (BA)    2025   Nº 14 - 16/10/2025
+2933604   BA       Xique-Xique (BA)        2024   Nº 2 - 08/03/2024
+2300101   CE         Abaiara (CE)          2024   Nº 7 - 21/06/2024
+2300150   CE         Acarape (CE)          2024   Nº 10 - 30/09/2024
+2300200   CE         Acaraú (CE)           2025   Nº 13 - 17/09/2025
+2300309   CE        Acopiara (CE)          2024   Nº 2 - 08/03/2024
+2300408   CE         Aiuaba (CE)           2024   Nº 2 - 08/03/2024
+2300507   CE        Alcântaras (CE)        2016   Nº 4 - 07/06/2016
+2300606   CE        Altaneira (CE)         2026   Nº 26 - 26/07/2026
+2300754   CE        Amontada (CE)          2026   Nº 19 - 26/02/2026
+2300804   CE    Antonina do Norte (CE)     2025   Nº 13 - 17/09/2025
+2300903   CE         Apuiarés (CE)         2024   Nº 10 - 30/09/2024
+2301109   CE         Aracati (CE)          2026   Nº 26 - 26/07/2026
+2301257   CE        Ararendá (CE)          2014   Nº 8 - 27/11/2014
+2301307   CE         Araripe (CE)          2013   Nº 1 - 20/11/2013
+2301406   CE         Aratuba (CE)          2024   Nº 12 - 19/11/2024
+2301505   CE         Arneiroz (CE)         2017   Nº 2 - 10/02/2017
+2301604   CE         Assaré (CE)           2024   Nº 7 - 21/06/2024
+2301802   CE          Baixio (CE)          2025   Nº 2 - 24/02/2025
+2301851   CE        Banabuiú (CE)          2026   Nº 26 - 26/07/2026
+2301901   CE        Barbalha (CE)          2026   Nº 25 - 26/06/2026
+2301950   CE         Barreira (CE)         2025   Nº 17 - 31/12/2025
+2302107   CE         Baturité (CE)         2024   Nº 2 - 08/03/2024
+2302206   CE        Beberibe (CE)          2024   Nº 03 - 05/04/2024
+2302305   CE        Bela Cruz (CE)         2021   Nº 1 - 12/01/2021
+2302404   CE       Boa Viagem (CE)         2016   Nº 4 - 07/06/2016
+2302503   CE       Brejo Santo (CE)        2017   Nº 2 - 10/02/2017
+2302602   CE        Camocim (CE)           2026   Nº 23 - 26/05/2026
+2302701   CE      Campos Sales (CE)        2025   Nº 17 - 31/12/2025
+2302800   CE         Canindé (CE)          2026   Nº 25 - 26/06/2026
+2302909   CE       Capistrano (CE)         2026   Nº 25 - 26/06/2026
+2303105   CE          Cariré (CE)          2014   Nº 8 - 27/11/2014
+2303204   CE        Caririaçu (CE)         2024   Nº 9 - 20/08/2024
+2303303   CE          Cariús (CE)          2016   Nº 7 - 13/12/2016
+2303402   CE        Carnaubal (CE)         2024   Nº 7 - 21/06/2024
+2303501   CE        Cascavel (CE)          2026   Nº 22 - 29/04/2026
+2303600   CE         Catarina (CE)         2025   Nº 17 - 31/12/2025
+2303659   CE         Catunda (CE)          2024   Nº 7 - 21/06/2024
+2303709   CE         Caucaia (CE)          2014   Nº 8 - 27/11/2014
+2303808   CE          Cedro (CE)           2025   Nº 13 - 17/09/2025
+2303907   CE         Chaval (CE)           2024   Nº 10 - 30/09/2024
+2303931   CE          Choró (CE)           2025   Nº 17 - 31/12/2025
+2303956   CE       Chorozinho (CE)         2024   Nº 12 - 19/11/2024
+2304004   CE         Coreaú (CE)           2024   Nº 2 - 08/03/2024
+2304103   CE            Crateús (CE)            2014   Nº 4 - 20/03/2014
+2304202   CE             Crato (CE)             2024   Nº 13 - 13/12/2024
+2304236   CE            Croatá (CE)             2026   Nº 25 - 26/06/2026
+2304251   CE             Cruz (CE)              2016   Nº 4 - 07/06/2016
+2304269   CE   Deputado Irapuan Pinheiro (CE)   2024   Nº 2 - 08/03/2024
+2304301   CE          Farias Brito (CE)         2025   Nº 9 - 30/06/2025
+2304350   CE           Forquilha (CE)           2025   Nº 17 - 31/12/2025
+2304400   CE           Fortaleza (CE)           2017   Nº 4 - 10/07/2017
+2304459   CE            Fortim (CE)             2024   Nº 7 - 21/06/2024
+2304509   CE         Frecheirinha (CE)          2025   Nº 2 - 24/02/2025
+2304608   CE       General Sampaio (CE)         2026   Nº 25 - 26/06/2026
+2304657   CE            Graça (CE)              2025   Nº 2 - 24/02/2025
+2304707   CE            Granja (CE)             2026   Nº 23 - 26/05/2026
+2304806   CE           Granjeiro (CE)           2024   Nº 2 - 08/03/2024
+2304905   CE           Groaíras (CE)            2024   Nº 03 - 05/04/2024
+2304954   CE           Guaiúba (CE)             2026   Nº 22 - 29/04/2026
+2305001   CE     Guaraciaba do Norte (CE)       2026   Nº 21 - 30/03/2026
+2305100   CE        Guaramiranga (CE)           2026   Nº 18 - 13/01/2026
+2305209   CE          Hidrolândia (CE)          2025   Nº 9 - 30/06/2025
+2305233   CE           Horizonte (CE)           2026   Nº 23 - 26/05/2026
+2305266   CE          Ibaretama (CE)            2025   Nº 9 - 30/06/2025
+2305308   CE           Ibiapina (CE)            2024   Nº 13 - 13/12/2024
+2305332   CE          Ibicuitinga (CE)          2025   Nº 13 - 17/09/2025
+2305357   CE            Icapuí (CE)             2026   Nº 26 - 26/07/2026
+2305407   CE              Icó (CE)              2018   Nº 9 - 18/12/2018
+2305506   CE            Iguatu (CE)             2014   Nº 8 - 27/11/2014
+2305605   CE        Independência (CE)          2024   Nº 7 - 21/06/2024
+2305654   CE          Ipaporanga (CE)           2024   Nº 7 - 21/06/2024
+2305704   CE          Ipaumirim (CE)            2024   Nº 13 - 13/12/2024
+2305803   CE              Ipu (CE)              2026   Nº 21 - 30/03/2026
+2305902   CE           Ipueiras (CE)            2014   Nº 8 - 27/11/2014
+2306009   CE           Iracema (CE)             2026   Nº 23 - 26/05/2026
+2306108   CE           Irauçuba (CE)            2020   Nº 2 - 08/07/2020
+2306306   CE            Itapajé (CE)            2026   Nº 18 - 13/01/2026
+2306405   CE           Itapipoca (CE)           2014   Nº 8 - 27/11/2014
+2306504   CE           Itapiúna (CE)            2026   Nº 19 - 26/02/2026
+2306553   CE            Itarema (CE)            2025   Nº 13 - 17/09/2025
+2306603   CE             Itatira (CE)           2025   Nº 17 - 31/12/2025
+2306702   CE         Jaguaretama (CE)           2024   Nº 2 - 08/03/2024
+2306801   CE          Jaguaribara (CE)          2024   Nº 2 - 08/03/2024
+2306900   CE           Jaguaribe (CE)           2020   Nº 2 - 08/07/2020
+2307007   CE          Jaguaruana (CE)           2024   Nº 9 - 20/08/2024
+2307106   CE            Jardim (CE)             2026   Nº 22 - 29/04/2026
+2307205   CE              Jati (CE)             2024   Nº 9 - 20/08/2024
+2307254   CE     Jijoca de Jericoacoara (CE)    2025   Nº 14 - 16/10/2025
+2307304   CE       Juazeiro do Norte (CE)       2024   Nº 2 - 08/03/2024
+2307403   CE             Jucás (CE)             2018   Nº 9 - 18/12/2018
+2307502   CE   Lavras da Mangabeira (CE)   2014   Nº 8 - 27/11/2014
+2307601   CE    Limoeiro do Norte (CE)     2026   Nº 18 - 13/01/2026
+2307635   CE        Madalena (CE)          2026   Nº 26 - 26/07/2026
+2307650   CE       Maracanaú (CE)          2014   Nº 4 - 20/03/2014
+2307700   CE       Maranguape (CE)         2025   Nº 2 - 24/02/2025
+2307809   CE          Marco (CE)           2024   Nº 03 - 05/04/2024
+2307908   CE       Martinópole (CE)        2024   Nº 7 - 21/06/2024
+2308005   CE        Massapê (CE)           2024   Nº 13 - 13/12/2024
+2308104   CE         Mauriti (CE)          2024   Nº 2 - 08/03/2024
+2308203   CE         Meruoca (CE)          2024   Nº 03 - 05/04/2024
+2308302   CE         Milagres (CE)         2024   Nº 7 - 21/06/2024
+2308351   CE          Milhã (CE)           2014   Nº 8 - 27/11/2014
+2308377   CE         Miraíma (CE)          2014   Nº 8 - 27/11/2014
+2308401   CE      Missão Velha (CE)        2016   Nº 4 - 07/06/2016
+2308500   CE        Mombaça (CE)           2025   Nº 14 - 16/10/2025
+2308609   CE    Monsenhor Tabosa (CE)      2018   Nº 4 - 17/04/2018
+2308708   CE      Morada Nova (CE)         2026   Nº 26 - 26/07/2026
+2308807   CE         Moraújo (CE)          2025   Nº 2 - 24/02/2025
+2308906   CE        Morrinhos (CE)         2026   Nº 22 - 29/04/2026
+2309003   CE        Mucambo (CE)           2014   Nº 4 - 20/03/2014
+2309102   CE         Mulungu (CE)          2026   Nº 19 - 26/02/2026
+2309201   CE       Nova Olinda (CE)        2024   Nº 12 - 19/11/2024
+2309300   CE       Nova Russas (CE)        2024   Nº 2 - 08/03/2024
+2309409   CE       Novo Oriente (CE)       2014   Nº 8 - 27/11/2014
+2309458   CE          Ocara (CE)           2026   Nº 18 - 13/01/2026
+2309508   CE          Orós (CE)            2014   Nº 8 - 27/11/2014
+2309607   CE         Pacajus (CE)          2024   Nº 13 - 13/12/2024
+2309706   CE        Pacatuba (CE)          2018   Nº 9 - 18/12/2018
+2309904   CE          Pacujá (CE)          2014   Nº 8 - 27/11/2014
+2310001   CE         Palhano (CE)          2014   Nº 8 - 27/11/2014
+2310258   CE        Paraipaba (CE)         2024   Nº 10 - 30/09/2024
+2310308   CE        Parambu (CE)           2018   Nº 9 - 18/12/2018
+2310407   CE        Paramoti (CE)          2026   Nº 25 - 26/06/2026
+2310506   CE      Pedra Branca (CE)        2026   Nº 23 - 26/05/2026
+2310704   CE       Pentecoste (CE)         2024   Nº 10 - 30/09/2024
+2310803   CE         Pereiro (CE)          2026   Nº 21 - 30/03/2026
+2310852   CE       Pindoretama (CE)        2021   Nº 1 - 12/01/2021
+2310902   CE     Piquet Carneiro (CE)      2014   Nº 8 - 27/11/2014
+2310951   CE      Pires Ferreira (CE)      2025   Nº 13 - 17/09/2025
+2311009   CE         Poranga (CE)          2025   Nº 9 - 30/06/2025
+2311108   CE        Porteiras (CE)         2026   Nº 18 - 13/01/2026
+2311207   CE         Potengi (CE)          2026   Nº 21 - 30/03/2026
+2311264   CE     Quiterianópolis (CE)      2024   Nº 13 - 13/12/2024
+2311306   CE         Quixadá (CE)          2024   Nº 4 - 07/05/2024
+2311355   CE         Quixelô (CE)          2025   Nº 14 - 16/10/2025
+2311405   CE      Quixeramobim (CE)        2026   Nº 22 - 29/04/2026
+2311504   CE         Quixeré (CE)          2026   Nº 18 - 13/01/2026
+2311603   CE          Redenção (CE)           2025   Nº 13 - 17/09/2025
+2311702   CE          Reriutaba (CE)          2025   Nº 13 - 17/09/2025
+2311801   CE           Russas (CE)            2016   Nº 4 - 07/06/2016
+2311900   CE           Saboeiro (CE)          2026   Nº 19 - 26/02/2026
+2311959   CE            Salitre (CE)          2018   Nº 9 - 18/12/2018
+2312007   CE      Santana do Acaraú (CE)      2025   Nº 2 - 24/02/2025
+2312106   CE      Santana do Cariri (CE)      2024   Nº 03 - 05/04/2024
+2312205   CE        Santa Quitéria (CE)       2024   Nº 7 - 21/06/2024
+2312304   CE        São Benedito (CE)         2024   Nº 2 - 08/03/2024
+2312403   CE   São Gonçalo do Amarante (CE)   2017   Nº 2 - 10/02/2017
+2312502   CE    São João do Jaguaribe (CE)    2018   Nº 9 - 18/12/2018
+2312601   CE       São Luís do Curu (CE)      2017   Nº 2 - 10/02/2017
+2312700   CE       Senador Pompeu (CE)        2026   Nº 18 - 13/01/2026
+2312809   CE         Senador Sá (CE)          2024   Nº 03 - 05/04/2024
+2312908   CE            Sobral (CE)           2024   Nº 03 - 05/04/2024
+2313005   CE         Solonópole (CE)          2025   Nº 13 - 17/09/2025
+2313203   CE           Tamboril (CE)          2013   Nº 1 - 20/11/2013
+2313252   CE           Tarrafas (CE)          2026   Nº 18 - 13/01/2026
+2313302   CE             Tauá (CE)            2014   Nº 8 - 27/11/2014
+2313351   CE          Tejuçuoca (CE)          2026   Nº 23 - 26/05/2026
+2313401   CE           Tianguá (CE)           2026   Nº 21 - 30/03/2026
+2313559   CE            Tururu (CE)           2025   Nº 13 - 17/09/2025
+2313609   CE           Ubajara (CE)           2026   Nº 18 - 13/01/2026
+2313708   CE            Umari (CE)            2025   Nº 14 - 16/10/2025
+2313757   CE           Umirim (CE)            2025   Nº 13 - 17/09/2025
+2313807   CE        Uruburetama (CE)          2026   Nº 23 - 26/05/2026
+2313955   CE           Varjota (CE)           2014   Nº 8 - 27/11/2014
+2314003   CE        Várzea Alegre (CE)        2026   Nº 18 - 13/01/2026
+2314102   CE       Viçosa do Ceará (CE)       2025   Nº 13 - 17/09/2025
+3200300   ES        Alfredo Chaves (ES)       2026   Nº 21 - 30/03/2026
+3200805   ES        Baixo Guandu (ES)         2014   Nº 8 - 27/11/2014
+3200904   ES    Barra de São Francisco (ES)   2025   Nº 12 - 03/09/2025
+3201209   ES   Cachoeiro de Itapemirim (ES)   2018   Nº 4 - 17/04/2018
+3201308   ES          Cariacica (ES)          2024   Nº 9 - 20/08/2024
+3202306   ES            Guaçuí (ES)           2024   Nº 12 - 19/11/2024
+3203007   ES             Iúna (ES)            2025   Nº 14 - 16/10/2025
+3203205   ES           Linhares (ES)          2014   Nº 8 - 27/11/2014
+3203403   ES        Mimoso do Sul (ES)        2024   Nº 7 - 21/06/2024
+3203601   ES           Mucurici (ES)          2025   Nº 15 - 31/10/2025
+3203809   ES            Muqui (ES)            2025   Nº 12 - 03/09/2025
+3203908   ES        Nova Venécia (ES)         2014   Nº 4 - 20/03/2014
+3204005   ES           Pancas (ES)            2025   Nº 15 - 31/10/2025
+3204054   ES        Pedro Canário (ES)        2026   Nº 22 - 29/04/2026
+3204252   ES          Ponto Belo (ES)         2026   Nº 22 - 29/04/2026
+3204559   ES     Santa Maria de Jetibá (ES)   2014   Nº 8 - 27/11/2014
+3205002   ES             Serra (ES)           2026   Nº 24 - 02/06/2026
+3205010   ES          Sooretama (ES)          2025   Nº 12 - 03/09/2025
+3205101   ES            Viana (ES)            2025   Nº 2 - 24/02/2025
+3205200   ES          Vila Velha (ES)         2025   Nº 3 - 28/02/2025
+3205309   ES           Vitória (ES)           2014   Nº 4 - 20/03/2014
+5200308   GO          Alexânia (GO)           2026   N° 28 - 26/08/2026
+5201108   GO          Anápolis (GO)           2025   Nº 11 - 15/08/2025
+5201405   GO    Aparecida de Goiânia (GO)     2014   Nº 8 - 27/11/2014
+5204953   GO      Campos Verdes (GO)          2026   Nº 23 - 26/05/2026
+5205109   GO          Catalão (GO)            2026   Nº 18 - 13/01/2026
+5205406   GO           Ceres (GO)             2026   Nº 23 - 26/05/2026
+5205513   GO    Cocalzinho de Goiás (GO)      2024   Nº 2 - 08/03/2024
+5206404   GO           Crixás (GO)            2025   Nº 14 - 16/10/2025
+5207535   GO            Faina (GO)            2026   Nº 23 - 26/05/2026
+5208004   GO          Formosa (GO)            2025   Nº 12 - 03/09/2025
+5208707   GO           Goiânia (GO)           2024   Nº 13 - 13/12/2024
+5210000   GO          Inhumas (GO)            2025   Nº 9 - 30/06/2025
+5211909   GO            Jataí (GO)            2025   Nº 14 - 16/10/2025
+5212204   GO           Jussara (GO)           2016   Nº 1 - 21/03/2016
+5213087   GO           Minaçu (GO)            2013   Nº 1 - 20/11/2013
+5218805   GO          Rio Verde (GO)          2026   Nº 24 - 02/06/2026
+5220603   GO           Silvânia (GO)          2026   N° 28 - 26/08/2026
+2100055   MA            Açailândia            2025   Nº 7 - 28/04/2025
+2100105   MA       Afonso Cunha (MA)          2018   Nº 9 - 18/12/2018
+2100154   MA   Água Doce do Maranhão (MA)     2024   Nº 12 - 19/11/2024
+2100204   MA          Alcântara (MA)          2021   Nº 1 - 12/01/2021
+2100303   MA        Aldeias Altas (MA)        2016   Nº 6 - 28/10/2016
+2100402   MA    Altamira do Maranhão (MA)     2024   Nº 9 - 20/08/2024
+2100436   MA   Alto Alegre do Maranhão (MA)   2025   Nº 7 - 28/04/2025
+2100477   MA    Alto Alegre do Pindaré (MA)   2025   Nº 7 - 28/04/2025
+2100501   MA        Alto Parnaíba (MA)        2014   Nº 8 - 27/11/2014
+2100550   MA    Amapá do Maranhão (MA)        2026   Nº 18 - 13/01/2026
+2100600   MA   Amarante do Maranhão (MA)      2025   Nº 15 - 31/10/2025
+2100709   MA         Anajatuba (MA)           2025   Nº 2 - 24/02/2025
+2100808   MA          Anapurus (MA)           2026   Nº 18 - 13/01/2026
+2100832   MA        Apicum-Açu (MA)           2025   Nº 12 - 03/09/2025
+2100873   MA          Araguanã (MA)           2025   Nº 8 - 30/04/2025
+2100907   MA          Araioses (MA)           2020   Nº 03 - 15/10/2020
+2100956   MA           Arame (MA)             2024   Nº 12 - 19/11/2024
+2101004   MA            Arari (MA)            2020   Nº 03 - 15/10/2020
+2101103   MA            Axixá (MA)            2025   Nº 15 - 31/10/2025
+2101202   MA          Bacabal (MA)            2023   Nº 4 - 21/12/2023
+2101251   MA         Bacabeira (MA)           2025   Nº 9 - 30/06/2025
+2101301   MA           Bacuri (MA)            2025   Nº 9 - 30/06/2025
+2101350   MA         Bacurituba (MA)          2024   Nº 12 - 19/11/2024
+2101400   MA           Balsas (MA)            2020   Nº 2 - 08/07/2020
+2101608   MA       Barra do Corda (MA)        2017   Nº 5 - 11/10/2017
+2101707   MA        Barreirinhas (MA)         2024   Nº 4 - 07/05/2024
+2101731   MA          Belágua (MA)            2020   Nº 03 - 15/10/2020
+2101772   MA    Bela Vista do Maranhão (MA)   2025   Nº 8 - 30/04/2025
+2101806   MA        Benedito Leite (MA)       2025   Nº 14 - 16/10/2025
+2101905   MA          Bequimão (MA)           2018   Nº 8 - 19/11/2018
+2101939   MA     Bernardo do Mearim (MA)      2026   Nº 22 - 29/04/2026
+2101970   MA     Boa Vista do Gurupi (MA)     2024   Nº 9 - 20/08/2024
+2102002   MA         Bom Jardim (MA)          2025   Nº 9 - 30/06/2025
+2102036   MA     Bom Jesus das Selvas (MA)    2014   Nº 8 - 27/11/2014
+2102077   MA          Bom Lugar (MA)          2026   Nº 22 - 29/04/2026
+2102101   MA            Brejo (MA)            2025   Nº 13 - 17/09/2025
+2102150   MA        Brejo de Areia (MA)       2025   Nº 7 - 28/04/2025
+2102200   MA            Buriti (MA)           2025   Nº 7 - 28/04/2025
+2102309   MA         Buriti Bravo (MA)        2017   Nº 4 - 10/07/2017
+2102325   MA          Buriticupu (MA)         2014   Nº 8 - 27/11/2014
+2102358   MA          Buritirana (MA)         2023   Nº 4 - 21/12/2023
+2102408   MA           Cajapió (MA)           2024   Nº 9 - 20/08/2024
+2102507   MA            Cajari (MA)           2026   Nº 22 - 29/04/2026
+2102606   MA       Cândido Mendes (MA)        2013   Nº 1 - 20/11/2013
+2102705   MA         Cantanhede (MA)          2024   Nº 2 - 08/03/2024
+2102754   MA      Capinzal do Norte (MA)      2024   Nº 4 - 07/05/2024
+2102804   MA           Carolina (MA)          2025   Nº 13 - 17/09/2025
+2102903   MA         Carutapera (MA)          2026   Nº 18 - 13/01/2026
+2103000   MA           Caxias (MA)            2017   Nº 5 - 11/10/2017
+2103109   MA           Cedral (MA)            2025   Nº 9 - 30/06/2025
+2103125   MA     Central do Maranhão (MA)     2025   Nº 13 - 17/09/2025
+2103158   MA     Centro do Guilherme (MA)     2020   Nº 03 - 15/10/2020
+2103174   MA   Centro Novo do Maranhão (MA)   2024   Nº 9 - 20/08/2024
+2103208   MA         Chapadinha (MA)          2024   Nº 03 - 05/04/2024
+2103257   MA          Cidelândia (MA)         2024   Nº 7 - 21/06/2024
+2103307   MA            Codó (MA)             2017   Nº 5 - 11/10/2017
+2103406   MA         Coelho Neto (MA)         2026   Nº 23 - 26/05/2026
+2103505   MA           Colinas (MA)           2018   Nº 4 - 17/04/2018
+2103554   MA    Conceição do Lago-Açu (MA)    2021   Nº 1 - 12/01/2021
+2103604   MA           Coroatá (MA)           2024   Nº 10 - 30/09/2024
+2103703   MA          Cururupu (MA)           2024   Nº 7 - 21/06/2024
+2103752   MA         Davinópolis (MA)         2016   Nº 3 - 20/05/2016
+2103802   MA         Dom Pedro (MA)           2024   Nº 03 - 05/04/2024
+2103901   MA        Duque Bacelar (MA)        2024   Nº 7 - 21/06/2024
+2104008   MA       Esperantinópolis (MA)      2024   Nº 10 - 30/09/2024
+2104057   MA           Estreito (MA)          2018   Nº 8 - 19/11/2018
+2104073   MA   Feira Nova do Maranhão (MA)    2025   Nº 9 - 30/06/2025
+2104081   MA       Fernando Falcão (MA)       2017   Nº 5 - 11/10/2017
+2104099   MA   Formosa da Serra Negra (MA)    2016   Nº 6 - 28/10/2016
+2104107   MA   Fortaleza dos Nogueiras (MA)   2017   Nº 5 - 11/10/2017
+2104206   MA           Fortuna (MA)           2024   Nº 7 - 21/06/2024
+2104305   MA       Godofredo Viana (MA)       2025   Nº 12 - 03/09/2025
+2104404   MA       Gonçalves Dias (MA)        2025   Nº 15 - 31/10/2025
+2104552   MA   Governador Edison Lobão (MA)   2023   Nº 4 - 21/12/2023
+2104628   MA    Governador Luiz Rocha (MA)     2024   Nº 12 - 19/11/2024
+2104651   MA   Governador Newton Bello (MA)    2020   Nº 2 - 08/07/2020
+2104677   MA    Governador Nunes Freire (MA)   2023   Nº 4 - 21/12/2023
+2104701   MA         Graça Aranha (MA)         2024   Nº 10 - 30/09/2024
+2104800   MA            Grajaú (MA)            2018   Nº 8 - 19/11/2018
+2104909   MA          Guimarães (MA)           2024   Nº 7 - 21/06/2024
+2105005   MA     Humberto de Campos (MA)       2023   Nº 4 - 21/12/2023
+2105104   MA             Icatu (MA)            2025   Nº 13 - 17/09/2025
+2105153   MA        Igarapé do Meio (MA)       2021   Nº 1 - 12/01/2021
+2105203   MA        Igarapé Grande (MA)        2024   Nº 9 - 20/08/2024
+2105302   MA          Imperatriz (MA)          2016   Nº 5 - 03/08/2016
+2105351   MA       Itaipava do Grajaú (MA)     2022   Nº 1 - 24/02/2022
+2105401   MA        Itapecuru Mirim (MA)       2024   Nº 7 - 21/06/2024
+2105427   MA      Itinga do Maranhão (MA)      2024   Nº 03 - 05/04/2024
+2105450   MA            Jatobá (MA)            2025   Nº 12 - 03/09/2025
+2105476   MA      Jenipapo dos Vieiras (MA)    2017   Nº 5 - 11/10/2017
+2105500   MA          João Lisboa (MA)         2026   Nº 18 - 13/01/2026
+2105609   MA          Joselândia (MA)          2016   Nº 3 - 20/05/2016
+2105658   MA      Junco do Maranhão (MA)       2020   Nº 03 - 15/10/2020
+2105708   MA         Lago da Pedra (MA)        2024   Nº 03 - 05/04/2024
+2105807   MA         Lago do Junco (MA)        2020   Nº 03 - 15/10/2020
+2105906   MA          Lago Verde (MA)          2026   Nº 18 - 13/01/2026
+2105922   MA        Lagoa do Mato (MA)         2018   Nº 8 - 19/11/2018
+2105948   MA      Lago dos Rodrigues (MA)      2020   Nº 03 - 15/10/2020
+2105963   MA   Lagoa Grande do Maranhão (MA)   2020   Nº 03 - 15/10/2020
+2105989   MA         Lajeado Novo (MA)         2025   Nº 12 - 03/09/2025
+2106003   MA         Lima Campos (MA)          2020   Nº 2 - 08/07/2020
+2106102   MA            Loreto (MA)            2024   Nº 10 - 30/09/2024
+2106201   MA        Luís Domingues (MA)        2025   Nº 9 - 30/06/2025
+2106300   MA     Magalhães de Almeida (MA)     2024   Nº 4 - 07/05/2024
+2106326   MA         Maracaçumé (MA)           2018   Nº 4 - 17/04/2018
+2106359   MA        Marajá do Sena (MA)        2016   Nº 5 - 03/08/2016
+2106375   MA        Maranhãozinho (MA)         2021   Nº 2 - 25/11/2021
+2106409   MA          Mata Roma (MA)           2026   Nº 18 - 13/01/2026
+2106508   MA            Matinha (MA)           2018   Nº 8 - 19/11/2018
+2106607   MA            Matões (MA)            2020   Nº 03 - 15/10/2020
+2106631   MA       Matões do Norte (MA)        2016   Nº 3 - 20/05/2016
+2106672   MA     Milagres do Maranhão (MA)     2020   Nº 2 - 08/07/2020
+2106706   MA            Mirador (MA)           2017   Nº 5 - 11/10/2017
+2106755   MA       Miranda do Norte (MA)       2025   Nº 9 - 30/06/2025
+2106805   MA            Mirinzal (MA)          2024   Nº 4 - 07/05/2024
+2107001   MA         Montes Altos (MA)         2025   Nº 7 - 28/04/2025
+2107100   MA            Morros (MA)            2025   Nº 15 - 31/10/2025
+2107209   MA        Nina Rodrigues (MA)        2024   Nº 03 - 05/04/2024
+2107258   MA         Nova Colinas (MA)         2022   Nº 1 - 24/02/2022
+2107308   MA          Nova Iorque (MA)         2018   Nº 9 - 18/12/2018
+2107357   MA   Nova Olinda do Maranhão (MA)    2025   Nº 2 - 24/02/2025
+2107407   MA     Olho d'Água das Cunhãs (MA)     2025   Nº 9 - 30/06/2025
+2107456   MA    Olinda Nova do Maranhão (MA)     2018   Nº 4 - 17/04/2018
+2107506   MA         Paço do Lumiar (MA)         2016   Nº 5 - 03/08/2016
+2107605   MA          Palmeirândia (MA)          2024   Nº 6 - 29/05/2024
+2107704   MA           Paraibano (MA)            2024   Nº 12 - 19/11/2024
+2107803   MA           Parnarama (MA)            2017   Nº 5 - 11/10/2017
+2107902   MA        Passagem Franca (MA)         2020   Nº 2 - 08/07/2020
+2108009   MA          Pastos Bons (MA)           2017   Nº 5 - 11/10/2017
+2108058   MA         Paulino Neves (MA)          2024   Nº 03 - 05/04/2024
+2108108   MA          Paulo Ramos (MA)           2024   Nº 4 - 07/05/2024
+2108207   MA            Pedreiras (MA)           2024   Nº 9 - 20/08/2024
+2108256   MA        Pedro do Rosário (MA)        2020   Nº 03 - 15/10/2020
+2108306   MA            Penalva (MA)             2025   Nº 7 - 28/04/2025
+2108454   MA            Peritoró (MA)            2017   Nº 5 - 11/10/2017
+2108504   MA         Pindaré-Mirim (MA)          2018   Nº 8 - 19/11/2018
+2108603   MA            Pinheiro (MA)            2024   Nº 03 - 05/04/2024
+2108702   MA             Pio XII (MA)            2016   Nº 3 - 20/05/2016
+2108801   MA           Pirapemas (MA)            2025   Nº 9 - 30/06/2025
+2108900   MA        Poção de Pedras (MA)         2026   Nº 22 - 29/04/2026
+2109007   MA          Porto Franco (MA)          2024   Nº 12 - 19/11/2024
+2109106   MA        Presidente Dutra (MA)        2024   Nº 12 - 19/11/2024
+2109205   MA      Presidente Juscelino (MA)      2024   Nº 9 - 20/08/2024
+2109239   MA        Presidente Médici (MA)       2024   Nº 03 - 05/04/2024
+2109270   MA        Presidente Sarney (MA)       2024   Nº 9 - 20/08/2024
+2109304   MA        Presidente Vargas (MA)       2026   Nº 23 - 26/05/2026
+2109403   MA          Primeira Cruz (MA)         2024   Nº 7 - 21/06/2024
+2109452   MA             Raposa (MA)             2016   Nº 6 - 28/10/2016
+2109502   MA            Riachão (MA)             2025   Nº 12 - 03/09/2025
+2109601   MA            Rosário (MA)             2024   Nº 2 - 08/03/2024
+2109700   MA           Sambaíba (MA)             2024   Nº 4 - 07/05/2024
+2109759   MA   Santa Filomena do Maranhão (MA)   2018   Nº 4 - 17/04/2018
+2109809   MA          Santa Helena (MA)          2018   Nº 8 - 19/11/2018
+2109908   MA           Santa Inês (MA)           2016   Nº 6 - 28/10/2016
+2110005   MA           Santa Luzia (MA)          2025   Nº 8 - 30/04/2025
+2110039   MA      Santa Luzia do Paruá (MA)      2024   Nº 2 - 08/03/2024
+2110104   MA   Santa Quitéria do Maranhão (MA)   2024   Nº 7 - 21/06/2024
+2110203   MA           Santa Rita (MA)           2025   Nº 8 - 30/04/2025
+2110237   MA      Santana do Maranhão (MA)       2023   Nº 1 - 30/06/2023
+2110278   MA    Santo Amaro do Maranhão (MA)     2025   Nº 9 - 30/06/2025
+2110302   MA    Santo Antônio dos Lopes (MA)     2025   Nº 9 - 30/06/2025
+2110401   MA    São Benedito do Rio Preto (MA)   2025   Nº 9 - 30/06/2025
+2110500   MA           São Bento (MA)            2023   Nº 4 - 21/12/2023
+2110609   MA          São Bernardo (MA)          2026   Nº 21 - 30/03/2026
+2110658   MA    São Domingos do Azeitão (MA)     2025   Nº 13 - 17/09/2025
+2110708   MA   São Domingos do Maranhão (MA)     2018   Nº 9 - 18/12/2018
+2110807   MA       São Félix de Balsas (MA)      2024   Nº 10 - 30/09/2024
+2110856   MA     São Francisco do Brejão (MA)    2023   Nº 1 - 30/06/2023
+2110906   MA    São Francisco do Maranhão (MA)     2020   Nº 03 - 15/10/2020
+2111003   MA          São João Batista (MA)        2025   Nº 9 - 30/06/2025
+2111029   MA         São João do Carú (MA)         2021   Nº 1 - 12/01/2021
+2111078   MA         São João do Soter (MA)        2016   Nº 6 - 28/10/2016
+2111201   MA        São José de Ribamar (MA)       2024   Nº 2 - 08/03/2024
+2111250   MA       São José dos Basílios (MA)      2025   Nº 13 - 17/09/2025
+2111300   MA              São Luís (MA)            2014   Nº 4 - 20/03/2014
+2111508   MA     São Mateus do Maranhão (MA)       2018   Nº 8 - 19/11/2018
+2111532   MA     São Pedro da Água Branca (MA)     2025   Nº 8 - 30/04/2025
+2111573   MA       São Pedro dos Crentes (MA)      2016   Nº 5 - 03/08/2016
+2111607   MA   São Raimundo das Mangabeiras (MA)   2018   Nº 9 - 18/12/2018
+2111631   MA   São Raimundo do Doca Bezerra (MA)   2025   Nº 8 - 30/04/2025
+2111672   MA            São Roberto (MA)           2021   Nº 1 - 12/01/2021
+2111706   MA         São Vicente Ferrer (MA)       2024   Nº 9 - 20/08/2024
+2111722   MA             Satubinha (MA)            2020   Nº 03 - 15/10/2020
+2111763   MA        Senador La Rocque (MA)         2018   Nº 8 - 19/11/2018
+2111789   MA       Serrano do Maranhão (MA)        2020   Nº 03 - 15/10/2020
+2111805   MA             Sítio Novo (MA)           2025   Nº 2 - 24/02/2025
+2111904   MA         Sucupira do Norte (MA)        2024   Nº 03 - 05/04/2024
+2111953   MA        Sucupira do Riachão (MA)       2026   Nº 22 - 29/04/2026
+2112100   MA              Timbiras (MA)            2023   Nº 4 - 21/12/2023
+2112209   MA               Timon (MA)              2014   Nº 8 - 27/11/2014
+2112233   MA          Trizidela do Vale (MA)       2025   Nº 7 - 28/04/2025
+2112274   MA             Tufilândia (MA)           2017   Nº 5 - 11/10/2017
+2112308   MA              Tuntum (MA)              2024   Nº 2 - 08/03/2024
+2112407   MA              Turiaçu (MA)             2026   Nº 23 - 26/05/2026
+2112456   MA             Turilândia (MA)           2025   Nº 15 - 31/10/2025
+2112506   MA               Tutóia (MA)             2016   Nº 6 - 28/10/2016
+2112704   MA          Vargem Grande (MA)           2017   Nº 5 - 11/10/2017
+2112803   MA               Viana (MA)              2018   Nº 8 - 19/11/2018
+2112852   MA       Vila Nova dos Martírios (MA)    2025   Nº 7 - 28/04/2025
+2112902   MA         Vitória do Mearim (MA)        2025   Nº 2 - 24/02/2025
+2113009   MA           Vitorino Freire (MA)        2024   Nº 03 - 05/04/2024
+2114007   MA              Zé Doca (MA)             2024   Nº 13 - 13/12/2024
+3100203   MG              Abaeté (MG)              2024   Nº 8 - 03/07/2024
+3100302   MG            Abre Campo (MG)            2025   Nº 2 - 24/02/2025
+3100401   MG              Acaiaca (MG)             2025   Nº 2 - 24/02/2025
+3100500   MG             Açucena (MG)              2024   Nº 2 - 08/03/2024
+3100609   MG             Água Boa (MG)             2024   Nº 7 - 21/06/2024
+3100906   MG          Águas Formosas (MG)          2025   Nº 9 - 30/06/2025
+3101706   MG             Almenara (MG)             2024   Nº 7 - 21/06/2024
+3101904   MG            Alpinópolis (MG)           2026   Nº 26 - 26/07/2026
+3102209   MG             Alvarenga (MG)            2023   Nº 1 - 30/06/2023
+3102704   MG        Cachoeira de Pajeú (MG)        2024   Nº 10 - 30/09/2024
+3102852   MG            Angelândia (MG)            2024   Nº 2 - 08/03/2024
+3103504   MG              Araguari (MG)            2025   Nº 2 - 24/02/2025
+3103702   MG             Araponga (MG)             2025   Nº 13 - 17/09/2025
+3104205   MG          Arcos (MG)            2025   Nº 8 - 30/04/2025
+3104304   MG          Areado (MG)           2025   Nº 2 - 24/02/2025
+3104403   MG          Argirita (MG)         2026   Nº 22 - 29/04/2026
+3104452   MG        Aricanduva (MG)         2025   Nº 2 - 24/02/2025
+3105202   MG         Bandeira (MG)          2024   Nº 9 - 20/08/2024
+3106200   MG      Belo Horizonte (MG)       2017   Nº 2 - 10/02/2017
+3106507   MG          Berilo (MG)           2025   Nº 2 - 24/02/2025
+3106705   MG          Betim (MG)            2026   Nº 26 - 26/07/2026
+3107000   MG         Biquinhas (MG)         2024   Nº 6 - 29/05/2024
+3107109   MG      Boa Esperança (MG)        2025   Nº 14 - 16/10/2025
+3107307   MG         Bocaiúva (MG)          2024   Nº 2 - 08/03/2024
+3107406   MG      Bom Despacho (MG)         2026   Nº 22 - 29/04/2026
+3107802   MG    Bom Jesus do Galho (MG)     2025   Nº 2 - 24/02/2025
+3108206   MG   Bonfinópolis de Minas (MG)   2025   Nº 2 - 24/02/2025
+3108255   MG      Bonito de Minas (MG)      2025   Nº 2 - 24/02/2025
+3108503   MG        Botumirim (MG)          2026   Nº 22 - 29/04/2026
+3108602   MG     Brasília de Minas (MG)     2025   Nº 8 - 30/04/2025
+3109006   MG       Brumadinho (MG)          2024   Nº 6 - 29/05/2024
+3109253   MG          Bugre (MG)            2021   Nº 2 - 25/11/2021
+3109303   MG          Buritis (MG)          2026   Nº 23 - 26/05/2026
+3109402   MG        Buritizeiro (MG)        2025   Nº 7 - 28/04/2025
+3109501   MG        Cabo Verde (MG)         2026   Nº 26 - 26/07/2026
+3110806   MG       Campanário (MG)          2026   N° 28 - 26/08/2026
+3111002   MG        Campestre (MG)          2026   Nº 23 - 26/05/2026
+3111150   MG        Campo Azul (MG)         2026   N° 27 - 04/08/2026
+3111200   MG       Campo Belo (MG)          2026   Nº 23 - 26/05/2026
+3111309   MG      Campo do Meio (MG)        2025   Nº 2 - 24/02/2025
+3112307   MG        Capelinha (MG)          2024   Nº 2 - 08/03/2024
+3112653   MG     Capitão Andrade (MG)       2026   Nº 22 - 29/04/2026
+3112703   MG      Capitão Enéas (MG)        2026   Nº 23 - 26/05/2026
+3113008   MG           Caraí (MG)           2024   Nº 2 - 08/03/2024
+3113305   MG        Carangola (MG)          2024   Nº 10 - 30/09/2024
+3113404   MG         Caratinga (MG)         2017   Nº 2 - 10/02/2017
+3113503   MG         Carbonita (MG)         2024   Nº 6 - 29/05/2024
+3113800   MG         Carmésia (MG)          2025   Nº 2 - 24/02/2025
+3114501   MG   Carmópolis de Minas (MG)     2024   Nº 2 - 08/03/2024
+3115102   MG          Cássia (MG)           2025   Nº 17 - 31/12/2025
+3115458   MG          Catuji (MG)           2024   Nº 2 - 08/03/2024
+3115474   MG          Catuti (MG)           2025   Nº 2 - 24/02/2025
+3116001   MG          Chalé (MG)            2026   Nº 22 - 29/04/2026
+3116100   MG     Chapada do Norte (MG)      2024   Nº 12 - 19/11/2024
+3116159   MG     Chapada Gaúcha (MG)        2025   Nº 7 - 28/04/2025
+3116308   MG        Cipotânea (MG)          2025   Nº 7 - 28/04/2025
+3116803   MG          Coluna (MG)           2026   Nº 22 - 29/04/2026
+3117009   MG       Comercinho (MG)          2024   Nº 10 - 30/09/2024
+3117306   MG   Conceição das Alagoas (MG)   2026   N° 27 - 04/08/2026
+3117405   MG   Conceição de Ipanema (MG)    2025   Nº 17 - 31/12/2025
+3117504   MG   Conceição do Mato Dentro (MG)   2026   N° 28 - 26/08/2026
+3118403   MG       Conselheiro Pena (MG)       2021   Nº 2 - 25/11/2021
+3118601   MG          Contagem (MG)            2014   Nº 4 - 20/03/2014
+3119401   MG      Coronel Fabriciano (MG)      2022   Nº 1 - 24/02/2022
+3119500   MG        Coronel Murta (MG)         2024   Nº 12 - 19/11/2024
+3120003   MG        Córrego Novo (MG)          2021   Nº 2 - 25/11/2021
+3120151   MG           Crisólita (MG)          2025   Nº 2 - 24/02/2025
+3120870   MG       Curral de Dentro (MG)       2025   Nº 13 - 17/09/2025
+3121605   MG         Diamantina (MG)           2024   Nº 5 - 09/05/2024
+3121803   MG           Dionísio (MG)           2026   Nº 26 - 26/07/2026
+3122207   MG     Divinolândia de Minas (MG)    2025   Nº 13 - 17/09/2025
+3122306   MG          Divinópolis (MG)         2022   Nº 2 - 05/05/2022
+3122504   MG         Dom Cavati (MG)           2025   Nº 8 - 30/04/2025
+3122603   MG        Dom Joaquim (MG)           2025   Nº 2 - 24/02/2025
+3123106   MG      Dores de Guanhães (MG)       2026   N° 28 - 26/08/2026
+3123304   MG        Dores do Turvo (MG)        2026   Nº 26 - 26/07/2026
+3123528   MG           Durandé (MG)            2025   Nº 9 - 30/06/2025
+3123700   MG      Engenheiro Caldas (MG)       2022   Nº 4 - 20/07/2022
+3123809   MG      Engenheiro Navarro (MG)      2024   Nº 9 - 20/08/2024
+3123858   MG         Entre Folhas (MG)         2024   Nº 2 - 08/03/2024
+3125408   MG      Felício dos Santos (MG)      2025   Nº 9 - 30/06/2025
+3125507   MG   São Gonçalo do Rio Preto (MG)   2024   Nº 8 - 03/07/2024
+3125606   MG          Felisburgo (MG)          2025   Nº 7 - 28/04/2025
+3125952   MG          Fervedouro (MG)          2026   Nº 26 - 26/07/2026
+3126109   MG           Formiga (MG)            2021   Nº 2 - 25/11/2021
+3126208   MG           Formoso (MG)            2025   Nº 2 - 24/02/2025
+3126505   MG       Francisco Badaró (MG)       2025   Nº 14 - 16/10/2025
+3126802   MG         Frei Gaspar (MG)          2024   Nº 8 - 03/07/2024
+3126950   MG        Frei Lagonegro (MG)        2024   Nº 2 - 08/03/2024
+3127073   MG        Fruta de Leite (MG)        2024   Nº 2 - 08/03/2024
+3127339   MG         Gameleiras (MG)           2024   Nº 4 - 07/05/2024
+3127354   MG         Glaucilândia (MG)         2024   Nº 9 - 20/08/2024
+3127503   MG           Gonzaga (MG)            2024   Nº 6 - 29/05/2024
+3127701   MG     Governador Valadares (MG)     2022   Nº 5 - 09/09/2022
+3128006   MG          Guanhães (MG)            2025   Nº 2 - 24/02/2025
+3128204   MG         Guaraciaba (MG)           2024   Nº 10 - 30/09/2024
+3128253   MG         Guaraciama (MG)           2024   Nº 4 - 07/05/2024
+3128709   MG           Guaxupé (MG)            2024   Nº 9 - 20/08/2024
+3129004   MG          Guiricema (MG)           2026   N° 27 - 04/08/2026
+3129301   MG             Iapu (MG)             2021   Nº 2 - 25/11/2021
+3129657   MG           Ibiracatu (MG)          2026   Nº 22 - 29/04/2026
+3130101   MG           Igarapé (MG)            2024   Nº 9 - 20/08/2024
+3130556   MG        Imbé de Minas (MG)         2022   Nº 2 - 05/05/2022
+3130655   MG          Indaiabira (MG)          2024   Nº 10 - 30/09/2024
+3130903   MG           Inhapim (MG)            2022   Nº 3 - 30/06/2022
+3131158   MG            Ipaba (MG)             2021   Nº 2 - 25/11/2021
+3131307   MG           Ipatinga (MG)           2023   Nº 4 - 21/12/2023
+3131703   MG           Itabira (MG)           2022   Nº 4 - 20/07/2022
+3132107   MG         Itacarambi (MG)          2024   Nº 8 - 03/07/2024
+3132206   MG          Itaguara (MG)           2026   Nº 22 - 29/04/2026
+3132305   MG           Itaipé (MG)            2024   Nº 12 - 19/11/2024
+3132503   MG        Itamarandiba (MG)         2025   Nº 2 - 24/02/2025
+3132602   MG     Itamarati de Minas (MG)      2025   Nº 7 - 28/04/2025
+3132701   MG         Itambacuri (MG)          2025   Nº 17 - 31/12/2025
+3133303   MG          Itaobim (MG)            2024   Nº 12 - 19/11/2024
+3134004   MG           Itinga (MG)            2025   Nº 2 - 24/02/2025
+3134103   MG           Itueta (MG)            2026   Nº 23 - 26/05/2026
+3134608   MG        Jaboticatubas (MG)        2026   Nº 22 - 29/04/2026
+3134707   MG           Jacinto (MG)           2025   Nº 9 - 30/06/2025
+3135050   MG            Jaíba (MG)            2024   Nº 03 - 05/04/2024
+3135076   MG         Jampruca (MG)            2025   Nº 5 - 25/03/2025
+3135100   MG          Janaúba (MG)            2025   Nº 9 - 30/06/2025
+3135209   MG          Januária (MG)           2026   N° 27 - 04/08/2026
+3135357   MG          Japonvar (MG)           2024   Nº 4 - 07/05/2024
+3135456   MG     Jenipapo de Minas (MG)       2026   Nº 23 - 26/05/2026
+3135506   MG           Jequeri (MG)           2026   Nº 26 - 26/07/2026
+3135803   MG        Jequitinhonha (MG)        2017   Nº 2 - 10/02/2017
+3136009   MG           Joaíma (MG)            2024   Nº 5 - 09/05/2024
+3136504   MG          Jordânia (MG)           2024   Nº 12 - 19/11/2024
+3136520   MG   José Gonçalves de Minas (MG)   2026   Nº 26 - 26/07/2026
+3136553   MG        José Raydan (MG)          2022   Nº 4 - 20/07/2022
+3136579   MG         Josenópolis (MG)         2024   Nº 2 - 08/03/2024
+3136702   MG         Juiz de Fora (MG)        2017   Nº 5 - 11/10/2017
+3137007   MG          Ladainha (MG)           2024   Nº 4 - 07/05/2024
+3138203   MG           Lavras (MG)            2026   Nº 22 - 29/04/2026
+3138351   MG       Leme do Prado (MG)         2026   N° 27 - 04/08/2026
+3138658   MG           Lontra (MG)            2024   Nº 9 - 20/08/2024
+3138682   MG         Luislândia (MG)          2024   Nº 9 - 20/08/2024
+3138906   MG         Machacalis (MG)          2025   Nº 13 - 17/09/2025
+3139201   MG        Malacacheta (MG)          2025   Nº 2 - 24/02/2025
+3139300   MG           Manga (MG)             2025   Nº 17 - 31/12/2025
+3139409   MG         Manhuaçu (MG)            2021   Nº 2 - 25/11/2021
+3140001   MG          Mariana (MG)            2026   N° 27 - 04/08/2026
+3140506   MG      Martinho Campos (MG)        2026   N° 28 - 26/08/2026
+3140555   MG         Mata Verde (MG)          2026   Nº 23 - 26/05/2026
+3141702   MG          Mesquita (MG)           2023   Nº 4 - 21/12/2023
+3141801   MG        Minas Novas (MG)          2025   Nº 9 - 30/06/2025
+3142007   MG          Mirabela (MG)           2024   Nº 8 - 03/07/2024
+3142106   MG         Miradouro (MG)           2025   Nº 5 - 25/03/2025
+3142700   MG        Montalvânia (MG)          2026   N° 28 - 26/08/2026
+3142908   MG         Monte Azul (MG)          2025   Nº 2 - 24/02/2025
+3143450   MG         Montezuma (MG)           2025   Nº 14 - 16/10/2025
+3143906   MG           Muriaé (MG)            2025   Nº 15 - 31/10/2025
+3144656   MG          Ninheira (MG)           2025   Nº 17 - 31/12/2025
+3144672   MG        Nova Belém (MG)           2026   Nº 22 - 29/04/2026
+3144904   MG        Nova Módica (MG)          2025   Nº 13 - 17/09/2025
+3145059   MG      Nova Porteirinha (MG)       2025   Nº 13 - 17/09/2025
+3145307   MG       Novo Cruzeiro (MG)         2024   Nº 2 - 08/03/2024
+3145356   MG   Novo Oriente de Minas (MG)     2024   Nº 9 - 20/08/2024
+3145455   MG        Olhos-d'Água (MG)         2024   Nº 2 - 08/03/2024
+3145851   MG         Oratórios (MG)           2026   Nº 26 - 26/07/2026
+3146107   MG         Ouro Preto (MG)          2025   Nº 2 - 24/02/2025
+3146206   MG    Ouro Verde de Minas (MG)      2024   Nº 2 - 08/03/2024
+3146255   MG       Padre Carvalho (MG)        2026   Nº 26 - 26/07/2026
+3146552   MG         Pai Pedro (MG)           2025   Nº 2 - 24/02/2025
+3147006   MG          Paracatu (MG)           2024   Nº 2 - 08/03/2024
+3147204   MG         Paraguaçu (MG)           2025   Nº 2 - 24/02/2025
+3147907   MG           Passos (MG)            2024   Nº 13 - 13/12/2024
+3148301   MG       Paula Cândido (MG)         2025   Nº 9 - 30/06/2025
+3148608   MG          Peçanha (MG)            2022   Nº 4 - 20/07/2022
+3148707   MG         Pedra Azul (MG)          2025   Nº 13 - 17/09/2025
+3148806   MG       Pedra do Anta (MG)         2026   Nº 22 - 29/04/2026
+3149150   MG   Pedras de Maria da Cruz (MG)   2026   Nº 22 - 29/04/2026
+3149903   MG          Perdões (MG)            2025   Nº 14 - 16/10/2025
+3149952   MG          Periquito (MG)          2026   N° 28 - 26/08/2026
+3150000   MG         Pescador (MG)            2025   Nº 9 - 30/06/2025
+3150158   MG    Piedade de Caratinga (MG)     2021   Nº 2 - 25/11/2021
+3150539   MG        Pingo-d'Água (MG)         2021   Nº 2 - 25/11/2021
+3150570   MG         Pintópolis (MG)          2025   Nº 14 - 16/10/2025
+3151206   MG          Pirapora (MG)           2026   N° 28 - 26/08/2026
+3151503   MG           Piumhi (MG)            2023   Nº 4 - 21/12/2023
+3151800   MG      Poços de Caldas (MG)        2014   Nº 4 - 20/03/2014
+3151909   MG          Pocrane (MG)            2025   Nº 9 - 30/06/2025
+3152006   MG          Pompéu (MG)             2024   Nº 2 - 08/03/2024
+3152105   MG         Ponte Nova (MG)          2025   Nº 9 - 30/06/2025
+3152131   MG        Ponto Chique (MG)         2024   Nº 8 - 03/07/2024
+3152204   MG         Porteirinha (MG)         2024   Nº 9 - 20/08/2024
+3153301   MG   Presidente Kubitschek (MG)     2025   Nº 2 - 24/02/2025
+3154002   MG        Raul Soares (MG)          2024   Nº 6 - 29/05/2024
+3154309   MG         Resplendor (MG)          2025   Nº 9 - 30/06/2025
+3154606   MG     Ribeirão das Neves (MG)      2017   Nº 2 - 10/02/2017
+3154903   MG         Rio Casca (MG)           2025   Nº 14 - 16/10/2025
+3155009   MG          Rio Doce (MG)           2026   N° 27 - 04/08/2026
+3155108   MG        Rio do Prado (MG)         2025   Nº 9 - 30/06/2025
+3155603   MG     Rio Pardo de Minas (MG)      2025   Nº 8 - 30/04/2025
+3156007   MG        Rio Vermelho (MG)         2024   Nº 12 - 19/11/2024
+3156502   MG          Rubelita (MG)           2025   Nº 13 - 17/09/2025
+3156601   MG           Rubim (MG)             2024   Nº 8 - 03/07/2024
+3156700   MG           Sabará (MG)            2026   Nº 23 - 26/05/2026
+3156809   MG        Sabinópolis (MG)          2026   Nº 23 - 26/05/2026
+3156908   MG        Sacramento (MG)           2026   Nº 26 - 26/07/2026
+3157005   MG             Salinas (MG)             2024   Nº 9 - 20/08/2024
+3157377   MG      Santa Cruz de Salinas (MG)      2025   Nº 9 - 30/06/2025
+3157658   MG      Santa Helena de Minas (MG)      2025   Nº 13 - 17/09/2025
+3157807   MG           Santa Luzia (MG)           2025   Nº 9 - 30/06/2025
+3158102   MG       Santa Maria do Salto (MG)      2025   Nº 7 - 28/04/2025
+3158201   MG      Santa Maria do Suaçuí (MG)      2022   Nº 7 - 29/11/2022
+3158904   MG      Santana do Manhuaçu (MG)        2026   Nº 23 - 26/05/2026
+3158953   MG       Santana do Paraíso (MG)        2021   Nº 2 - 25/11/2021
+3159001   MG        Santana do Riacho (MG)        2024   Nº 7 - 21/06/2024
+3159357   MG       Santa Rita de Minas (MG)       2024   Nº 9 - 20/08/2024
+3159506   MG       Santa Rita do Itueto (MG)      2026   Nº 26 - 26/07/2026
+3159605   MG      Santa Rita do Sapucaí (MG)      2026   Nº 23 - 26/05/2026
+3159902   MG     Santo Antônio do Amparo (MG)     2026   Nº 23 - 26/05/2026
+3160207   MG     Santo Antônio do Itambé (MG)     2024   Nº 10 - 30/09/2024
+3160306   MG     Santo Antônio do Jacinto (MG)    2025   Nº 9 - 30/06/2025
+3160959   MG     São Domingos das Dores (MG)      2024   Nº 2 - 08/03/2024
+3161056   MG        São Félix de Minas (MG)       2025   Nº 9 - 30/06/2025
+3161601   MG     São Geraldo da Piedade (MG)      2026   Nº 22 - 29/04/2026
+3162104   MG           São Gotardo (MG)           2025   Nº 9 - 30/06/2025
+3162401   MG        São João da Ponte (MG)        2024   Nº 03 - 05/04/2024
+3162450   MG      São João das Missões (MG)       2024   Nº 13 - 13/12/2024
+3162500   MG         São João del Rei (MG)        2024   Nº 8 - 03/07/2024
+3162609   MG       São João do Oriente (MG)       2024   Nº 9 - 20/08/2024
+3162708   MG       São João do Paraíso (MG)       2024   Nº 9 - 20/08/2024
+3163508   MG        São José do Jacuri (MG)       2024   Nº 12 - 19/11/2024
+3164001   MG       São Pedro dos Ferros (MG)      2025   Nº 7 - 28/04/2025
+3164100   MG       São Pedro do Suaçuí (MG)       2026   Nº 26 - 26/07/2026
+3164209   MG           São Romão (MG)             2024   Nº 8 - 03/07/2024
+3164472   MG      São Sebastião do Anta (MG)      2022   Nº 4 - 20/07/2022
+3164506   MG    São Sebastião do Maranhão (MG)    2025   Nº 14 - 16/10/2025
+3165503   MG             Sardoá (MG)              2026   N° 28 - 26/08/2026
+3165552   MG            Setubinha (MG)            2024   Nº 8 - 03/07/2024
+3165560   MG           Sem-Peixe (MG)             2026   Nº 22 - 29/04/2026
+3165701   MG         Senador Firmino (MG)         2025   Nº 17 - 31/12/2025
+3165909   MG   Senador Modestino Gonçalves (MG)   2024   Nº 9 - 20/08/2024
+3166501   MG       Serra Azul de Minas (MG)       2025   Nº 2 - 24/02/2025
+3167103   MG              Serro (MG)              2025   Nº 2 - 24/02/2025
+3167202   MG           Sete Lagoas (MG)           2026   N° 27 - 04/08/2026
+3167608   MG            Simonésia (MG)            2022   Nº 4 - 20/07/2022
+3168002   MG            Taiobeiras (MG)           2026   Nº 22 - 29/04/2026
+3168051   MG            Taparuba (MG)             2023   Nº 1 - 30/06/2023
+3168705   MG             Timóteo (MG)             2026   Nº 22 - 29/04/2026
+3169307   MG          Três Corações (MG)          2024   Nº 9 - 20/08/2024
+3169356   MG           Três Marias (MG)           2024   Nº 2 - 08/03/2024
+3169505   MG           Tumiritinga (MG)           2025   Nº 5 - 25/03/2025
+3169703   MG            Turmalina (MG)            2025   Nº 2 - 24/02/2025
+3169901   MG               Ubá (MG)               2024   Nº 9 - 20/08/2024
+3170057   MG          Ubaporanga (MG)            2021   Nº 2 - 25/11/2021
+3170107   MG            Uberaba (MG)             2017   Nº 2 - 10/02/2017
+3170206   MG           Uberlândia (MG)           2024   Nº 8 - 03/07/2024
+3170404   MG              Unaí (MG)              2025   Nº 7 - 28/04/2025
+3170503   MG           Urucânia (MG)             2024   Nº 10 - 30/09/2024
+3170578   MG         Vargem Alegre (MG)          2021   Nº 2 - 25/11/2021
+3170651   MG   Vargem Grande do Rio Pardo (MG)   2026   Nº 22 - 29/04/2026
+3170701   MG            Varginha (MG)            2025   Nº 2 - 24/02/2025
+3170909   MG          Varzelândia (MG)           2025   Nº 2 - 24/02/2025
+3171071   MG           Veredinha (MG)            2024   Nº 6 - 29/05/2024
+3171154   MG         Vermelho Novo (MG)          2021   Nº 2 - 25/11/2021
+3171303   MG             Viçosa (MG)             2025   Nº 8 - 30/04/2025
+3171501   MG         Mathias Lobato (MG)         2025   Nº 13 - 17/09/2025
+3171600   MG         Virgem da Lapa (MG)         2025   Nº 13 - 17/09/2025
+5000609   MS           Amambai (MS)              2025   Nº 8 - 30/04/2025
+5000708   MS           Anastácio (MS)            2025   Nº 9 - 30/06/2025
+5000807   MS          Anaurilândia (MS)          2025   Nº 7 - 28/04/2025
+5000906   MS          Antônio João (MS)          2026   Nº 25 - 26/06/2026
+5001102   MS          Aquidauana (MS)            2025   Nº 9 - 30/06/2025
+5001243   MS          Aral Moreira (MS)          2025   Nº 9 - 30/06/2025
+5002159   MS          Bodoquena (MS)             2025   Nº 7 - 28/04/2025
+5002308   MS           Brasilândia (MS)          2025   Nº 10 - 10/07/2025
+5002407   MS            Caarapó (MS)             2025   Nº 8 - 30/04/2025
+5002704   MS         Campo Grande (MS)           2024   Nº 4 - 07/05/2024
+5002951   MS        Chapadão do Sul (MS)         2025   Nº 8 - 30/04/2025
+5003207   MS           Corumbá (MS)              2024   Nº 4 - 07/05/2024
+5003504   MS           Douradina (MS)            2025   Nº 9 - 30/06/2025
+5003702   MS           Dourados (MS)             2024   Nº 9 - 20/08/2024
+5003751   MS            Eldorado (MS)            2024   Nº 12 - 19/11/2024
+5003801   MS         Fátima do Sul (MS)          2025   Nº 7 - 28/04/2025
+5004007   MS       Glória de Dourados (MS)       2025   Nº 8 - 30/04/2025
+5004304   MS            Iguatemi (MS)            2024   Nº 12 - 19/11/2024
+5004403   MS           Inocência (MS)            2025   Nº 9 - 30/06/2025
+5004601   MS            Itaquiraí (MS)           2025   Nº 8 - 30/04/2025
+5004809   MS             Japorã (MS)             2025   Nº 5 - 25/03/2025
+5005004   MS             Jardim (MS)             2025   Nº 7 - 28/04/2025
+5005152   MS              Juti (MS)              2025   Nº 9 - 30/06/2025
+5005400   MS            Maracaju (MS)            2025   Nº 9 - 30/06/2025
+5005707   MS             Naviraí (MS)            2025   Nº 7 - 28/04/2025
+5006002   MS      Nova Alvorada do Sul (MS)      2025   Nº 9 - 30/06/2025
+5006358   MS           Paranhos (MS)             2025   Nº 9 - 30/06/2025
+5006606   MS           Ponta Porã (MS)           2025   Nº 9 - 30/06/2025
+5007208   MS          Rio Brilhante (MS)         2024   Nº 13 - 13/12/2024
+5007554   MS       Santa Rita do Pardo (MS)      2025   Nº 6 - 02/04/2025
+5007950   MS             Tacuru (MS)             2024   Nº 12 - 19/11/2024
+5008008   MS            Terenos (MS)             2026   Nº 25 - 26/06/2026
+5008404   MS           Vicentina (MS)            2026   Nº 25 - 26/06/2026
+5100201   MT            Água Boa (MT)             2025   Nº 8 - 30/04/2025
+5100250   MT           Alta Floresta (MT)         2026   Nº 25 - 26/06/2026
+5100359   MT          Alto Boa Vista (MT)         2025   Nº 8 - 30/04/2025
+5100607   MT           Alto Taquari (MT)          2025   Nº 9 - 30/06/2025
+5100805   MT             Apiacás (MT)             2025   Nº 8 - 30/04/2025
+5101704   MT         Barra do Bugres (MT)         2025   Nº 12 - 03/09/2025
+5101803   MT         Barra do Garças (MT)         2026   Nº 25 - 26/06/2026
+5101837   MT      Bom Jesus do Araguaia (MT)      2025   Nº 8 - 30/04/2025
+5101902   MT            Brasnorte (MT)            2025   Nº 8 - 30/04/2025
+5102702   MT            Canarana (MT)             2025   Nº 8 - 30/04/2025
+5103403   MT             Cuiabá (MT)              2026   Nº 25 - 26/06/2026
+5103700   MT            Feliz Natal (MT)          2025   Nº 12 - 03/09/2025
+5103809   MT      Figueirópolis D'Oeste (MT)      2025   Nº 8 - 30/04/2025
+5103858   MT        Gaúcha do Norte (MT)          2025   Nº 13 - 17/09/2025
+5104559   MT              Itaúba (MT)             2026   Nº 26 - 26/07/2026
+5104807   MT             Jaciara (MT)             2026   Nº 25 - 26/06/2026
+5105101   MT              Juara (MT)              2026   Nº 25 - 26/06/2026
+5105176   MT             Juruena (MT)             2025   Nº 4 - 20/03/2025
+5105259   MT        Lucas do Rio Verde (MT)       2025   Nº 8 - 30/04/2025
+5105309   MT             Luciara (MT)             2026   Nº 25 - 26/06/2026
+5105580   MT           Marcelândia (MT)           2025   Nº 2 - 24/02/2025
+5105606   MT             Matupá (MT)              2026   Nº 25 - 26/06/2026
+5106109   MT   Nossa Senhora do Livramento (MT)   2025   Nº 8 - 30/04/2025
+5106182   MT          Nova Lacerda (MT)           2025   Nº 8 - 30/04/2025
+5106224   MT           Nova Mutum (MT)            2026   N° 28 - 26/08/2026
+5106265   MT           Novo Mundo (MT)            2026   Nº 25 - 26/06/2026
+5106299   MT            Paranaíta (MT)            2026   Nº 26 - 26/07/2026
+5106455   MT        Planalto da Serra (MT)        2026   Nº 25 - 26/06/2026
+5106505   MT             Poconé (MT)              2025   Nº 8 - 30/04/2025
+5107065   MT            Querência (MT)            2026   Nº 25 - 26/06/2026
+5107107   MT   São José dos Quatro Marcos (MT)    2026   Nº 25 - 26/06/2026
+5107602   MT          Rondonópolis (MT)           2026   Nº 26 - 26/07/2026
+5107800   MT    Santo Antônio do Leverger (MT)    2025   Nº 8 - 30/04/2025
+5107883   MT       Serra Nova Dourada (MT)        2026   Nº 25 - 26/06/2026
+5107909   MT              Sinop (MT)              2026   N° 28 - 26/08/2026
+5107925   MT             Sorriso (MT)             2025   Nº 7 - 28/04/2025
+5107958   MT         Tangará da Serra (MT)        2025   Nº 14 - 16/10/2025
+5108303   MT           União do Sul (MT)          2025   Nº 8 - 30/04/2025
+5108501   MT               Vera (MT)              2026   Nº 25 - 26/06/2026
+5108956   MT        Nova Monte Verde (MT)         2025   Nº 8 - 30/04/2025
+1500107   PA           Abaetetuba (PA)            2023   Nº 1 - 30/06/2023
+1500206   PA              Acará (PA)              2023   Nº 4 - 21/12/2023
+1500305   PA               Afuá (PA)              2025   Nº 6 - 02/04/2025
+1500347   PA        Água Azul do Norte (PA)       2026   Nº 18 - 13/01/2026
+1500404   PA            Alenquer (PA)             2024   Nº 4 - 07/05/2024
+1500503   PA            Almeirim (PA)             2024   Nº 2 - 08/03/2024
+1500602   PA             Altamira (PA)            2024   Nº 12 - 19/11/2024
+1500701   PA            Anajás (PA)            2024   Nº 03 - 05/04/2024
+1500800   PA         Ananindeua (PA)           2024   Nº 2 - 08/03/2024
+1500859   PA            Anapu (PA)             2026   Nº 25 - 26/06/2026
+1500909   PA       Augusto Corrêa (PA)         2014   Nº 4 - 20/03/2014
+1500958   PA        Aurora do Pará (PA)        2024   Nº 03 - 05/04/2024
+1501105   PA            Bagre (PA)             2025   Nº 3 - 28/02/2025
+1501204   PA            Baião (PA)             2024   Nº 2 - 08/03/2024
+1501303   PA          Barcarena (PA)           2023   Nº 4 - 21/12/2023
+1501402   PA            Belém (PA)             2024   Nº 2 - 08/03/2024
+1501451   PA           Belterra (PA)           2023   Nº 4 - 21/12/2023
+1501501   PA          Benevides (PA)           2023   Nº 4 - 21/12/2023
+1501576   PA   Bom Jesus do Tocantins (PA)     2024   Nº 9 - 20/08/2024
+1501600   PA            Bonito (PA)            2026   Nº 22 - 29/04/2026
+1501709   PA          Bragança (PA)            2014   Nº 4 - 20/03/2014
+1501725   PA         Brasil Novo (PA)          2023   Nº 4 - 21/12/2023
+1501758   PA   Brejo Grande do Araguaia (PA)   2024   Nº 12 - 19/11/2024
+1501782   PA         Breu Branco (PA)          2023   Nº 4 - 21/12/2023
+1501808   PA            Breves (PA)            2023   Nº 4 - 21/12/2023
+1501907   PA            Bujaru (PA)            2018   Nº 9 - 18/12/2018
+1501956   PA      Cachoeira do Piriá (PA)      2023   Nº 4 - 21/12/2023
+1502004   PA      Cachoeira do Arari (PA)      2024   Nº 9 - 20/08/2024
+1502103   PA           Cametá (PA)             2024   Nº 9 - 20/08/2024
+1502152   PA      Canaã dos Carajás (PA)       2026   N° 28 - 26/08/2026
+1502202   PA         Capanema (PA)             2025   Nº 3 - 28/02/2025
+1502301   PA        Capitão Poço (PA)          2024   Nº 2 - 08/03/2024
+1502400   PA          Castanhal (PA)           2024   Nº 9 - 20/08/2024
+1502509   PA           Chaves (PA)             2023   Nº 4 - 21/12/2023
+1502608   PA           Colares (PA)            2024   Nº 12 - 19/11/2024
+1502756   PA      Concórdia do Pará (PA)       2022   Nº 6 - 04/10/2022
+1502772   PA         Curionópolis (PA)         2025   Nº 12 - 03/09/2025
+1502806   PA          Curralinho (PA)          2024   Nº 03 - 05/04/2024
+1502905   PA           Curuçá (PA)             2025   Nº 9 - 30/06/2025
+1502939   PA         Dom Eliseu (PA)           2024   Nº 12 - 19/11/2024
+1502954   PA     Eldorado do Carajás (PA)      2023   Nº 1 - 30/06/2023
+1503002   PA             Faro (PA)             2024   Nº 2 - 08/03/2024
+1503044   PA     Floresta do Araguaia (PA)     2023   Nº 1 - 30/06/2023
+1503077   PA      Garrafão do Norte (PA)       2024   Nº 2 - 08/03/2024
+1503093   PA      Goianésia do Pará (PA)       2025   Nº 12 - 03/09/2025
+1503101   PA           Gurupá (PA)             2024   Nº 2 - 08/03/2024
+1503200   PA         Igarapé-Açu (PA)          2024   Nº 9 - 20/08/2024
+1503309   PA         Igarapé-Miri (PA)         2024   Nº 03 - 05/04/2024
+1503408   PA          Inhangapi (PA)           2024   Nº 2 - 08/03/2024
+1503457   PA       Ipixuna do Pará (PA)        2024   Nº 12 - 19/11/2024
+1503507   PA            Irituia (PA)           2023   Nº 1 - 30/06/2023
+1503606   PA           Itaituba (PA)           2023   Nº 4 - 21/12/2023
+1503705   PA          Itupiranga (PA)          2024   Nº 03 - 05/04/2024
+1503754   PA        Jacareacanga (PA)          2025   Nº 9 - 30/06/2025
+1503804   PA          Jacundá (PA)            2025   Nº 2 - 24/02/2025
+1503903   PA            Juruti (PA)           2025   Nº 14 - 16/10/2025
+1504000   PA      Limoeiro do Ajuru (PA)      2023   Nº 4 - 21/12/2023
+1504059   PA         Mãe do Rio (PA)          2024   Nº 2 - 08/03/2024
+1504109   PA      Magalhães Barata (PA)       2024   Nº 12 - 19/11/2024
+1504208   PA           Marabá (PA)            2024   Nº 2 - 08/03/2024
+1504307   PA         Maracanã (PA)            2024   Nº 2 - 08/03/2024
+1504406   PA         Marapanim (PA)           2024   Nº 2 - 08/03/2024
+1504422   PA          Marituba (PA)           2025   Nº 9 - 30/06/2025
+1504455   PA        Medicilândia (PA)         2024   Nº 03 - 05/04/2024
+1504505   PA          Melgaço (PA)            2024   Nº 2 - 08/03/2024
+1504604   PA         Mocajuba (PA)            2026   N° 28 - 26/08/2026
+1504752   PA     Mojuí dos Campos (PA)        2024   Nº 2 - 08/03/2024
+1504802   PA        Monte Alegre (PA)         2024   Nº 12 - 19/11/2024
+1504901   PA           Muaná (PA)             2024   Nº 4 - 07/05/2024
+1504950   PA   Nova Esperança do Piriá (PA)   2022   Nº 6 - 04/10/2022
+1504976   PA        Nova Ipixuna (PA)         2023   Nº 4 - 21/12/2023
+1505007   PA      Nova Timboteua (PA)         2023   Nº 4 - 21/12/2023
+1505064   PA     Novo Repartimento (PA)       2026   N° 28 - 26/08/2026
+1505106   PA           Óbidos (PA)            2024   Nº 4 - 07/05/2024
+1505205   PA       Oeiras do Pará (PA)        2024   Nº 2 - 08/03/2024
+1505304   PA          Oriximiná (PA)          2024   Nº 2 - 08/03/2024
+1505403   PA           Ourém (PA)             2026   Nº 18 - 13/01/2026
+1505437   PA     Ourilândia do Norte (PA)     2025   Nº 9 - 30/06/2025
+1505486   PA           Pacajá (PA)            2024   Nº 2 - 08/03/2024
+1505494   PA      Palestina do Pará (PA)      2024   Nº 4 - 07/05/2024
+1505502   PA        Paragominas (PA)          2014   Nº 4 - 20/03/2014
+1505536   PA        Parauapebas (PA)          2024   Nº 4 - 07/05/2024
+1505551   PA         Pau D'Arco (PA)          2025   Nº 12 - 03/09/2025
+1505601   PA          Peixe-Boi (PA)          2024   Nº 12 - 19/11/2024
+1505635   PA           Piçarra (PA)           2024   Nº 2 - 08/03/2024
+1505650   PA           Placas (PA)            2024   Nº 2 - 08/03/2024
+1505700   PA      Ponta de Pedras (PA)        2023   Nº 4 - 21/12/2023
+1505809   PA           Portel (PA)            2023   Nº 4 - 21/12/2023
+1505908   PA        Porto de Moz (PA)         2024   Nº 03 - 05/04/2024
+1506005   PA           Prainha (PA)           2024   Nº 9 - 20/08/2024
+1506104   PA         Primavera (PA)           2025   Nº 5 - 25/03/2025
+1506112   PA         Quatipuru (PA)           2025   Nº 4 - 20/03/2025
+1506138   PA         Redenção (PA)            2026   N° 28 - 26/08/2026
+1506187   PA       Rondon do Pará (PA)        2023   Nº 1 - 30/06/2023
+1506195   PA          Rurópolis (PA)          2024   Nº 03 - 05/04/2024
+1506203   PA         Salinópolis (PA)         2024   Nº 12 - 19/11/2024
+1506302   PA         Salvaterra (PA)          2024   Nº 03 - 05/04/2024
+1506351   PA   Santa Bárbara do Pará (PA)     2024   Nº 4 - 07/05/2024
+1506401   PA     Santa Cruz do Arari (PA)     2024   Nº 4 - 07/05/2024
+1506500   PA    Santa Izabel do Pará (PA)     2024   Nº 12 - 19/11/2024
+1506559   PA     Santa Luzia do Pará (PA)     2024   Nº 9 - 20/08/2024
+1506583   PA   Santa Maria das Barreiras (PA)    2026   Nº 26 - 26/07/2026
+1506609   PA      Santa Maria do Pará (PA)       2024   Nº 13 - 13/12/2024
+1506708   PA      Santana do Araguaia (PA)       2026   Nº 26 - 26/07/2026
+1506807   PA           Santarém (PA)             2024   Nº 2 - 08/03/2024
+1506906   PA        Santarém Novo (PA)           2022   Nº 7 - 29/11/2022
+1507003   PA     Santo Antônio do Tauá (PA)      2026   Nº 18 - 13/01/2026
+1507102   PA    São Caetano de Odivelas (PA)     2024   Nº 2 - 08/03/2024
+1507151   PA   São Domingos do Araguaia (PA)     2022   Nº 7 - 29/11/2022
+1507201   PA    São Domingos do Capim (PA)       2023   Nº 4 - 21/12/2023
+1507300   PA       São Félix do Xingu (PA)       2024   Nº 2 - 08/03/2024
+1507409   PA     São Francisco do Pará (PA)      2024   Nº 2 - 08/03/2024
+1507458   PA    São Geraldo do Araguaia (PA)     2024   Nº 2 - 08/03/2024
+1507466   PA       São João da Ponta (PA)        2022   Nº 7 - 29/11/2022
+1507474   PA      São João de Pirabas (PA)       2024   Nº 03 - 05/04/2024
+1507508   PA     São João do Araguaia (PA)       2023   Nº 4 - 21/12/2023
+1507607   PA     São Miguel do Guamá (PA)        2023   Nº 1 - 30/06/2023
+1507706   PA   São Sebastião da Boa Vista (PA)   2023   Nº 4 - 21/12/2023
+1507805   PA     Senador José Porfírio (PA)      2026   Nº 18 - 13/01/2026
+1507961   PA           Terra Alta (PA)           2025   Nº 9 - 30/06/2025
+1507979   PA          Terra Santa (PA)           2026   Nº 26 - 26/07/2026
+1508001   PA           Tomé-Açu (PA)             2024   Nº 4 - 07/05/2024
+1508035   PA          Tracuateua (PA)            2023   Nº 4 - 21/12/2023
+1508050   PA            Trairão (PA)             2024   Nº 2 - 08/03/2024
+1508084   PA            Tucumã (PA)              2022   Nº 6 - 04/10/2022
+1508100   PA            Tucuruí (PA)             2023   Nº 4 - 21/12/2023
+1508126   PA          Ulianópolis (PA)           2020   Nº 2 - 08/07/2020
+1508159   PA            Uruará (PA)              2025   Nº 9 - 30/06/2025
+1508209   PA             Vigia (PA)              2024   Nº 4 - 07/05/2024
+1508308   PA             Viseu (PA)              2026   Nº 21 - 30/03/2026
+1508357   PA        Vitória do Xingu (PA)        2024   Nº 2 - 08/03/2024
+1508407   PA           Xinguara (PA)             2023   Nº 4 - 21/12/2023
+2500106   PB          Água Branca (PB)           2026   Nº 23 - 26/05/2026
+2500205   PB             Aguiar (PB)             2024   Nº 10 - 30/09/2024
+2500304   PB         Alagoa Grande (PB)          2025   Nº 9 - 30/06/2025
+2500403   PB          Alagoa Nova (PB)           2026   Nº 18 - 13/01/2026
+2500536   PB            Alcantil (PB)            2024   Nº 13 - 13/12/2024
+2500577   PB      Algodão de Jandaíra (PB)       2025   Nº 7 - 28/04/2025
+2500700   PB    São João do Rio do Peixe (PB)    2019   Nº 01 - 18/03/2019
+2500734   PB            Amparo (PB)              2021   Nº 2 - 25/11/2021
+2500775   PB           Aparecida (PB)            2024   Nº 4 - 07/05/2024
+2500908   PB             Arara (PB)              2024   Nº 9 - 20/08/2024
+2501104   PB             Areia (PB)              2019   Nº 01 - 18/03/2019
+2501153   PB       Areia de Baraúnas (PB)        2024   Nº 9 - 20/08/2024
+2501203   PB             Areial (PB)             2024   Nº 03 - 05/04/2024
+2501302   PB            Aroeiras (PB)            2024   Nº 7 - 21/06/2024
+2501351   PB           Assunção (PB)             2020   Nº 2 - 08/07/2020
+2501401   PB        Baía da Traição (PB)         2025   Nº 12 - 03/09/2025
+2501500   PB        Bananeiras (PB)        2024   Nº 12 - 19/11/2024
+2501575   PB     Barra de Santana (PB)     2026   Nº 23 - 26/05/2026
+2501609   PB    Barra de Santa Rosa (PB)   2024   Nº 7 - 21/06/2024
+2501708   PB    Barra de São Miguel (PB)   2026   Nº 26 - 26/07/2026
+2501807   PB          Bayeux (PB)          2021   Nº 2 - 25/11/2021
+2502052   PB    Bernardino Batista (PB)    2024   Nº 4 - 07/05/2024
+2502102   PB       Boa Ventura (PB)        2021   Nº 1 - 12/01/2021
+2502151   PB         Boa Vista (PB)        2021   Nº 2 - 25/11/2021
+2502201   PB        Bom Jesus (PB)         2024   Nº 10 - 30/09/2024
+2502300   PB       Bom Sucesso (PB)        2019   Nº 2 - 11/06/2019
+2502409   PB    Bonito de Santa Fé (PB)    2024   Nº 12 - 19/11/2024
+2502508   PB        Boqueirão (PB)         2024   Nº 10 - 30/09/2024
+2502607   PB          Igaracy (PB)         2025   Nº 7 - 28/04/2025
+2502706   PB        Borborema (PB)         2024   Nº 10 - 30/09/2024
+2502904   PB     Brejo dos Santos (PB)     2024   Nº 03 - 05/04/2024
+2503001   PB         Caaporã (PB)          2024   Nº 4 - 07/05/2024
+2503100   PB        Cabaceiras (PB)        2024   Nº 10 - 30/09/2024
+2503209   PB         Cabedelo (PB)         2014   Nº 4 - 20/03/2014
+2503407   PB     Cacimba de Areia (PB)     2024   Nº 10 - 30/09/2024
+2503605   PB         Caiçara (PB)          2025   Nº 8 - 30/04/2025
+2503704   PB        Cajazeiras (PB)        2019   Nº 01 - 18/03/2019
+2503753   PB       Cajazeirinhas (PB)      2024   Nº 13 - 13/12/2024
+2503803   PB     Caldas Brandão (PB)       2026   Nº 26 - 26/07/2026
+2503902   PB         Camalaú (PB)          2021   Nº 2 - 25/11/2021
+2504009   PB     Campina Grande (PB)       2024   Nº 12 - 19/11/2024
+2504033   PB          Capim (PB)           2026   Nº 18 - 13/01/2026
+2504074   PB         Caraúbas (PB)         2021   Nº 2 - 25/11/2021
+2504108   PB       Carrapateira (PB)       2023   Nº 4 - 21/12/2023
+2504157   PB       Casserengue (PB)        2024   Nº 9 - 20/08/2024
+2504207   PB        Catingueira (PB)       2025   Nº 15 - 31/10/2025
+2504306   PB     Catolé do Rocha (PB)      2024   Nº 10 - 30/09/2024
+2504355   PB         Caturité (PB)         2024   Nº 9 - 20/08/2024
+2504504   PB         Condado (PB)          2024   Nº 9 - 20/08/2024
+2504603   PB          Conde (PB)           2024   Nº 03 - 05/04/2024
+2504702   PB          Congo (PB)           2024   Nº 4 - 07/05/2024
+2504801   PB         Coremas (PB)          2024   Nº 9 - 20/08/2024
+2504850   PB         Coxixola (PB)         2024   Nº 7 - 21/06/2024
+2505006   PB          Cubati (PB)          2024   Nº 11 - 09/10/2024
+2505105   PB           Cuité (PB)          2025   Nº 7 - 28/04/2025
+2505238   PB   Cuité de Mamanguape (PB)    2024   Nº 13 - 13/12/2024
+2505279   PB      Curral de Cima (PB)      2026   Nº 23 - 26/05/2026
+2505303   PB       Curral Velho (PB)       2024   Nº 9 - 20/08/2024
+2505352   PB         Damião (PB)           2024   Nº 03 - 05/04/2024
+2505501   PB       Vista Serrana (PB)      2024   Nº 7 - 21/06/2024
+2505709   PB        Dona Inês (PB)         2022   Nº 5 - 09/09/2022
+2506103   PB         Fagundes (PB)         2026   N° 28 - 26/08/2026
+2506202   PB       Frei Martinho (PB)      2025   Nº 9 - 30/06/2025
+2506251   PB        Gado Bravo (PB)         2026   Nº 26 - 26/07/2026
+2506400   PB         Gurinhém (PB)          2020   Nº 2 - 08/07/2020
+2506707   PB        Imaculada (PB)          2024   Nº 9 - 20/08/2024
+2506806   PB           Ingá (PB)            2024   Nº 9 - 20/08/2024
+2506905   PB         Itabaiana (PB)         2024   Nº 13 - 13/12/2024
+2507002   PB        Itaporanga (PB)         2025   Nº 15 - 31/10/2025
+2507101   PB        Itapororoca (PB)        2024   Nº 5 - 09/05/2024
+2507200   PB          Itatuba (PB)          2024   Nº 4 - 07/05/2024
+2507309   PB          Jacaraú (PB)          2026   Nº 26 - 26/07/2026
+2507408   PB           Jericó (PB)          2026   Nº 26 - 26/07/2026
+2507507   PB       João Pessoa (PB)         2014   Nº 4 - 20/03/2014
+2507606   PB       Juarez Távora (PB)       2024   Nº 12 - 19/11/2024
+2507804   PB      Junco do Seridó (PB)      2026   Nº 26 - 26/07/2026
+2508000   PB           Juru (PB)            2024   Nº 7 - 21/06/2024
+2508505   PB        Livramento (PB)         2024   Nº 7 - 21/06/2024
+2508554   PB        Logradouro (PB)         2025   Nº 12 - 03/09/2025
+2508604   PB          Lucena (PB)           2019   Nº 2 - 11/06/2019
+2509057   PB         Marcação (PB)          2024   Nº 4 - 07/05/2024
+2509107   PB           Mari (PB)            2025   Nº 8 - 30/04/2025
+2509156   PB        Marizópolis (PB)        2024   Nº 12 - 19/11/2024
+2509206   PB      Massaranduba (PB)         2025   Nº 12 - 03/09/2025
+2509305   PB         Mataraca (PB)          2024   Nº 9 - 20/08/2024
+2509602   PB       Monte Horebe (PB)        2026   Nº 18 - 13/01/2026
+2509701   PB         Monteiro (PB)          2014   Nº 8 - 27/11/2014
+2509800   PB         Mulungu (PB)           2020   Nº 2 - 08/07/2020
+2509909   PB          Natuba (PB)           2025   Nº 9 - 30/06/2025
+2510006   PB       Nazarezinho (PB)         2024   Nº 9 - 20/08/2024
+2510303   PB      Nova Palmeira (PB)        2025   Nº 9 - 30/06/2025
+2510501   PB         Olivedos (PB)          2024   Nº 10 - 30/09/2024
+2510709   PB        Passagem (PB)           2019   Nº 2 - 11/06/2019
+2510808   PB           Patos (PB)           2014   Nº 8 - 27/11/2014
+2511103   PB       Pedra Lavrada (PB)       2024   Nº 7 - 21/06/2024
+2511202   PB      Pedras de Fogo (PB)       2024   Nº 7 - 21/06/2024
+2511301   PB          Piancó (PB)           2024   Nº 10 - 30/09/2024
+2511400   PB           Picuí (PB)           2019   Nº 01 - 18/03/2019
+2511608   PB          Pilões (PB)           2025   Nº 12 - 03/09/2025
+2511806   PB        Pirpirituba (PB)        2024   Nº 13 - 13/12/2024
+2511905   PB          Pitimbu (PB)          2021   Nº 1 - 12/01/2021
+2512002   PB         Pocinhos (PB)          2024   Nº 9 - 20/08/2024
+2512036   PB       Poço Dantas (PB)         2024   Nº 4 - 07/05/2024
+2512077   PB   Poço de José de Moura (PB)   2025   Nº 9 - 30/06/2025
+2512101   PB          Pombal (PB)           2019   Nº 01 - 18/03/2019
+2512200   PB           Prata (PB)           2021   Nº 2 - 25/11/2021
+2512309   PB      Princesa Isabel (PB)      2024   Nº 12 - 19/11/2024
+2512408   PB         Puxinanã (PB)          2024   Nº 12 - 19/11/2024
+2512507   PB        Queimadas (PB)          2024   Nº 9 - 20/08/2024
+2512754   PB   Riachão do Bacamarte (PB)    2024   Nº 10 - 30/09/2024
+2512762   PB          Riachão do Poço (PB)           2026   Nº 26 - 26/07/2026
+2512903   PB              Rio Tinto (PB)             2024   Nº 10 - 30/09/2024
+2513000   PB             Salgadinho (PB)             2025   Nº 8 - 30/04/2025
+2513307   PB            Santa Helena (PB)            2019   Nº 01 - 18/03/2019
+2513356   PB             Santa Inês (PB)             2024   Nº 7 - 21/06/2024
+2513406   PB             Santa Luzia (PB)            2026   Nº 18 - 13/01/2026
+2513505   PB       Santana de Mangueira (PB)         2024   Nº 10 - 30/09/2024
+2513604   PB        Santana dos Garrotes (PB)        2024   Nº 10 - 30/09/2024
+2513703   PB             Santa Rita (PB)             2025   Nº 12 - 03/09/2025
+2513802   PB          Santa Teresinha (PB)           2024   Nº 7 - 21/06/2024
+2513851   PB            Santo André (PB)             2024   Nº 12 - 19/11/2024
+2513901   PB             São Bento (PB)              2019   Nº 01 - 18/03/2019
+2513927   PB            São Bentinho (PB)            2024   Nº 10 - 30/09/2024
+2513968   PB           São Domingos (PB)             2024   Nº 7 - 21/06/2024
+2514008   PB         São João do Cariri (PB)         2021   Nº 2 - 25/11/2021
+2514107   PB          São João do Tigre (PB)         2019   Nº 01 - 18/03/2019
+2514206   PB      São José da Lagoa Tapada (PB)      2024   Nº 9 - 20/08/2024
+2514305   PB         São José de Caiana (PB)         2024   Nº 7 - 21/06/2024
+2514404   PB       São José de Espinharas (PB)       2025   Nº 7 - 28/04/2025
+2514503   PB        São José de Piranhas (PB)        2025   Nº 12 - 03/09/2025
+2514552   PB        São José de Princesa (PB)        2024   Nº 10 - 30/09/2024
+2514602   PB         São José do Bonfim (PB)         2024   Nº 9 - 20/08/2024
+2514651   PB      São José do Brejo do Cruz (PB)     2020   Nº 2 - 08/07/2020
+2514800   PB       São José dos Cordeiros (PB)       2020   Nº 2 - 08/07/2020
+2514909   PB            São Mamede (PB)              2024   Nº 10 - 30/09/2024
+2515104   PB   São Sebastião de Lagoa de Roça (PB)   2024   Nº 7 - 21/06/2024
+2515203   PB    São Sebastião do Umbuzeiro (PB)      2025   Nº 12 - 03/09/2025
+2515302   PB                Sapé (PB)                2024   Nº 12 - 19/11/2024
+2515401   PB       São Vicente do Seridó (PB)        2025   Nº 9 - 30/06/2025
+2515500   PB            Serra Branca (PB)            2020   Nº 2 - 08/07/2020
+2515906   PB              Serraria (PB)              2020   Nº 2 - 08/07/2020
+2515971   PB              Sobrado (PB)               2025   Nº 9 - 30/06/2025
+2516102   PB              Soledade (PB)              2025   Nº 9 - 30/06/2025
+2516151   PB              Sossêgo (PB)               2024   Nº 12 - 19/11/2024
+2516201   PB               Sousa (PB)                2026   Nº 26 - 26/07/2026
+2516300   PB               Sumé (PB)                 2014   Nº 8 - 27/11/2014
+2516508   PB              Taperoá (PB)               2024   Nº 03 - 05/04/2024
+2516706   PB              Teixeira (PB)              2024   Nº 12 - 19/11/2024
+2516755   PB              Tenório (PB)               2024   Nº 7 - 21/06/2024
+2516904   PB              Uiraúna (PB)               2019   Nº 01 - 18/03/2019
+2517001   PB             Umbuzeiro (PB)              2024   Nº 10 - 30/09/2024
+2517100   PB               Várzea (PB)               2024   Nº 9 - 20/08/2024
+2517209   PB             Vieirópolis (PB)            2025   Nº 7 - 28/04/2025
+2517407   PB               Zabelê (PB)               2023   Nº 4 - 21/12/2023
+2600054   PE            Abreu e Lima (PE)            2024   Nº 9 - 20/08/2024
+2600104   PE        Afogados da Ingazeira (PE)       2024   Nº 03 - 05/04/2024
+2600203   PE               Afrânio (PE)              2025   Nº 12 - 03/09/2025
+2600302   PE         Agrestina (PE)          2024   Nº 13 - 13/12/2024
+2600401   PE         Água Preta (PE)         2025   Nº 12 - 03/09/2025
+2600708   PE          Aliança (PE)           2026   Nº 25 - 26/06/2026
+2600807   PE           Altinho (PE)          2025   Nº 5 - 25/03/2025
+2600906   PE          Amaraji (PE)           2026   N° 28 - 26/08/2026
+2601003   PE          Angelim (PE)           2025   Nº 15 - 31/10/2025
+2601052   PE         Araçoiaba (PE)          2025   Nº 5 - 25/03/2025
+2601102   PE          Araripina (PE)         2025   Nº 2 - 24/02/2025
+2601201   PE         Arcoverde (PE)          2026   Nº 22 - 29/04/2026
+2601300   PE     Barra de Guabiraba (PE)     2024   Nº 13 - 13/12/2024
+2601409   PE          Barreiros (PE)         2024   Nº 9 - 20/08/2024
+2601508   PE       Belém de Maria (PE)       2025   Nº 9 - 30/06/2025
+2601607   PE   Belém do São Francisco (PE)   2025   Nº 3 - 28/02/2025
+2601706   PE        Belo Jardim (PE)         2024   Nº 9 - 20/08/2024
+2601805   PE          Betânia (PE)           2024   Nº 8 - 03/07/2024
+2601904   PE          Bezerros (PE)          2025   Nº 9 - 30/06/2025
+2602001   PE          Bodocó (PE)            2025   Nº 9 - 30/06/2025
+2602100   PE       Bom Conselho (PE)         2025   Nº 15 - 31/10/2025
+2602209   PE        Bom Jardim (PE)          2025   Nº 5 - 25/03/2025
+2602308   PE           Bonito (PE)           2025   Nº 13 - 17/09/2025
+2602407   PE           Brejão (PE)           2025   Nº 15 - 31/10/2025
+2602506   PE          Brejinho (PE)          2024   Nº 10 - 30/09/2024
+2602605   PE   Brejo da Madre de Deus (PE)   2024   Nº 11 - 09/10/2024
+2602704   PE        Buenos Aires (PE)        2026   Nº 18 - 13/01/2026
+2602803   PE           Buíque (PE)           2025   Nº 2 - 24/02/2025
+2603009   PE          Cabrobó (PE)           2025   Nº 9 - 30/06/2025
+2603108   PE       Cachoeirinha (PE)         2025   Nº 14 - 16/10/2025
+2603207   PE           Caetés (PE)           2026   Nº 25 - 26/06/2026
+2603306   PE          Calçado (PE)           2026   Nº 26 - 26/07/2026
+2603405   PE          Calumbi (PE)           2024   Nº 13 - 13/12/2024
+2603454   PE        Camaragibe (PE)          2026   Nº 21 - 30/03/2026
+2603504   PE   Camocim de São Félix (PE)     2025   Nº 12 - 03/09/2025
+2603702   PE        Canhotinho (PE)          2025   Nº 2 - 24/02/2025
+2603801   PE         Capoeiras (PE)          2025   Nº 9 - 30/06/2025
+2603900   PE          Carnaíba (PE)          2026   Nº 25 - 26/06/2026
+2603926   PE   Carnaubeira da Penha (PE)     2024   Nº 4 - 07/05/2024
+2604007   PE          Carpina (PE)           2026   Nº 26 - 26/07/2026
+2604106   PE          Caruaru (PE)           2024   Nº 10 - 30/09/2024
+2604205   PE          Catende (PE)           2024   Nº 13 - 13/12/2024
+2604403   PE       Chã de Alegria (PE)       2025   Nº 9 - 30/06/2025
+2604502   PE        Chã Grande (PE)          2024   Nº 13 - 13/12/2024
+2604601   PE         Condado (PE)            2025   Nº 5 - 25/03/2025
+2604700   PE         Correntes (PE)          2026   Nº 25 - 26/06/2026
+2604809   PE           Cortês (PE)           2025   Nº 2 - 24/02/2025
+2605004   PE           Cupira (PE)           2025   Nº 2 - 24/02/2025
+2605103   PE          Custódia (PE)          2025   Nº 2 - 24/02/2025
+2605152   PE         Dormentes (PE)          2024   Nº 13 - 13/12/2024
+2605202   PE           Escada (PE)            2026   Nº 25 - 26/06/2026
+2605301   PE             Exu (PE)             2024   Nº 13 - 13/12/2024
+2605400   PE          Feira Nova (PE)         2025   Nº 14 - 16/10/2025
+2605509   PE          Ferreiros (PE)          2026   Nº 22 - 29/04/2026
+2605608   PE            Flores (PE)           2025   Nº 7 - 28/04/2025
+2605707   PE           Floresta (PE)          2025   Nº 15 - 31/10/2025
+2605806   PE       Frei Miguelinho (PE)       2026   Nº 18 - 13/01/2026
+2605905   PE          Gameleira (PE)          2025   Nº 2 - 24/02/2025
+2606002   PE         Garanhuns (PE)           2025   Nº 8 - 30/04/2025
+2606101   PE       Glória do Goitá (PE)       2025   Nº 14 - 16/10/2025
+2606200   PE           Goiana (PE)            2025   Nº 12 - 03/09/2025
+2606309   PE           Granito (PE)           2025   Nº 5 - 25/03/2025
+2606408   PE           Gravatá (PE)           2025   Nº 2 - 24/02/2025
+2606507   PE             Iati (PE)            2026   Nº 26 - 26/07/2026
+2606606   PE           Ibimirim (PE)          2025   Nº 7 - 28/04/2025
+2607000   PE            Inajá (PE)            2025   Nº 7 - 28/04/2025
+2607109   PE          Ingazeira (PE)          2025   Nº 12 - 03/09/2025
+2607208   PE           Ipojuca (PE)           2026   Nº 25 - 26/06/2026
+2607307   PE            Ipubi (PE)            2025   Nº 9 - 30/06/2025
+2607406   PE          Itacuruba (PE)          2025   Nº 9 - 30/06/2025
+2607505   PE            Itaíba (PE)           2025   Nº 7 - 28/04/2025
+2607653   PE           Itambé (PE)            2025   Nº 9 - 30/06/2025
+2607703   PE           Itapetim (PE)          2024   Nº 2 - 08/03/2024
+2607752   PE         Itapissuma (PE)          2026   Nº 25 - 26/06/2026
+2607901   PE   Jaboatão dos Guararapes (PE)   2013   Nº 1 - 20/11/2013
+2608008   PE           Jataúba (PE)           2025   Nº 2 - 24/02/2025
+2608057   PE            Jatobá (PE)           2024   Nº 9 - 20/08/2024
+2608107   PE         João Alfredo (PE)        2024   Nº 11 - 09/10/2024
+2608206   PE       Joaquim Nabuco (PE)        2026   Nº 26 - 26/07/2026
+2608255   PE            Jucati (PE)           2025   Nº 9 - 30/06/2025
+2608305   PE             Jupi (PE)            2025   Nº 2 - 24/02/2025
+2608404   PE           Jurema (PE)            2026   N° 28 - 26/08/2026
+2608503   PE       Lagoa de Itaenga (PE)      2025   Nº 15 - 31/10/2025
+2608701   PE       Lagoa dos Gatos (PE)       2024   Nº 13 - 13/12/2024
+2608750   PE        Lagoa Grande (PE)         2024   Nº 03 - 05/04/2024
+2608800   PE           Lajedo (PE)            2026   Nº 22 - 29/04/2026
+2608909   PE          Limoeiro (PE)           2026   Nº 22 - 29/04/2026
+2609006   PE         Macaparana (PE)          2026   N° 28 - 26/08/2026
+2609105   PE          Machados (PE)           2026   Nº 21 - 30/03/2026
+2609303   PE          Mirandiba (PE)          2024   Nº 13 - 13/12/2024
+2609600   PE           Olinda (PE)            2024   Nº 9 - 20/08/2024
+2609709   PE            Orobó (PE)            2025   Nº 5 - 25/03/2025
+2609808   PE            Orocó (PE)            2024   Nº 03 - 05/04/2024
+2609907   PE           Ouricuri (PE)          2025   Nº 12 - 03/09/2025
+2610004   PE          Palmares (PE)           2025   Nº 2 - 24/02/2025
+2610103   PE         Palmeirina (PE)          2026   N° 28 - 26/08/2026
+2610202   PE           Panelas (PE)           2024   Nº 13 - 13/12/2024
+2610301   PE         Paranatama (PE)            2026   Nº 26 - 26/07/2026
+2610400   PE          Parnamirim (PE)           2024   Nº 13 - 13/12/2024
+2610509   PE            Passira (PE)            2024   Nº 9 - 20/08/2024
+2610608   PE           Paudalho (PE)            2025   Nº 2 - 24/02/2025
+2610707   PE           Paulista (PE)            2025   Nº 2 - 24/02/2025
+2610806   PE            Pedra (PE)              2026   Nº 18 - 13/01/2026
+2610905   PE          Pesqueira (PE)            2025   Nº 5 - 25/03/2025
+2611002   PE          Petrolândia (PE)          2026   Nº 18 - 13/01/2026
+2611101   PE           Petrolina (PE)           2024   Nº 4 - 07/05/2024
+2611200   PE            Poção (PE)              2025   Nº 9 - 30/06/2025
+2611309   PE           Pombos (PE)              2026   Nº 26 - 26/07/2026
+2611408   PE          Primavera (PE)            2025   Nº 8 - 30/04/2025
+2611507   PE           Quipapá (PE)             2024   Nº 03 - 05/04/2024
+2611533   PE           Quixaba (PE)             2025   Nº 9 - 30/06/2025
+2611606   PE            Recife (PE)             2014   Nº 8 - 27/11/2014
+2611705   PE       Riacho das Almas (PE)        2024   Nº 13 - 13/12/2024
+2611804   PE           Ribeirão (PE)            2025   Nº 2 - 24/02/2025
+2611903   PE         Rio Formoso (PE)           2026   N° 28 - 26/08/2026
+2612000   PE             Sairé (PE)             2025   Nº 12 - 03/09/2025
+2612109   PE          Salgadinho (PE)           2025   Nº 12 - 03/09/2025
+2612208   PE           Salgueiro (PE)           2026   Nº 25 - 26/06/2026
+2612307   PE             Saloá (PE)             2025   Nº 9 - 30/06/2025
+2612406   PE           Sanharó (PE)             2024   Nº 9 - 20/08/2024
+2612455   PE          Santa Cruz (PE)           2025   Nº 9 - 30/06/2025
+2612471   PE   Santa Cruz da Baixa Verde (PE)   2024   Nº 8 - 03/07/2024
+2612554   PE        Santa Filomena (PE)         2025   Nº 14 - 16/10/2025
+2612604   PE   Santa Maria da Boa Vista (PE)    2024   Nº 9 - 20/08/2024
+2612802   PE        Santa Terezinha (PE)        2025   Nº 2 - 24/02/2025
+2612901   PE      São Benedito do Sul (PE)      2025   Nº 5 - 25/03/2025
+2613008   PE       São Bento do Una (PE)        2026   Nº 21 - 30/03/2026
+2613107   PE         São Caitano (PE)           2026   Nº 22 - 29/04/2026
+2613305   PE    São Joaquim do Monte (PE)       2026   Nº 22 - 29/04/2026
+2613404   PE   São José da Coroa Grande (PE)    2024   Nº 9 - 20/08/2024
+2613503   PE     São José do Belmonte (PE)      2025   Nº 7 - 28/04/2025
+2613602   PE       São José do Egito (PE)       2024   Nº 03 - 05/04/2024
+2613800   PE      São Vicente Férrer (PE)       2025   Nº 9 - 30/06/2025
+2613909   PE         Serra Talhada (PE)         2024   Nº 9 - 20/08/2024
+2614006   PE            Serrita (PE)            2024   Nº 9 - 20/08/2024
+2614105   PE           Sertânia (PE)            2026   Nº 26 - 26/07/2026
+2614204   PE          Sirinhaém (PE)            2025   Nº 9 - 30/06/2025
+2614303   PE         Moreilândia (PE)           2025   Nº 9 - 30/06/2025
+2614402   PE            Solidão (PE)            2025   Nº 12 - 03/09/2025
+2614600   PE            Tabira (PE)             2025   Nº 14 - 16/10/2025
+2614709   PE          Tacaimbó (PE)             2025   Nº 13 - 17/09/2025
+2615003   PE     Taquaritinga do Norte (PE)     2025   Nº 7 - 28/04/2025
+2615102   PE           Terezinha (PE)           2026   Nº 25 - 26/06/2026
+2615201   PE          Terra Nova (PE)           2025   Nº 15 - 31/10/2025
+2615300   PE         Timbaúba (PE)           2024   Nº 9 - 20/08/2024
+2615409   PE         Toritama (PE)           2026   Nº 18 - 13/01/2026
+2615508   PE       Tracunhaém (PE)           2026   N° 28 - 26/08/2026
+2615607   PE         Trindade (PE)           2024   Nº 9 - 20/08/2024
+2615706   PE          Triunfo (PE)           2026   Nº 25 - 26/06/2026
+2615805   PE       Tupanatinga (PE)          2025   Nº 8 - 30/04/2025
+2615904   PE        Tuparetama (PE)          2025   Nº 9 - 30/06/2025
+2616001   PE         Venturosa (PE)          2025   Nº 9 - 30/06/2025
+2616100   PE        Verdejante (PE)          2024   Nº 13 - 13/12/2024
+2616183   PE     Vertente do Lério (PE)      2025   Nº 15 - 31/10/2025
+2616209   PE         Vertentes (PE)          2025   Nº 5 - 25/03/2025
+2616407   PE   Vitória de Santo Antão (PE)   2024   Nº 13 - 13/12/2024
+2616506   PE           Xexéu (PE)            2025   Nº 9 - 30/06/2025
+2200053   PI           Acauã (PI)            2014   Nº 4 - 20/03/2014
+2200202   PI        Água Branca (PI)         2017   Nº 5 - 11/10/2017
+2200251   PI     Alagoinha do Piauí (PI)     2014   Nº 8 - 27/11/2014
+2200608   PI      Angical do Piauí (PI)      2024   Nº 8 - 03/07/2024
+2201176   PI     Barra D'Alcântara (PI)      2014   Nº 8 - 27/11/2014
+2201200   PI           Barras (PI)           2014   Nº 8 - 27/11/2014
+2201556   PI     Bela Vista do Piauí (PI)    2014   Nº 8 - 27/11/2014
+2201705   PI         Bertolínia (PI)         2017   Nº 5 - 11/10/2017
+2201804   PI          Bocaina (PI)           2024   Nº 4 - 07/05/2024
+2201945   PI     Boqueirão do Piauí (PI)     2024   Nº 10 - 30/09/2024
+2201960   PI         Brasileira (PI)         2013   Nº 1 - 20/11/2013
+2202059   PI    Cabeceiras do Piauí (PI)     2024   Nº 10 - 30/09/2024
+2202174   PI   Campo Largo do Piauí (PI)     2024   Nº 10 - 30/09/2024
+2202554   PI     Caridade do Piauí (PI)      2026   Nº 18 - 13/01/2026
+2202604   PI      Castelo do Piauí (PI)      2024   Nº 10 - 30/09/2024
+2202737   PI          Coivaras (PI)          2024   Nº 4 - 07/05/2024
+2202802   PI   Conceição do Canindé (PI)     2026   N° 28 - 26/08/2026
+2202901   PI          Corrente (PI)          2014   Nº 4 - 20/03/2014
+2203107   PI      Cristino Castro (PI)       2026   N° 28 - 26/08/2026
+2203255   PI        Curralinhos (PI)         2014   Nº 8 - 27/11/2014
+2203420   PI     Domingos Mourão (PI)        2024   Nº 4 - 07/05/2024
+2203503   PI      Elesbão Veloso (PI)        2014   Nº 4 - 20/03/2014
+2204204   PI     Francisco Santos (PI)       2024   Nº 4 - 07/05/2024
+2204600   PI      Hugo Napoleão (PI)         2016   Nº 1 - 21/03/2016
+2204808   PI      Ipiranga do Piauí (PI)     2026   Nº 21 - 30/03/2026
+2205003   PI         Itainópolis (PI)        2014   Nº 8 - 27/11/2014
+2205276   PI      Jatobá do Piauí (PI)       2024   Nº 10 - 30/09/2024
+2205458   PI       Joca Marques (PI)         2025   Nº 14 - 16/10/2025
+2205557   PI        Lagoa Alegre (PI)        2025   Nº 14 - 16/10/2025
+2205607   PI        Landri Sales (PI)        2024   Nº 8 - 03/07/2024
+2205854   PI          Madeiro (PI)           2026   Nº 22 - 29/04/2026
+2205904   PI       Manoel Emídio (PI)        2025   Nº 17 - 31/12/2025
+2205953   PI        Marcolândia (PI)         2026   Nº 21 - 30/03/2026
+2206407   PI       Monsenhor Gil (PI)        2026   Nº 26 - 26/07/2026
+2206506   PI       Monsenhor Hipólito (PI)        2014   Nº 8 - 27/11/2014
+2206654   PI     Morro Cabeça no Tempo (PI)       2024   Nº 4 - 07/05/2024
+2206696   PI       Murici dos Portelas (PI)       2024   Nº 8 - 03/07/2024
+2206704   PI         Nazaré do Piauí (PI)         2025   Nº 9 - 30/06/2025
+2206720   PI             Nazária (PI)             2024   Nº 03 - 05/04/2024
+2206753   PI    Nossa Senhora de Nazaré (PI)      2025   Nº 14 - 16/10/2025
+2206803   PI   Nossa Senhora dos Remédios (PI)    2025   Nº 9 - 30/06/2025
+2206902   PI      Novo Oriente do Piauí (PI)      2014   Nº 8 - 27/11/2014
+2207009   PI              Oeiras (PI)             2024   Nº 03 - 05/04/2024
+2207108   PI       Olho D'Água do Piauí (PI)      2014   Nº 8 - 27/11/2014
+2207207   PI          Padre Marcos (PI)           2024   Nº 8 - 03/07/2024
+2207504   PI            Palmeirais (PI)           2024   Nº 4 - 07/05/2024
+2207751   PI    Passagem Franca do Piauí (PI)     2017   Nº 5 - 11/10/2017
+2207801   PI            Paulistana (PI)           2024   Nº 11 - 09/10/2024
+2207850   PI             Pavussu (PI)             2025   Nº 8 - 30/04/2025
+2207900   PI             Pedro II (PI)            2013   Nº 1 - 20/11/2013
+2208106   PI           Pimenteiras (PI)           2014   Nº 8 - 27/11/2014
+2208403   PI              Piripiri (PI)           2013   Nº 1 - 20/11/2013
+2208502   PI               Porto (PI)             2024   Nº 4 - 07/05/2024
+2208650   PI         Queimada Nova (PI)           2014   Nº 4 - 20/03/2014
+2209377   PI       Santa Rosa do Piauí (PI)       2014   Nº 8 - 27/11/2014
+2209401   PI     Santo Antônio de Lisboa (PI)     2024   Nº 6 - 29/05/2024
+2209450   PI    Santo Antônio dos Milagres (PI)   2017   Nº 5 - 11/10/2017
+2209757   PI     São Gonçalo do Gurguéia (PI)     2026   Nº 19 - 26/02/2026
+2209955   PI       São João da Varjota (PI)       2025   Nº 17 - 31/12/2025
+2209971   PI        São João do Arraial (PI)      2026   Nº 21 - 30/03/2026
+2210003   PI        São João do Piauí (PI)        2024   Nº 4 - 07/05/2024
+2210201   PI         São José do Piauí (PI)       2024   Nº 6 - 29/05/2024
+2210359   PI      São Lourenço do Piauí (PI)      2016   Nº 6 - 28/10/2016
+2210375   PI         São Luis do Piauí (PI)       2025   Nº 14 - 16/10/2025
+2210391   PI      São Miguel do Fidalgo (PI)      2025   Nº 9 - 30/06/2025
+2210409   PI       São Miguel do Tapuio (PI)      2025   Nº 14 - 16/10/2025
+2210607   PI      São Raimundo Nonato (PI)        2025   Nº 14 - 16/10/2025
+2210623   PI         Sebastião Barros (PI)        2024   Nº 8 - 03/07/2024
+2210631   PI          Sebastião Leal (PI)         2014   Nº 8 - 27/11/2014
+2210656   PI        Sigefredo Pacheco (PI)        2024   Nº 2 - 08/03/2024
+2210805   PI        Simplício Mendes (PI)         2024   Nº 4 - 07/05/2024
+2211001   PI             Teresina (PI)            2016   Nº 2 - 03/05/2016
+2211704   PI            Wall Ferraz (PI)          2026   N° 28 - 26/08/2026
+4100103   PR              Abatiá (PR)             2026   Nº 21 - 30/03/2026
+4100202   PR          Adrianópolis (PR)           2023   Nº 1 - 30/06/2023
+4100301   PR          Agudos do Sul (PR)          2025   Nº 2 - 24/02/2025
+4100400   PR      Almirante Tamandaré (PR)        2020   Nº 2 - 08/07/2020
+4100459   PR       Altamira do Paraná (PR)        2025   Nº 2 - 24/02/2025
+4100509   PR             Altônia (PR)             2017   Nº 5 - 11/10/2017
+4100608   PR           Alto Paraná (PR)           2016   Nº 5 - 03/08/2016
+4100707   PR           Alto Piquiri (PR)          2016   Nº 1 - 21/03/2016
+4100806   PR        Alvorada do Sul (PR)       2017   Nº 4 - 10/07/2017
+4100905   PR           Amaporã (PR)            2023   Nº 1 - 30/06/2023
+4101002   PR           Ampére (PR)             2016   Nº 1 - 21/03/2016
+4101101   PR            Andirá (PR)            2016   Nº 1 - 21/03/2016
+4101150   PR            Ângulo (PR)            2020   Nº 2 - 08/07/2020
+4101309   PR        Antônio Olinto (PR)        2020   Nº 2 - 08/07/2020
+4101408   PR          Apucarana (PR)           2023   Nº 1 - 30/06/2023
+4101507   PR          Arapongas (PR)           2020   Nº 2 - 08/07/2020
+4101655   PR            Arapuã (PR)            2018   Nº 5 - 23/07/2018
+4101705   PR           Araruna (PR)            2020   Nº 2 - 08/07/2020
+4101804   PR           Araucária (PR)          2022   Nº 1 - 24/02/2022
+4101853   PR        Ariranha do Ivaí (PR)      2024   Nº 10 - 30/09/2024
+4101903   PR             Assaí (PR)            2016   Nº 1 - 21/03/2016
+4102000   PR     Assis Chateaubriand (PR)      2024   Nº 10 - 30/09/2024
+4102109   PR            Astorga (PR)           2020   Nº 2 - 08/07/2020
+4102208   PR            Atalaia (PR)           2018   Nº 4 - 17/04/2018
+4102307   PR          Balsa Nova (PR)          2024   Nº 03 - 05/04/2024
+4102406   PR         Bandeirantes (PR)         2026   Nº 21 - 30/03/2026
+4102505   PR        Barbosa Ferraz (PR)        2025   Nº 2 - 24/02/2025
+4102604   PR           Barracão (PR)           2016   Nº 1 - 21/03/2016
+4102703   PR        Barra do Jacaré (PR)       2024   Nº 10 - 30/09/2024
+4102752   PR     Bela Vista da Caroba (PR)     2025   Nº 12 - 03/09/2025
+4102802   PR     Bela Vista do Paraíso (PR)    2024   Nº 4 - 07/05/2024
+4102901   PR           Bituruna (PR)           2026   Nº 21 - 30/03/2026
+4103008   PR        Boa Esperança (PR)         2020   Nº 2 - 08/07/2020
+4103024   PR   Boa Esperança do Iguaçu (PR)    2016   Nº 1 - 21/03/2016
+4103040   PR   Boa Ventura de São Roque (PR)   2020   Nº 2 - 08/07/2020
+4103057   PR    Boa Vista da Aparecida (PR)    2022   Nº 1 - 24/02/2022
+4103107   PR       Bocaiúva do Sul (PR)        2025   Nº 2 - 24/02/2025
+4103156   PR       Bom Jesus do Sul (PR)       2016   Nº 1 - 21/03/2016
+4103206   PR        Bom Sucesso (PR)           2024   Nº 03 - 05/04/2024
+4103222   PR     Bom Sucesso do Sul (PR)       2020   Nº 2 - 08/07/2020
+4103305   PR         Borrazópolis (PR)         2017   Nº 5 - 11/10/2017
+4103354   PR           Braganey (PR)           2020   Nº 2 - 08/07/2020
+4103370   PR      Brasilândia do Sul (PR)      2018   Nº 4 - 17/04/2018
+4103404   PR           Cafeara (PR)            2024   Nº 7 - 21/06/2024
+4103453   PR          Cafelândia (PR)          2016   Nº 7 - 13/12/2016
+4103479   PR        Cafezal do Sul (PR)        2016   Nº 1 - 21/03/2016
+4103503   PR          Califórnia (PR)          2024   Nº 4 - 07/05/2024
+4103701   PR            Cambé (PR)             2024   Nº 4 - 07/05/2024
+4103800   PR           Cambira (PR)            2024   Nº 7 - 21/06/2024
+4103958   PR      Campina do Simão (PR)        2020   Nº 03 - 15/10/2020
+4104006   PR    Campina Grande do Sul (PR)     2024   Nº 4 - 07/05/2024
+4104055   PR        Campo Bonito (PR)          2020   Nº 2 - 08/07/2020
+4104105   PR      Campo do Tenente (PR)        2025   Nº 2 - 24/02/2025
+4104204   PR         Campo Largo (PR)          2022   Nº 1 - 24/02/2022
+4104253   PR        Campo Magro (PR)           2026   N° 28 - 26/08/2026
+4104303   PR        Campo Mourão (PR)          2022   Nº 1 - 24/02/2022
+4104402   PR       Cândido de Abreu (PR)       2024   Nº 10 - 30/09/2024
+4104428   PR            Candói (PR)            2024   Nº 4 - 07/05/2024
+4104451   PR          Cantagalo (PR)           2024   Nº 10 - 30/09/2024
+4104501   PR          Capanema (PR)            2016   Nº 5 - 03/08/2016
+4104600   PR   Capitão Leônidas Marques (PR)   2016   Nº 7 - 13/12/2016
+4104659   PR          Carambeí (PR)            2024   Nº 10 - 30/09/2024
+4104709   PR          Carlópolis (PR)          2020   Nº 2 - 08/07/2020
+4104808   PR           Cascavel (PR)           2016   Nº 5 - 03/08/2016
+4104907   PR            Castro (PR)            2017   Nº 5 - 11/10/2017
+4105003   PR         Catanduvas (PR)           2020   Nº 2 - 08/07/2020
+4105102   PR       Centenário do Sul (PR)      2016   Nº 1 - 21/03/2016
+4105201   PR          Cerro Azul (PR)          2020   Nº 03 - 15/10/2020
+4105300   PR           Céu Azul (PR)           2025   Nº 2 - 24/02/2025
+4105409   PR         Chopinzinho (PR)          2018   Nº 5 - 23/07/2018
+4105508   PR           Cianorte (PR)           2017   Nº 5 - 11/10/2017
+4105607   PR        Cidade Gaúcha (PR)         2018   Nº 4 - 17/04/2018
+4105706   PR         Clevelândia (PR)          2025   Nº 2 - 24/02/2025
+4105805   PR           Colombo (PR)            2022   Nº 1 - 24/02/2022
+4105904   PR           Colorado (PR)           2024   Nº 4 - 07/05/2024
+4106001   PR        Congonhinhas (PR)          2016   Nº 7 - 13/12/2016
+4106100   PR     Conselheiro Mairinck (PR)     2025   Nº 2 - 24/02/2025
+4106209   PR          Contenda (PR)            2023   Nº 1 - 30/06/2023
+4106308   PR           Corbélia (PR)           2016   Nº 1 - 21/03/2016
+4106407   PR      Cornélio Procópio (PR)       2025   Nº 9 - 30/06/2025
+4106555   PR      Corumbataí do Sul (PR)       2024   Nº 4 - 07/05/2024
+4106571   PR      Cruzeiro do Iguaçu (PR)      2024   Nº 10 - 30/09/2024
+4106605   PR       Cruzeiro do Oeste (PR)      2016   Nº 5 - 03/08/2016
+4106704   PR        Cruzeiro do Sul (PR)       2016   Nº 1 - 21/03/2016
+4106803   PR        Cruz Machado (PR)          2017   Nº 4 - 10/07/2017
+4106852   PR         Cruzmaltina (PR)          2024   Nº 10 - 30/09/2024
+4106902   PR           Curitiba (PR)           2016   Nº 1 - 21/03/2016
+4107009   PR           Curiúva (PR)            2024   Nº 10 - 30/09/2024
+4107108   PR      Diamante do Norte (PR)       2024   Nº 4 - 07/05/2024
+4107124   PR       Diamante do Sul (PR)        2018   Nº 5 - 23/07/2018
+4107157   PR      Diamante D'Oeste (PR)        2017   Nº 5 - 11/10/2017
+4107207   PR         Dois Vizinhos (PR)        2016   Nº 5 - 03/08/2016
+4107256   PR          Douradina (PR)           2016   Nº 1 - 21/03/2016
+4107306   PR       Doutor Camargo (PR)         2024   Nº 7 - 21/06/2024
+4107405   PR        Enéas Marques (PR)         2016   Nº 5 - 03/08/2016
+4107504   PR      Engenheiro Beltrão (PR)      2020   Nº 2 - 08/07/2020
+4107520   PR       Esperança Nova (PR)         2017   Nº 4 - 10/07/2017
+4107538   PR      Entre Rios do Oeste (PR)     2025   Nº 12 - 03/09/2025
+4107546   PR    Espigão Alto do Iguaçu (PR)    2024   Nº 7 - 21/06/2024
+4107553   PR             Farol (PR)            2025   Nº 2 - 24/02/2025
+4107603   PR            Faxinal (PR)           2018   Nº 5 - 23/07/2018
+4107652   PR      Fazenda Rio Grande (PR)      2024   Nº 7 - 21/06/2024
+4107702   PR         Fênix (PR)          2020   Nº 03 - 15/10/2020
+4107736   PR   Fernandes Pinheiro (PR)   2023   Nº 1 - 30/06/2023
+4107751   PR        Figueira (PR)        2016   Nº 5 - 03/08/2016
+4107801   PR         Floraí (PR)         2024   Nº 10 - 30/09/2024
+4107900   PR        Floresta (PR)        2024   Nº 7 - 21/06/2024
+4108007   PR      Florestópolis (PR)     2024   Nº 03 - 05/04/2024
+4108106   PR         Flórida (PR)        2024   Nº 4 - 07/05/2024
+4108304   PR     Foz do Iguaçu (PR)      2024   Nº 4 - 07/05/2024
+4108320   PR    Francisco Alves (PR)     2016   Nº 5 - 03/08/2016
+4108403   PR   Francisco Beltrão (PR)    2016   Nº 7 - 13/12/2016
+4108452   PR     Foz do Jordão (PR)      2020   Nº 03 - 15/10/2020
+4108502   PR    General Carneiro (PR)    2020   Nº 03 - 15/10/2020
+4108551   PR     Godoy Moreira (PR)      2022   Nº 2 - 05/05/2022
+4108650   PR        Goioxim (PR)         2020   Nº 2 - 08/07/2020
+4108700   PR     Grandes Rios (PR)       2024   Nº 10 - 30/09/2024
+4108809   PR         Guaíra (PR)         2025   Nº 2 - 24/02/2025
+4108908   PR        Guairaçá (PR)        2016   Nº 5 - 03/08/2016
+4108957   PR      Guamiranga (PR)        2024   Nº 4 - 07/05/2024
+4109005   PR      Guapirama (PR)         2016   Nº 5 - 03/08/2016
+4109104   PR      Guaporema (PR)         2017   Nº 5 - 11/10/2017
+4109203   PR        Guaraci (PR)         2024   Nº 7 - 21/06/2024
+4109302   PR      Guaraniaçu (PR)        2016   Nº 1 - 21/03/2016
+4109401   PR      Guarapuava (PR)        2016   Nº 7 - 13/12/2016
+4109609   PR       Guaratuba (PR)        2023   Nº 1 - 30/06/2023
+4109658   PR     Honório Serpa (PR)      2020   Nº 03 - 15/10/2020
+4109708   PR          Ibaiti (PR)        2025   Nº 9 - 30/06/2025
+4109757   PR         Ibema (PR)          2022   Nº 2 - 05/05/2022
+4109807   PR         Ibiporã (PR)        2024   Nº 7 - 21/06/2024
+4109906   PR        Icaraíma (PR)        2016   Nº 7 - 13/12/2016
+4110003   PR        Iguaraçu (PR)        2016   Nº 7 - 13/12/2016
+4110052   PR         Iguatu (PR)         2020   Nº 2 - 08/07/2020
+4110078   PR         Imbaú (PR)          2025   Nº 12 - 03/09/2025
+4110102   PR        Imbituva (PR)        2024   Nº 10 - 30/09/2024
+4110201   PR     Inácio Martins (PR)     2025   Nº 2 - 24/02/2025
+4110300   PR          Inajá (PR)         2022   Nº 1 - 24/02/2022
+4110409   PR      Indianópolis (PR)      2017   Nº 5 - 11/10/2017
+4110508   PR        Ipiranga (PR)        2025   Nº 9 - 30/06/2025
+4110607   PR          Iporã (PR)         2018   Nº 4 - 17/04/2018
+4110656   PR   Iracema do Oeste (PR)     2016   Nº 5 - 03/08/2016
+4110706   PR          Irati (PR)         2024   Nº 7 - 21/06/2024
+4110805   PR        Iretama (PR)         2020   Nº 03 - 15/10/2020
+4110904   PR        Itaguajé (PR)        2024   Nº 10 - 30/09/2024
+4110953   PR      Itaipulândia (PR)      2016   Nº 5 - 03/08/2016
+4111001   PR      Itambaracá (PR)        2022   Nº 2 - 05/05/2022
+4111100   PR         Itambé (PR)         2024   Nº 10 - 30/09/2024
+4111209   PR    Itapejara d'Oeste (PR)   2020   Nº 2 - 08/07/2020
+4111258   PR       Itaperuçu (PR)        2024   Nº 03 - 05/04/2024
+4111308   PR         Itaúna do Sul (PR)       2022   Nº 2 - 05/05/2022
+4111407   PR             Ivaí (PR)            2025   Nº 12 - 03/09/2025
+4111506   PR           Ivaiporã (PR)          2020   Nº 03 - 15/10/2020
+4111555   PR             Ivaté (PR)           2018   Nº 5 - 23/07/2018
+4111605   PR           Ivatuba (PR)           2018   Nº 5 - 23/07/2018
+4111704   PR            Jaboti (PR)           2025   Nº 4 - 20/03/2025
+4111803   PR         Jacarezinho (PR)         2025   Nº 2 - 24/02/2025
+4111902   PR          Jaguapitã (PR)          2024   Nº 03 - 05/04/2024
+4112009   PR          Jaguariaíva (PR)        2025   Nº 4 - 20/03/2025
+4112108   PR        Jandaia do Sul (PR)       2024   Nº 03 - 05/04/2024
+4112306   PR            Japira (PR)           2024   Nº 03 - 05/04/2024
+4112405   PR            Japurá (PR)           2020   Nº 2 - 08/07/2020
+4112504   PR        Jardim Alegre (PR)        2024   Nº 4 - 07/05/2024
+4112603   PR        Jardim Olinda (PR)        2020   Nº 03 - 15/10/2020
+4112702   PR          Jataizinho (PR)         2025   Nº 2 - 24/02/2025
+4112801   PR        Joaquim Távora (PR)       2020   Nº 2 - 08/07/2020
+4112900   PR        Jundiaí do Sul (PR)       2016   Nº 7 - 13/12/2016
+4112959   PR           Juranda (PR)           2024   Nº 03 - 05/04/2024
+4113007   PR           Jussara (PR)           2018   Nº 4 - 17/04/2018
+4113106   PR            Kaloré (PR)           2024   Nº 03 - 05/04/2024
+4113205   PR             Lapa (PR)            2024   Nº 7 - 21/06/2024
+4113254   PR           Laranjal (PR)          2018   Nº 5 - 23/07/2018
+4113304   PR      Laranjeiras do Sul (PR)     2017   Nº 4 - 10/07/2017
+4113403   PR           Leópolis (PR)          2023   Nº 1 - 30/06/2023
+4113429   PR         Lidianópolis (PR)        2016   Nº 5 - 03/08/2016
+4113452   PR          Lindoeste (PR)          2020   Nº 2 - 08/07/2020
+4113502   PR           Loanda (PR)            2018   Nº 5 - 23/07/2018
+4113601   PR            Lobato (PR)           2024   Nº 10 - 30/09/2024
+4113700   PR           Londrina (PR)          2024   Nº 03 - 05/04/2024
+4113734   PR           Luiziana (PR)          2024   Nº 03 - 05/04/2024
+4113759   PR          Lunardelli (PR)         2020   Nº 2 - 08/07/2020
+4113809   PR         Lupionópolis (PR)        2024   Nº 4 - 07/05/2024
+4114005   PR          Mamborê (PR)            2017   Nº 5 - 11/10/2017
+4114104   PR         Mandaguaçu (PR)          2024   Nº 10 - 30/09/2024
+4114203   PR         Mandaguari (PR)          2024   Nº 10 - 30/09/2024
+4114302   PR         Mandirituba (PR)         2024   Nº 7 - 21/06/2024
+4114351   PR        Manfrinópolis (PR)        2017   Nº 5 - 11/10/2017
+4114401   PR        Mangueirinha (PR)         2024   Nº 7 - 21/06/2024
+4114500   PR        Manoel Ribas (PR)         2024   Nº 7 - 21/06/2024
+4114609   PR   Marechal Cândido Rondon (PR)   2016   Nº 5 - 03/08/2016
+4114708   PR         Maria Helena (PR)        2016   Nº 5 - 03/08/2016
+4114807   PR           Marialva (PR)          2024   Nº 4 - 07/05/2024
+4114906   PR       Marilândia do Sul (PR)     2024   Nº 4 - 07/05/2024
+4115002   PR           Marilena (PR)          2017   Nº 4 - 10/07/2017
+4115101   PR            Mariluz (PR)          2016   Nº 7 - 13/12/2016
+4115200   PR           Maringá (PR)           2016   Nº 5 - 03/08/2016
+4115309   PR          Mariópolis (PR)         2020   Nº 2 - 08/07/2020
+4115408   PR          Marmeleiro (PR)          2017   Nº 5 - 11/10/2017
+4115457   PR          Marquinho (PR)           2020   Nº 03 - 15/10/2020
+4115507   PR           Marumbi (PR)            2024   Nº 10 - 30/09/2024
+4115606   PR          Matelândia (PR)          2023   Nº 1 - 30/06/2023
+4115705   PR           Matinhos (PR)           2024   Nº 10 - 30/09/2024
+4115739   PR           Mato Rico (PR)          2017   Nº 4 - 10/07/2017
+4115754   PR        Mauá da Serra (PR)         2024   Nº 03 - 05/04/2024
+4115804   PR          Medianeira (PR)          2024   Nº 10 - 30/09/2024
+4115853   PR           Mercedes (PR)           2016   Nº 7 - 13/12/2016
+4115903   PR            Mirador (PR)           2016   Nº 5 - 03/08/2016
+4116000   PR           Miraselva (PR)          2024   Nº 7 - 21/06/2024
+4116109   PR         Moreira Sales (PR)        2025   Nº 2 - 24/02/2025
+4116208   PR           Morretes (PR)           2024   Nº 10 - 30/09/2024
+4116307   PR       Munhoz de Melo (PR)         2024   Nº 4 - 07/05/2024
+4116406   PR   Nossa Senhora das Graças (PR)   2024   Nº 4 - 07/05/2024
+4116505   PR      Nova Aliança do Ivaí (PR)    2024   Nº 7 - 21/06/2024
+4116604   PR    Nova América da Colina (PR)    2020   Nº 2 - 08/07/2020
+4116703   PR         Nova Aurora (PR)          2017   Nº 5 - 11/10/2017
+4116802   PR          Nova Cantu (PR)          2020   Nº 2 - 08/07/2020
+4116901   PR       Nova Esperança (PR)         2022   Nº 1 - 24/02/2022
+4117008   PR         Nova Fátima (PR)          2016   Nº 7 - 13/12/2016
+4117057   PR       Nova Laranjeiras (PR)       2024   Nº 4 - 07/05/2024
+4117107   PR        Nova Londrina (PR)         2023   Nº 1 - 30/06/2023
+4117206   PR         Nova Olímpia (PR)         2017   Nº 4 - 10/07/2017
+4117214   PR      Nova Santa Bárbara (PR)      2024   Nº 10 - 30/09/2024
+4117222   PR       Nova Santa Rosa (PR)        2016   Nº 5 - 03/08/2016
+4117255   PR     Nova Prata do Iguaçu (PR)     2016   Nº 1 - 21/03/2016
+4117271   PR          Nova Tebas (PR)          2024   Nº 03 - 05/04/2024
+4117297   PR        Novo Itacolomi (PR)        2016   Nº 1 - 21/03/2016
+4117305   PR           Ortigueira (PR)         2022   Nº 2 - 05/05/2022
+4117404   PR           Ourizona (PR)           2016   Nº 5 - 03/08/2016
+4117453   PR     Ouro Verde do Oeste (PR)      2024   Nº 10 - 30/09/2024
+4117503   PR           Paiçandu (PR)           2024   Nº 10 - 30/09/2024
+4117602   PR            Palmas (PR)            2024   Nº 10 - 30/09/2024
+4117701   PR           Palmeira (PR)           2024   Nº 4 - 07/05/2024
+4117800   PR           Palmital (PR)           2024   Nº 7 - 21/06/2024
+4117909   PR           Palotina (PR)           2017   Nº 5 - 11/10/2017
+4118006   PR       Paraíso do Norte (PR)       2016   Nº 5 - 03/08/2016
+4118105   PR          Paranacity (PR)          2022   Nº 1 - 24/02/2022
+4118303   PR         Paranapoema (PR)          2023   Nº 1 - 30/06/2023
+4118402   PR           Paranavaí (PR)          2024   Nº 7 - 21/06/2024
+4118451   PR         Pato Bragado (PR)         2020   Nº 03 - 15/10/2020
+4118501   PR         Pato Branco (PR)          2017   Nº 5 - 11/10/2017
+4118600   PR         Paula Freitas (PR)        2018   Nº 5 - 23/07/2018
+4118709   PR         Paulo Frontin (PR)        2016   Nº 5 - 03/08/2016
+4118808   PR            Peabiru (PR)           2020   Nº 2 - 08/07/2020
+4118857   PR            Perobal (PR)           2017   Nº 5 - 11/10/2017
+4118907   PR            Pérola (PR)             2016   Nº 1 - 21/03/2016
+4119004   PR        Pérola d'Oeste (PR)         2020   Nº 2 - 08/07/2020
+4119103   PR             Piên (PR)              2025   Nº 2 - 24/02/2025
+4119152   PR            Pinhais (PR)            2013   Nº 1 - 20/11/2013
+4119202   PR           Pinhalão (PR)            2024   Nº 10 - 30/09/2024
+4119251   PR      Pinhal de São Bento (PR)      2016   Nº 5 - 03/08/2016
+4119301   PR            Pinhão (PR)             2022   Nº 1 - 24/02/2022
+4119400   PR          Piraí do Sul (PR)         2024   Nº 7 - 21/06/2024
+4119509   PR           Piraquara (PR)           2023   Nº 1 - 30/06/2023
+4119608   PR            Pitanga (PR)            2016   Nº 5 - 03/08/2016
+4119657   PR         Pitangueiras (PR)          2024   Nº 4 - 07/05/2024
+4119707   PR     Planaltina do Paraná (PR)      2018   Nº 4 - 17/04/2018
+4119806   PR           Planalto (PR)            2016   Nº 1 - 21/03/2016
+4119905   PR         Ponta Grossa (PR)          2023   Nº 1 - 30/06/2023
+4120002   PR           Porecatu (PR)            2024   Nº 4 - 07/05/2024
+4120101   PR       Porto Amazonas (PR)          2024   Nº 4 - 07/05/2024
+4120150   PR         Porto Barreiro (PR)        2017   Nº 4 - 10/07/2017
+4120200   PR          Porto Rico (PR)           2016   Nº 7 - 13/12/2016
+4120309   PR         Porto Vitória (PR)         2016   Nº 1 - 21/03/2016
+4120333   PR         Prado Ferreira (PR)        2024   Nº 7 - 21/06/2024
+4120358   PR           Pranchita (PR)           2016   Nº 1 - 21/03/2016
+4120408   PR   Presidente Castelo Branco (PR)   2024   Nº 03 - 05/04/2024
+4120507   PR       Primeiro de Maio (PR)        2024   Nº 03 - 05/04/2024
+4120606   PR         Prudentópolis (PR)         2022   Nº 1 - 24/02/2022
+4120705   PR           Quatiguá (PR)            2025   Nº 2 - 24/02/2025
+4120804   PR         Quatro Barras (PR)         2024   Nº 03 - 05/04/2024
+4120853   PR        Quatro Pontes (PR)          2025   Nº 9 - 30/06/2025
+4120903   PR       Quedas do Iguaçu (PR)        2022   Nº 1 - 24/02/2022
+4121000   PR      Querência do Norte (PR)       2022   Nº 1 - 24/02/2022
+4121109   PR         Quinta do Sol (PR)         2025   Nº 9 - 30/06/2025
+4121208   PR         Quitandinha (PR)           2022   Nº 2 - 05/05/2022
+4121257   PR          Ramilândia (PR)           2020   Nº 2 - 08/07/2020
+4121307   PR        Rancho Alegre (PR)          2025   Nº 9 - 30/06/2025
+4121406   PR            Realeza (PR)            2016   Nº 7 - 13/12/2016
+4121604   PR         Renascença (PR)            2016   Nº 1 - 21/03/2016
+4121703   PR            Reserva (PR)            2024   Nº 7 - 21/06/2024
+4121752   PR       Reserva do Iguaçu (PR)       2016   Nº 7 - 13/12/2016
+4121901   PR       Ribeirão do Pinhal (PR)      2026   Nº 21 - 30/03/2026
+4122008   PR            Rio Azul (PR)           2022   Nº 2 - 05/05/2022
+4122107   PR           Rio Bom (PR)             2024   Nº 7 - 21/06/2024
+4122156   PR     Rio Bonito do Iguaçu (PR)      2020   Nº 2 - 08/07/2020
+4122172   PR       Rio Branco do Ivaí (PR)      2022   Nº 2 - 05/05/2022
+4122206   PR       Rio Branco do Sul (PR)       2022   Nº 1 - 24/02/2022
+4122305   PR           Rio Negro (PR)           2022   Nº 1 - 24/02/2022
+4122404   PR           Rolândia (PR)            2024   Nº 03 - 05/04/2024
+4122503   PR           Roncador (PR)            2022   Nº 2 - 05/05/2022
+4122602   PR            Rondon (PR)             2017   Nº 5 - 11/10/2017
+4122651   PR         Rosário do Ivaí (PR)         2020   Nº 2 - 08/07/2020
+4122701   PR            Sabáudia (PR)             2024   Nº 10 - 30/09/2024
+4122800   PR          Salgado Filho (PR)          2016   Nº 1 - 21/03/2016
+4123006   PR         Salto do Lontra (PR)         2026   Nº 21 - 30/03/2026
+4123105   PR          Santa Amélia (PR)           2025   Nº 12 - 03/09/2025
+4123303   PR   Santa Cruz de Monte Castelo (PR)   2024   Nº 4 - 07/05/2024
+4123402   PR             Santa Fé (PR)            2024   Nº 4 - 07/05/2024
+4123501   PR          Santa Helena (PR)           2025   Nº 12 - 03/09/2025
+4123600   PR            Santa Inês (PR)           2024   Nº 10 - 30/09/2024
+4123709   PR       Santa Isabel do Ivaí (PR)      2022   Nº 1 - 24/02/2022
+4123808   PR      Santa Izabel do Oeste (PR)      2016   Nº 5 - 03/08/2016
+4123824   PR           Santa Lúcia (PR)           2021   Nº 1 - 12/01/2021
+4123857   PR      Santa Maria do Oeste (PR)       2025   Nº 2 - 24/02/2025
+4123907   PR          Santa Mariana (PR)          2016   Nº 5 - 03/08/2016
+4123956   PR          Santa Mônica (PR)           2022   Nº 1 - 24/02/2022
+4124004   PR        Santana do Itararé (PR)       2025   Nº 2 - 24/02/2025
+4124020   PR      Santa Tereza do Oeste (PR)      2025   Nº 12 - 03/09/2025
+4124053   PR    Santa Terezinha de Itaipu (PR)    2022   Nº 1 - 24/02/2022
+4124103   PR     Santo Antônio da Platina (PR)    2022   Nº 1 - 24/02/2022
+4124202   PR     Santo Antônio do Caiuá (PR)      2020   Nº 2 - 08/07/2020
+4124400   PR   Santo Antônio do Sudoeste (PR)     2016   Nº 1 - 21/03/2016
+4124509   PR           Santo Inácio (PR)          2024   Nº 7 - 21/06/2024
+4124608   PR        São Carlos do Ivaí (PR)       2020   Nº 2 - 08/07/2020
+4124707   PR      São Jerônimo da Serra (PR)      2024   Nº 4 - 07/05/2024
+4124905   PR        São João do Caiuá (PR)        2016   Nº 5 - 03/08/2016
+4125001   PR         São João do Ivaí (PR)        2024   Nº 7 - 21/06/2024
+4125100   PR       São João do Triunfo (PR)       2024   Nº 4 - 07/05/2024
+4125209   PR        São Jorge d'Oeste (PR)        2024   Nº 7 - 21/06/2024
+4125308   PR         São Jorge do Ivaí (PR)       2024   Nº 4 - 07/05/2024
+4125357   PR     São Jorge do Patrocínio (PR)     2016   Nº 5 - 03/08/2016
+4125456   PR     São José das Palmeiras (PR)      2025   Nº 9 - 30/06/2025
+4125506   PR      São José dos Pinhais (PR)       2024   Nº 4 - 07/05/2024
+4125555   PR      São Manoel do Paraná (PR)       2017   Nº 5 - 11/10/2017
+4125605   PR        São Mateus do Sul (PR)        2016   Nº 1 - 21/03/2016
+4125803   PR        São Pedro do Ivaí (PR)        2024   Nº 7 - 21/06/2024
+4125902   PR      São Pedro do Paraná (PR)        2016   Nº 7 - 13/12/2016
+4126009   PR    São Sebastião da Amoreira (PR)    2022   Nº 2 - 05/05/2022
+4126108   PR            São Tomé (PR)             2018   Nº 5 - 23/07/2018
+4126207   PR           Sapopema (PR)              2020   Nº 2 - 08/07/2020
+4126256   PR             Sarandi (PR)             2024   Nº 10 - 30/09/2024
+4126272   PR       Saudade do Iguaçu (PR)         2025   Nº 2 - 24/02/2025
+4126306   PR             Sengés (PR)              2025   Nº 9 - 30/06/2025
+4126355   PR     Serranópolis do Iguaçu (PR)      2022   Nº 1 - 24/02/2022
+4126405   PR            Sertaneja (PR)            2022   Nº 1 - 24/02/2022
+4126504   PR          Sertanópolis (PR)           2017   Nº 5 - 11/10/2017
+4126603   PR        Siqueira Campos (PR)          2024   Nº 4 - 07/05/2024
+4126652   PR              Sulina (PR)             2025   Nº 2 - 24/02/2025
+4126678   PR         Tamarana (PR)           2024   Nº 03 - 05/04/2024
+4126702   PR         Tamboara (PR)           2022   Nº 1 - 24/02/2022
+4126801   PR          Tapejara (PR)          2017   Nº 5 - 11/10/2017
+4126900   PR           Tapira (PR)           2016   Nº 5 - 03/08/2016
+4127007   PR       Teixeira Soares (PR)      2024   Nº 7 - 21/06/2024
+4127205   PR          Terra Boa (PR)         2016   Nº 1 - 21/03/2016
+4127304   PR         Terra Rica (PR)         2018   Nº 5 - 23/07/2018
+4127403   PR         Terra Roxa (PR)         2017   Nº 5 - 11/10/2017
+4127502   PR           Tibagi (PR)           2025   Nº 2 - 24/02/2025
+4127601   PR       Tijucas do Sul (PR)       2023   Nº 1 - 30/06/2023
+4127700   PR           Toledo (PR)           2016   Nº 7 - 13/12/2016
+4127809   PR         Tomazina (PR)           2016   Nº 7 - 13/12/2016
+4127858   PR    Três Barras do Paraná (PR)   2020   Nº 2 - 08/07/2020
+4127882   PR      Tunas do Paraná (PR)       2023   Nº 1 - 30/06/2023
+4127908   PR     Tuneiras do Oeste (PR)      2016   Nº 7 - 13/12/2016
+4127957   PR          Tupãssi (PR)           2020   Nº 03 - 15/10/2020
+4127965   PR            Turvo (PR)           2024   Nº 7 - 21/06/2024
+4128005   PR           Ubiratã (PR)          2020   Nº 2 - 08/07/2020
+4128104   PR         Umuarama (PR)           2016   Nº 1 - 21/03/2016
+4128203   PR      União da Vitória (PR)      2016   Nº 1 - 21/03/2016
+4128302   PR           Uniflor (PR)          2024   Nº 10 - 30/09/2024
+4128401   PR            Uraí (PR)            2025   Nº 2 - 24/02/2025
+4128559   PR     Vera Cruz do Oeste (PR)     2017   Nº 4 - 10/07/2017
+4128609   PR            Verê (PR)            2024   Nº 03 - 05/04/2024
+4128625   PR        Alto Paraíso (PR)        2017   Nº 5 - 11/10/2017
+4128658   PR          Virmond (PR)           2016   Nº 7 - 13/12/2016
+4128708   PR          Vitorino (PR)          2025   Nº 2 - 24/02/2025
+4128807   PR          Xambrê (PR)            2016   Nº 1 - 21/03/2016
+3300100   RJ       Angra dos Reis (RJ)       2025   Nº 17 - 31/12/2025
+3300308   RJ        Barra do Piraí (RJ)      2026   Nº 26 - 26/07/2026
+3300407   RJ        Barra Mansa (RJ)         2025   Nº 2 - 24/02/2025
+3300456   RJ        Belford Roxo (RJ)        2021   Nº 2 - 25/11/2021
+3300803   RJ   Cachoeiras de Macacu (RJ)     2024   Nº 10 - 30/09/2024
+3301009   RJ   Campos dos Goytacazes (RJ)    2020   Nº 1 - 23/01/2020
+3301504   RJ          Cordeiro (RJ)          2021   Nº 1 - 12/01/2021
+3301702   RJ      Duque de Caxias (RJ)       2016   Nº 5 - 03/08/2016
+3302007   RJ           Itaguaí (RJ)          2025   Nº 17 - 31/12/2025
+3302205   RJ          Itaperuna (RJ)         2023   Nº 4 - 21/12/2023
+3302270   RJ            Japeri (RJ)          2026   Nº 26 - 26/07/2026
+3302700   RJ           Maricá (RJ)           2023   Nº 1 - 30/06/2023
+3302858   RJ          Mesquita (RJ)          2025   Nº 17 - 31/12/2025
+3303302   RJ           Niterói (RJ)          2020   Nº 1 - 23/01/2020
+3303500   RJ        Nova Iguaçu (RJ)         2020   Nº 1 - 23/01/2020
+3303609   RJ         Paracambi (RJ)          2026   Nº 25 - 26/06/2026
+3303708   RJ       Paraíba do Sul (RJ)       2026   Nº 26 - 26/07/2026
+3304144   RJ         Queimados (RJ)          2024   Nº 13 - 13/12/2024
+3304557   RJ        Rio de Janeiro (RJ)      2020   Nº 1 - 23/01/2020
+3304904   RJ         São Gonçalo (RJ)          2023   Nº 4 - 21/12/2023
+3305109   RJ       São João de Meriti (RJ)     2023   Nº 4 - 21/12/2023
+3305752   RJ            Tanguá (RJ)            2024   Nº 4 - 07/05/2024
+3305802   RJ          Teresópolis (RJ)         2024   Nº 10 - 30/09/2024
+3306008   RJ           Três Rios (RJ)          2021   Nº 2 - 25/11/2021
+3306305   RJ        Volta Redonda (RJ)         2016   Nº 5 - 03/08/2016
+2400208   RN             Açu (RN)              2025   Nº 11 - 15/08/2025
+2402204   RN        Canguaretama (RN)          2025   Nº 9 - 30/06/2025
+2402501   RN         Carnaubais (RN)           2025   Nº 14 - 16/10/2025
+2404200   RN          Goianinha (RN)           2026   Nº 25 - 26/06/2026
+2404853   RN             Itajá (RN)            2026   Nº 25 - 26/06/2026
+2405009   RN            Jaçanã (RN)            2025   Nº 12 - 03/09/2025
+2407104   RN           Macaíba (RN)            2025   Nº 12 - 03/09/2025
+2408102   RN             Natal (RN)            2025   Nº 9 - 30/06/2025
+2411502   RN        Santo Antônio (RN)         2025   Nº 14 - 16/10/2025
+2412609   RN     São Paulo do Potengi (RN)     2026   Nº 26 - 26/07/2026
+2413508   RN           Serrinha (RN)           2025   Nº 9 - 30/06/2025
+1100015   RO     Alta Floresta D'Oeste (RO)    2024   Nº 03 - 05/04/2024
+1100023   RO          Ariquemes (RO)           2024   Nº 03 - 05/04/2024
+1100031   RO            Cabixi (RO)            2024   Nº 03 - 05/04/2024
+1100064   RO      Colorado do Oeste (RO)       2024   Nº 2 - 08/03/2024
+1100072   RO         Corumbiara (RO)           2024   Nº 2 - 08/03/2024
+1100080   RO        Costa Marques (RO)         2024   Nº 12 - 19/11/2024
+1100106   RO        Guajará-Mirim (RO)         2024   Nº 4 - 07/05/2024
+1100122   RO           Ji-Paraná (RO)          2026   Nº 22 - 29/04/2026
+1100148   RO   Nova Brasilândia D'Oeste (RO)   2026   N° 28 - 26/08/2026
+1100205   RO         Porto Velho (RO)          2026   Nº 23 - 26/05/2026
+1100288   RO       Rolim de Moura (RO)         2024   Nº 4 - 07/05/2024
+1100296   RO     Santa Luzia D'Oeste (RO)      2024   Nº 03 - 05/04/2024
+1100320   RO    São Miguel do Guaporé (RO)     2024   Nº 03 - 05/04/2024
+1100338   RO        Nova Mamoré (RO)           2024   Nº 4 - 07/05/2024
+1100346   RO       Alvorada D'Oeste (RO)       2024   Nº 4 - 07/05/2024
+1100452   RO            Buritis (RO)           2025   Nº 17 - 31/12/2025
+1100502   RO   Novo Horizonte do Oeste (RO)    2025   Nº 9 - 30/06/2025
+1100601   RO         Cacaulândia (RO)          2024   Nº 2 - 08/03/2024
+1100700   RO   Campo Novo de Rondônia (RO)     2024   Nº 4 - 07/05/2024
+1100809   RO      Candeias do Jamari (RO)      2024   Nº 03 - 05/04/2024
+1100908   RO         Castanheiras (RO)         2024   Nº 4 - 07/05/2024
+1101203   RO      Ministro Andreazza (RO)      2024   Nº 4 - 07/05/2024
+1101476   RO    Primavera de Rondônia (RO)     2024   Nº 4 - 07/05/2024
+1101484   RO      São Felipe D'Oeste (RO)      2024   Nº 4 - 07/05/2024
+1101492   RO   São Francisco do Guaporé (RO)   2024   Nº 4 - 07/05/2024
+1101500   RO         Seringueiras (RO)         2024   Nº 4 - 07/05/2024
+1101757   RO         Vale do Anari (RO)        2025   Nº 2 - 24/02/2025
+1400027   RR            Amajari (RR)           2024   Nº 4 - 07/05/2024
+1400050   RR          Alto Alegre (RR)         2024   Nº 2 - 08/03/2024
+1400100   RR           Boa Vista (RR)          2024   Nº 2 - 08/03/2024
+1400159   RR           Bonfim (RR)            2024   Nº 4 - 07/05/2024
+1400175   RR            Cantá (RR)            2024   Nº 8 - 03/07/2024
+1400209   RR          Caracaraí (RR)          2024   Nº 4 - 07/05/2024
+1400233   RR          Caroebe (RR)            2024   Nº 2 - 08/03/2024
+1400282   RR           Iracema (RR)           2025   Nº 11 - 15/08/2025
+1400308   RR           Mucajaí (RR)           2024   Nº 4 - 07/05/2024
+1400407   RR         Normandia (RR)           2024   Nº 2 - 08/03/2024
+1400456   RR         Pacaraima (RR)           2024   Nº 2 - 08/03/2024
+1400472   RR        Rorainópolis (RR)         2024   Nº 2 - 08/03/2024
+1400506   RR      São João da Baliza (RR)     2024   Nº 2 - 08/03/2024
+1400605   RR          São Luiz (RR)           2024   Nº 4 - 07/05/2024
+1400704   RR          Uiramutã (RR)           2024   Nº 2 - 08/03/2024
+4300307   RS           Alecrim (RS)           2026   Nº 22 - 29/04/2026
+4300406   RS           Alegrete (RS)          2024   Nº 9 - 20/08/2024
+4301008   RS       Arroio do Meio (RS)        2024   Nº 4 - 07/05/2024
+4301073   RS       Arroio do Padre (RS)       2026   Nº 25 - 26/06/2026
+4301636   RS       Balneário Pinhal (RS)      2025   Nº 17 - 31/12/2025
+4301909   RS       Barra do Ribeiro (RS)      2026   Nº 23 - 26/05/2026
+4302105   RS      Bento Gonçalves (RS)        2016   Nº 5 - 03/08/2016
+4302204   RS     Boa Vista do Buricá (RS)     2023   Nº 4 - 21/12/2023
+4302402   RS      Bom Retiro do Sul (RS)      2024   Nº 4 - 07/05/2024
+4302451   RS     Boqueirão do Leão (RS)       2025   Nº 9 - 30/06/2025
+4304606   RS           Canoas (RS)            2014   Nº 4 - 20/03/2014
+4304705   RS          Carazinho (RS)          2025   Nº 5 - 25/03/2025
+4305108   RS        Caxias do Sul (RS)        2013   Nº 1 - 20/11/2013
+4305124   RS           Cerrito (RS)           2026   N° 28 - 26/08/2026
+4305355   RS        Charqueadas (RS)          2024   Nº 4 - 07/05/2024
+4305603   RS          Colorado (RS)           2025   Nº 5 - 25/03/2025
+4305801   RS         Constantina (RS)         2024   Nº 4 - 07/05/2024
+4306072   RS        Cristal do Sul (RS)       2024   Nº 4 - 07/05/2024
+4306429   RS   Dois Irmãos das Missões (RS)   2026   Nº 22 - 29/04/2026
+4306551   RS   Dom Pedro de Alcântara (RS)    2025   Nº 14 - 16/10/2025
+4306767   RS       Eldorado do Sul (RS)       2024   Nº 4 - 07/05/2024
+4306908   RS     Encruzilhada do Sul (RS)     2025   Nº 9 - 30/06/2025
+4307054   RS          Ernestina (RS)          2026   Nº 22 - 29/04/2026
+4307104   RS           Herval (RS)            2025   Nº 9 - 30/06/2025
+4307302   RS         Erval Seco (RS)          2024   Nº 4 - 07/05/2024
+4307500   RS         Espumoso (RS)            2025   Nº 17 - 31/12/2025
+4307807   RS           Estrela (RS)           2024   Nº 4 - 07/05/2024
+4308508   RS    Frederico Westphalen (RS)     2024   Nº 4 - 07/05/2024
+4309001   RS            Giruá (RS)            2024   Nº 4 - 07/05/2024
+4309209   RS          Gravataí (RS)           2024   Nº 2 - 08/03/2024
+4309308   RS           Guaíba (RS)            2025   Nº 14 - 16/10/2025
+4309704   RS          Humaitá (RS)            2026   Nº 22 - 29/04/2026
+4310603   RS            Itaqui (RS)           2024   Nº 9 - 20/08/2024
+4310850   RS         Jaboticaba (RS)          2025   Nº 14 - 16/10/2025
+4311403   RS           Lajeado (RS)           2024   Nº 4 - 07/05/2024
+4311601   RS       Liberato Salzano (RS)        2025   Nº 8 - 30/04/2025
+4312153   RS          Mato Leitão (RS)          2025   Nº 9 - 30/06/2025
+4312203   RS    Maximiliano de Almeida (RS)     2025   Nº 17 - 31/12/2025
+4312302   RS           Miraguaí (RS)            2024   Nº 4 - 07/05/2024
+4312450   RS        Morro Redondo (RS)          2024   Nº 4 - 07/05/2024
+4312674   RS       Nicolau Vergueiro (RS)       2024   Nº 12 - 19/11/2024
+4313375   RS       Nova Santa Rita (RS)         2025   Nº 17 - 31/12/2025
+4313409   RS       Novo Hamburgo (RS)           2024   Nº 10 - 30/09/2024
+4313490   RS         Novo Barreiro (RS)         2024   Nº 7 - 21/06/2024
+4313706   RS     Palmeira das Missões (RS)      2023   Nº 4 - 21/12/2023
+4313805   RS          Palmitinho (RS)           2024   Nº 10 - 30/09/2024
+4314209   RS         Pedro Osório (RS)          2025   Nº 17 - 31/12/2025
+4314407   RS            Pelotas (RS)            2024   Nº 2 - 08/03/2024
+4314498   RS      Pinheirinho do Vale (RS)      2026   Nº 25 - 26/06/2026
+4314506   RS      Pinheiro Machado (RS)         2024   Nº 7 - 21/06/2024
+4314779   RS            Pontão (RS)             2024   Nº 2 - 08/03/2024
+4314902   RS         Porto Alegre (RS)          2014   Nº 8 - 27/11/2014
+4315107   RS         Porto Xavier (RS)          2025   Nº 7 - 28/04/2025
+4315503   RS        Restinga Sêca (RS)          2025   Nº 2 - 24/02/2025
+4315602   RS          Rio Grande (RS)           2014   Nº 8 - 27/11/2014
+4315800   RS          Roca Sales (RS)           2024   Nº 4 - 07/05/2024
+4316428   RS       Sagrada Família (RS)         2025   Nº 2 - 24/02/2025
+4316451   RS         Salto do Jacuí (RS)        2024   Nº 4 - 07/05/2024
+4316709   RS     Santa Bárbara do Sul (RS)      2025   Nº 8 - 30/04/2025
+4316808   RS       Santa Cruz do Sul (RS)       2023   Nº 4 - 21/12/2023
+4317103   RS    Sant'Ana do Livramento (RS)     2023   Nº 4 - 21/12/2023
+4317400   RS           Santiago (RS)            2024   Nº 2 - 08/03/2024
+4317509   RS         Santo Ângelo (RS)          2024   Nº 4 - 07/05/2024
+4317608   RS   Santo Antônio da Patrulha (RS)   2024   Nº 4 - 07/05/2024
+4318200   RS    São Francisco de Paula (RS)     2017   Nº 4 - 10/07/2017
+4318408   RS         São Jerônimo (RS)          2024   Nº 2 - 08/03/2024
+4318705   RS         São Leopoldo (RS)          2018   Nº 8 - 19/11/2018
+4318804   RS     São Lourenço do Sul (RS)       2024   Nº 2 - 08/03/2024
+4319505   RS     São Sebastião do Caí (RS)      2026   Nº 26 - 26/07/2026
+4320008   RS       Sapucaia do Sul (RS)         2024   Nº 10 - 30/09/2024
+4320206   RS            Seberi (RS)             2023   Nº 4 - 21/12/2023
+4320800   RS           Soledade (RS)            2026   Nº 25 - 26/06/2026
+4320909   RS           Tapejara (RS)            2025   Nº 2 - 24/02/2025
+4321105   RS             Tapes (RS)             2024   Nº 4 - 07/05/2024
+4321303   RS            Taquari (RS)            2024   Nº 2 - 08/03/2024
+4321329   RS       Taquaruçu do Sul (RS)        2024   Nº 12 - 19/11/2024
+4321402   RS        Tenente Portela (RS)        2024   Nº 2 - 08/03/2024
+4321956   RS        Trindade do Sul (RS)        2024   Nº 4 - 07/05/2024
+4322202   RS         Tupanciretã (RS)           2024   Nº 4 - 07/05/2024
+4322533   RS          Vale do Sol (RS)          2026   Nº 25 - 26/06/2026
+4322608   RS        Venâncio Aires (RS)         2025   Nº 12 - 03/09/2025
+4322707   RS           Vera Cruz (RS)           2025   Nº 7 - 28/04/2025
+4200101   SC       Abelardo Luz (SC)        2025   Nº 9 - 30/06/2025
+4201307   SC          Araquari (SC)         2025   Nº 16 - 08/12/2025
+4202073   SC     Balneário Gaivota (SC)     2025   Nº 14 - 16/10/2025
+4202404   SC         Blumenau (SC)          2014   Nº 8 - 27/11/2014
+4202602   SC        Bom Retiro (SC)         2018   Nº 4 - 17/04/2018
+4203006   SC         Caçador (SC)           2016   Nº 1 - 21/03/2016
+4203501   SC        Campo Erê (SC)          2016   Nº 3 - 20/05/2016
+4203709   SC         Canelinha (SC)         2016   Nº 1 - 21/03/2016
+4203808   SC        Canoinhas (SC)          2013   Nº 1 - 20/11/2013
+4203907   SC         Capinzal (SC)          2016   Nº 3 - 20/05/2016
+4204004   SC        Catanduvas (SC)         2026   Nº 21 - 30/03/2026
+4204202   SC         Chapecó (SC)           2019   Nº 2 - 11/06/2019
+4204400   SC      Coronel Freitas (SC)      2026   Nº 21 - 30/03/2026
+4204558   SC       Correia Pinto (SC)       2025   Nº 9 - 30/06/2025
+4204608   SC         Criciúma (SC)          2013   Nº 1 - 20/11/2013
+4205001   SC     Dionísio Cerqueira (SC)    2025   Nº 12 - 03/09/2025
+4205175   SC         Entre Rios (SC)        2025   Nº 9 - 30/06/2025
+4205357   SC       Flor do Sertão (SC)      2016   Nº 5 - 03/08/2016
+4205407   SC       Florianópolis (SC)       2022   Nº 8 - 27/12/2022
+4205431   SC      Formosa do Sul (SC)       2014   Nº 4 - 20/03/2014
+4205456   SC       Forquilhinha (SC)        2014   Nº 4 - 20/03/2014
+4205555   SC        Frei Rogério (SC)       2025   Nº 14 - 16/10/2025
+4206603   SC      Guarujá do Sul (SC)       2025   Nº 9 - 30/06/2025
+4207684   SC          Ipuaçu (SC)           2024   Nº 2 - 08/03/2024
+4207908   SC        Irineópolis (SC)        2016   Nº 5 - 03/08/2016
+4208203   SC           Itajaí (SC)          2019   Nº 2 - 11/06/2019
+4208906   SC       Jaraguá do Sul (SC)      2016   Nº 1 - 21/03/2016
+4209102   SC          Joinville (SC)        2016   Nº 6 - 28/10/2016
+4209300   SC           Lages (SC)           2014   Nº 8 - 27/11/2014
+4209409   SC          Laguna (SC)           2019   Nº 2 - 11/06/2019
+4209706   SC        Lebon Régis (SC)        2025   Nº 16 - 08/12/2025
+4209854   SC       Lindóia do Sul (SC)      2014   Nº 8 - 27/11/2014
+4210308   SC        Major Vieira (SC)       2020   Nº 1 - 23/01/2020
+4210506   SC         Maravilha (SC)         2019   Nº 2 - 11/06/2019
+4211801   SC           Ouro (SC)            2024   Nº 9 - 20/08/2024
+4212007   SC        Palma Sola (SC)         2025   Nº 9 - 30/06/2025
+4212106   SC         Palmitos (SC)          2014   Nº 8 - 27/11/2014
+4212270   SC        Passos Maia (SC)        2014   Nº 8 - 27/11/2014
+4212304   SC        Paulo Lopes (SC)        2025   Nº 14 - 16/10/2025
+4212908   SC        Pinhalzinho (SC)        2016   Nº 5 - 03/08/2016
+4214805   SC         Rio do Sul (SC)        2023   Nº 4 - 21/12/2023
+4215802   SC     São Bento do Sul (SC)      2019   Nº 2 - 11/06/2019
+4216206   SC    São Francisco do Sul (SC)   2018   Nº 4 - 17/04/2018
+4216305   SC      São João Batista (SC)     2025   Nº 16 - 08/12/2025
+4216503   SC       São Joaquim (SC)         2018   Nº 5 - 23/07/2018
+4216701   SC     São José do Cedro (SC)     2014   Nº 4 - 20/03/2014
+4216909   SC   São Lourenço do Oeste (SC)   2025   Nº 9 - 30/06/2025
+4217758   SC          Sul Brasil (SC)          2014   Nº 8 - 27/11/2014
+4218707   SC           Tubarão (SC)            2018   Nº 5 - 23/07/2018
+4219507   SC           Xanxerê (SC)            2018   Nº 5 - 23/07/2018
+2800100   SE   Amparo do São Francisco (SE)    2025   Nº 10 - 10/07/2025
+2800209   SE          Aquidabã (SE)            2025   Nº 10 - 10/07/2025
+2800308   SE           Aracaju (SE)            2024   Nº 10 - 30/09/2024
+2800407   SE            Arauá (SE)             2024   Nº 11 - 09/10/2024
+2800506   SE         Areia Branca (SE)         2025   Nº 10 - 10/07/2025
+2800605   SE     Barra dos Coqueiros (SE)      2019   Nº 01 - 18/03/2019
+2800670   SE           Boquim (SE)             2014   Nº 8 - 27/11/2014
+2800704   SE         Brejo Grande (SE)         2025   Nº 11 - 15/08/2025
+2801009   SE       Campo do Brito (SE)         2025   Nº 7 - 28/04/2025
+2801108   SE          Canhoba (SE)             2024   Nº 12 - 19/11/2024
+2801207   SE   Canindé de São Francisco (SE)   2024   Nº 11 - 09/10/2024
+2801306   SE            Capela (SE)            2025   Nº 11 - 15/08/2025
+2801405   SE            Carira (SE)            2025   Nº 10 - 10/07/2025
+2801504   SE         Carmópolis (SE)           2025   Nº 10 - 10/07/2025
+2801603   SE      Cedro de São João (SE)       2025   Nº 10 - 10/07/2025
+2801702   SE         Cristinápolis (SE)        2025   Nº 7 - 28/04/2025
+2801900   SE           Cumbe (SE)              2025   Nº 10 - 10/07/2025
+2802007   SE        Divina Pastora (SE)        2025   Nº 7 - 28/04/2025
+2802106   SE           Estância (SE)           2025   Nº 7 - 28/04/2025
+2802205   SE          Feira Nova (SE)          2025   Nº 10 - 10/07/2025
+2802304   SE          Frei Paulo (SE)          2025   Nº 10 - 10/07/2025
+2802403   SE            Gararu (SE)            2025   Nº 10 - 10/07/2025
+2802502   SE       General Maynard (SE)        2025   Nº 10 - 10/07/2025
+2802601   SE       Gracho Cardoso (SE)         2024   Nº 12 - 19/11/2024
+2802700   SE        Ilha das Flores (SE)       2025   Nº 7 - 28/04/2025
+2802809   SE          Indiaroba (SE)           2025   Nº 8 - 30/04/2025
+2802908   SE          Itabaiana (SE)           2024   Nº 11 - 09/10/2024
+2803005   SE         Itabaianinha (SE)         2025   Nº 11 - 15/08/2025
+2803104   SE             Itabi (SE)            2025   Nº 10 - 10/07/2025
+2803203   SE      Itaporanga d'Ajuda (SE)      2025   Nº 10 - 10/07/2025
+2803302   SE          Japaratuba (SE)          2025   Nº 8 - 30/04/2025
+2803401   SE           Japoatã (SE)            2025   Nº 10 - 10/07/2025
+2803500   SE           Lagarto (SE)            2014   Nº 8 - 27/11/2014
+2803609   SE          Laranjeiras (SE)         2025   Nº 10 - 10/07/2025
+2803708   SE         Macambira (SE)            2025   Nº 10 - 10/07/2025
+2803807   SE      Malhada dos Bois (SE)        2025   Nº 11 - 15/08/2025
+2803906   SE          Malhador (SE)            2025   Nº 11 - 15/08/2025
+2804003   SE           Maruim (SE)             2025   Nº 10 - 10/07/2025
+2804102   SE         Moita Bonita (SE)         2025   Nº 10 - 10/07/2025
+2804201   SE   Monte Alegre de Sergipe (SE)    2025   Nº 8 - 30/04/2025
+2804300   SE          Muribeca (SE)            2025   Nº 10 - 10/07/2025
+2804409   SE           Neópolis (SE)           2025   Nº 10 - 10/07/2025
+2804458   SE   Nossa Senhora Aparecida (SE)    2024   Nº 11 - 09/10/2024
+2804508   SE   Nossa Senhora da Glória (SE)    2025   Nº 10 - 10/07/2025
+2804607   SE   Nossa Senhora das Dores (SE)    2025   Nº 10 - 10/07/2025
+2804706   SE   Nossa Senhora de Lourdes (SE)   2025   Nº 8 - 30/04/2025
+2804805   SE   Nossa Senhora do Socorro (SE)   2024   Nº 12 - 19/11/2024
+2804904   SE           Pacatuba (SE)           2019   Nº 01 - 18/03/2019
+2805000   SE          Pedra Mole (SE)          2025   Nº 10 - 10/07/2025
+2805109   SE          Pedrinhas (SE)           2025   Nº 8 - 30/04/2025
+2805208   SE            Pinhão (SE)            2025   Nº 4 - 20/03/2025
+2805307   SE           Pirambu (SE)            2025   Nº 10 - 10/07/2025
+2805406   SE        Poço Redondo (SE)          2025   Nº 10 - 10/07/2025
+2805505   SE          Poço Verde (SE)          2025   Nº 10 - 10/07/2025
+2805604   SE        Porto da Folha (SE)        2025   Nº 10 - 10/07/2025
+2805703   SE            Propriá (SE)           2024   Nº 4 - 07/05/2024
+2805802   SE      Riachão do Dantas (SE)       2025   Nº 10 - 10/07/2025
+2805901   SE          Riachuelo (SE)           2025   Nº 11 - 15/08/2025
+2806008   SE         Ribeirópolis (SE)         2025   Nº 8 - 30/04/2025
+2806107   SE       Rosário do Catete (SE)      2025   Nº 11 - 15/08/2025
+2806206   SE           Salgado (SE)            2025   Nº 8 - 30/04/2025
+2806305   SE     Santa Luzia do Itanhy (SE)    2024   Nº 7 - 21/06/2024
+2806404   SE   Santana do São Francisco (SE)   2025   Nº 10 - 10/07/2025
+2806503   SE      Santa Rosa de Lima (SE)      2025   Nº 10 - 10/07/2025
+2806602   SE    Santo Amaro das Brotas (SE)    2025   Nº 10 - 10/07/2025
+2806701   SE        São Cristóvão (SE)         2023   Nº 4 - 21/12/2023
+2806800   SE        São Domingos (SE)          2025   Nº 11 - 15/08/2025
+2806909   SE        São Francisco (SE)         2025   Nº 11 - 15/08/2025
+2807006   SE     São Miguel do Aleixo (SE)     2024   Nº 11 - 09/10/2024
+2807105   SE          Simão Dias (SE)          2024   Nº 12 - 19/11/2024
+2807204   SE             Siriri (SE)           2025   Nº 10 - 10/07/2025
+2807303   SE             Telha (SE)            2025   Nº 10 - 10/07/2025
+2807402   SE        Tobias Barreto (SE)        2025   Nº 8 - 30/04/2025
+2807501   SE        Tomar do Geru (SE)         2025   Nº 11 - 15/08/2025
+2807600   SE          Umbaúba (SE)             2014   Nº 8 - 27/11/2014
+3501004   SP          Altinópolis (SP)         2014   Nº 8 - 27/11/2014
+3502200   SP           Angatuba (SP)           2024   Nº 9 - 20/08/2024
+3502408   SP           Anhumas (SP)            2025   Nº 1 - 14/01/2025
+3502705   SP             Apiaí (SP)            2026   Nº 26 - 26/07/2026
+3502804   SP          Araçatuba (SP)           2023   Nº 1 - 30/06/2023
+3503208   SP          Araraquara (SP)          2018   Nº 5 - 23/07/2018
+3506003   SP            Bauru (SP)             2016   Nº 2 - 03/05/2016
+3506300   SP    Bernardino de Campos (SP)      2014   Nº 8 - 27/11/2014
+3506508   SP            Birigui (SP)           2016   Nº 2 - 03/05/2016
+3506607   SP         Biritiba Mirim (SP)       2025   Nº 4 - 20/03/2025
+3507001   SP            Boituva (SP)           2026   N° 28 - 26/08/2026
+3507159   SP    Bom Sucesso de Itararé (SP)    2024   Nº 10 - 30/09/2024
+3507456   SP            Borebi (SP)            2026   Nº 26 - 26/07/2026
+3507506   SP           Botucatu (SP)           2016   Nº 7 - 13/12/2016
+3507902   SP            Brotas (SP)            2024   Nº 9 - 20/08/2024
+3509502   SP          Campinas (SP)            2020   Nº 2 - 08/07/2020
+3509908   SP           Cananéia (SP)             2025   Nº 9 - 30/06/2025
+3510500   SP         Caraguatatuba (SP)          2026   Nº 22 - 29/04/2026
+3513306   SP            Cruzália (SP)            2024   Nº 7 - 21/06/2024
+3513801   SP           Diadema (SP)              2024   Nº 2 - 08/03/2024
+3514007   SP            Dobrada (SP)             2026   Nº 19 - 26/02/2026
+3514403   SP            Dracena (SP)             2022   Nº 5 - 09/09/2022
+3515004   SP        Embu das Artes (SP)          2026   Nº 23 - 26/05/2026
+3515301   SP        Estrela do Norte (SP)        2025   Nº 4 - 20/03/2025
+3515350   SP   Euclides da Cunha Paulista (SP)   2025   Nº 9 - 30/06/2025
+3516200   SP            Franca (SP)              2023   Nº 1 - 30/06/2023
+3516309   SP       Francisco Morato (SP)         2026   Nº 23 - 26/05/2026
+3518503   SP             Guareí (SP)             2024   Nº 10 - 30/09/2024
+3518701   SP            Guarujá (SP)             2014   Nº 8 - 27/11/2014
+3518800   SP           Guarulhos (SP)            2023   Nº 4 - 21/12/2023
+3519071   SP          Hortolândia (SP)           2024   Nº 2 - 08/03/2024
+3519501   SP           Ibirarema (SP)            2023   Nº 1 - 30/06/2023
+3521309   SP              Ipuã (SP)              2025   Nº 1 - 14/01/2025
+3521705   SP            Itaberá (SP)             2026   Nº 19 - 26/02/2026
+3522109   SP           Itanhaém (SP)             2024   Nº 9 - 20/08/2024
+3522158   SP             Itaoca (SP)             2026   Nº 26 - 26/07/2026
+3522307   SP          Itapetininga (SP)          2020   Nº 1 - 23/01/2020
+3522406   SP            Itapeva (SP)             2026   Nº 23 - 26/05/2026
+3522703   SP            Itápolis (SP)            2025   Nº 9 - 30/06/2025
+3523008   SP            Itapura (SP)             2026   Nº 19 - 26/02/2026
+3523107   SP       Itaquaquecetuba (SP)          2024   Nº 9 - 20/08/2024
+3524303   SP          Jaboticabal (SP)           2019   Nº 01 - 18/03/2019
+3524600   SP          Jacupiranga (SP)           2025   Nº 12 - 03/09/2025
+3525904   SP            Jundiaí (SP)             2025   Nº 9 - 30/06/2025
+3526704   SP             Leme (SP)               2026   Nº 24 - 02/06/2026
+3526902   SP            Limeira (SP)             2026   N° 28 - 26/08/2026
+3527108   SP              Lins (SP)              2026   Nº 22 - 29/04/2026
+3527405   SP            Lucélia (SP)             2024   Nº 10 - 30/09/2024
+3528908   SP           Mariápolis (SP)           2025   Nº 8 - 30/04/2025
+3529005   SP            Marília (SP)             2023   Nº 4 - 21/12/2023
+3529401   SP             Mauá (SP)               2024   Nº 8 - 03/07/2024
+3530805   SP          Mogi Mirim (SP)            2026   Nº 26 - 26/07/2026
+3532108   SP        Murutinga do Sul (SP)        2025   Nº 8 - 30/04/2025
+3532702   SP             Nipoã (SP)              2025   Nº 8 - 30/04/2025
+3534401   SP            Osasco (SP)              2017   Nº 5 - 11/10/2017
+3534708   SP           Ourinhos (SP)             2023   Nº 4 - 21/12/2023
+3536901   SP         Pedranópolis (SP)           2025   Nº 9 - 30/06/2025
+3537305   SP           Penápolis (SP)            2025   Nº 9 - 30/06/2025
+3537602   SP            Peruíbe (SP)             2023   Nº 1 - 30/06/2023
+3537800   SP            Piedade (SP)             2025   Nº 1 - 14/01/2025
+3538709   SP           Piracicaba (SP)           2025   Nº 1 - 14/01/2025
+3541406   SP      Presidente Prudente (SP)       2024   Nº 9 - 20/08/2024
+3541604   SP           Promissão (SP)            2024   Nº 9 - 20/08/2024
+3542206   SP           Rancharia (SP)           2022   Nº 5 - 09/09/2022
+3542602   SP            Registro (SP)           2022   Nº 5 - 09/09/2022
+3542701   SP           Restinga (SP)            2023   Nº 1 - 30/06/2023
+3543402   SP         Ribeirão Preto (SP)        2023   Nº 4 - 21/12/2023
+3543907   SP           Rio Claro (SP)           2024   Nº 9 - 20/08/2024
+3545159   SP            Saltinho (SP)           2026   Nº 19 - 26/02/2026
+3547601   SP     Santa Rosa de Viterbo (SP)     2025   Nº 1 - 14/01/2025
+3548500   SP            Santos (SP)             2024   Nº 9 - 20/08/2024
+3548708   SP    São Bernardo do Campo (SP)      2017   Nº 5 - 11/10/2017
+3549805   SP     São José do Rio Preto (SP)     2020   Nº 1 - 23/01/2020
+3550100   SP          São Manuel (SP)           2025   Nº 4 - 20/03/2025
+3550308   SP           São Paulo (SP)           2016   Nº 2 - 03/05/2016
+3550902   SP          São Simão (SP)            2026   Nº 26 - 26/07/2026
+3551009   SP          São Vicente (SP)          2025   Nº 4 - 20/03/2025
+3551108   SP            Sarapuí (SP)            2024   Nº 7 - 21/06/2024
+3552304   SP         Sud Mennucci (SP)          2025   Nº 9 - 30/06/2025
+3552403   SP            Sumaré (SP)             2025   Nº 4 - 20/03/2025
+3552502   SP            Suzano (SP)             2024   Nº 2 - 08/03/2024
+3552551   SP          Suzanápolis (SP)          2022   Nº 5 - 09/09/2022
+3553955   SP            Tarumã (SP)             2023   Nº 4 - 21/12/2023
+3554102   SP            Taubaté (SP)            2025   Nº 1 - 14/01/2025
+3555406   SP           Ubatuba (SP)             2018   Nº 5 - 23/07/2018
+3557105   SP         Votuporanga (SP)           2024   Nº 2 - 08/03/2024
+1700251   TO            Abreulândia             2024   Nº 03 - 05/04/2024
+1700301   TO         Aguiarnópolis (TO)         2025   Nº 14 - 16/10/2025
+1701002   TO            Ananás (TO)             2018   Nº 9 - 18/12/2018
+1701051   TO            Angico (TO)             2018   Nº 4 - 17/04/2018
+1701309   TO          Aragominas (TO)           2016   Nº 5 - 03/08/2016
+1701903   TO         Araguacema (TO)            2023   Nº 1 - 30/06/2023
+1702109   TO           Araguaína (TO)           2025   Nº 7 - 28/04/2025
+1702158   TO           Araguanã (TO)            2025   Nº 17 - 31/12/2025
+1702208   TO          Araguatins (TO)           2024   Nº 11 - 09/10/2024
+1702307   TO          Arapoema (TO)             2018   Nº 4 - 17/04/2018
+1702554   TO        Augustinópolis (TO)         2025   Nº 17 - 31/12/2025
+1702901   TO      Axixá do Tocantins (TO)       2025   Nº 17 - 31/12/2025
+1703008   TO         Babaçulândia (TO)          2024   Nº 8 - 03/07/2024
+1703057   TO   Bandeirantes do Tocantins (TO)   2025   Nº 17 - 31/12/2025
+1703073   TO         Barra do Ouro (TO)         2025   Nº 17 - 31/12/2025
+1703107   TO          Barrolândia (TO)          2025   Nº 17 - 31/12/2025
+1703206   TO        Bernardo Sayão (TO)         2025   Nº 17 - 31/12/2025
+1703602   TO   Brasilândia do Tocantins (TO)    2025   Nº 17 - 31/12/2025
+1703701   TO      Brejinho de Nazaré (TO)       2024   Nº 03 - 05/04/2024
+1703800   TO      Buriti do Tocantins (TO)      2018   Nº 9 - 18/12/2018
+1703826   TO         Cachoeirinha (TO)          2024   Nº 8 - 03/07/2024
+1703842   TO        Campos Lindos (TO)          2016   Nº 1 - 21/03/2016
+1703883   TO         Carmolândia (TO)           2025   Nº 17 - 31/12/2025
+1703891   TO       Carrasco Bonito (TO)         2025   Nº 17 - 31/12/2025
+1703909   TO           Caseara (TO)             2024   Nº 8 - 03/07/2024
+1705102   TO    Chapada da Natividade (TO)      2025   Nº 17 - 31/12/2025
+1705508   TO     Colinas do Tocantins (TO)      2024   Nº 8 - 03/07/2024
+1705607   TO    Conceição do Tocantins (TO)     2025   Nº 9 - 30/06/2025
+1706001   TO       Couto Magalhães (TO)         2024   Nº 11 - 09/10/2024
+1706100   TO         Cristalândia (TO)          2024   Nº 11 - 09/10/2024
+1706506   TO         Darcinópolis (TO)          2023   Nº 1 - 30/06/2023
+1707108   TO   Divinópolis do Tocantins (TO)    2024   Nº 03 - 05/04/2024
+1707207   TO   Dois Irmãos do Tocantins (TO)    2025   Nº 17 - 31/12/2025
+1707306   TO             Dueré (TO)             2018   Nº 4 - 17/04/2018
+1707405   TO          Esperantina (TO)          2025   Nº 17 - 31/12/2025
+1707553   TO            Fátima (TO)             2024   Nº 03 - 05/04/2024
+1707652   TO         Figueirópolis (TO)         2025   Nº 17 - 31/12/2025
+1707702   TO           Filadélfia (TO)          2025   Nº 17 - 31/12/2025
+1708205   TO     Formoso do Araguaia (TO)       2025   Nº 9 - 30/06/2025
+1708254   TO           Tabocão (TO)             2018   Nº 9 - 18/12/2018
+1709005   TO           Goiatins (TO)            2016   Nº 1 - 21/03/2016
+1709500   TO            Gurupi (TO)             2024   Nº 2 - 08/03/2024
+1709807   TO            Ipueiras (TO)           2025   Nº 17 - 31/12/2025
+1710508   TO            Itacajá (TO)            2025   Nº 9 - 30/06/2025
+1710904   TO          Itapiratins (TO)          2024   Nº 03 - 05/04/2024
+1711100   TO     Itaporã do Tocantins (TO)      2018   Nº 4 - 17/04/2018
+1711506   TO       Jaú do Tocantins (TO)        2016   Nº 5 - 03/08/2016
+1711803   TO            Juarina (TO)            2024   Nº 03 - 05/04/2024
+1711902   TO      Lagoa da Confusão (TO)        2026   Nº 18 - 13/01/2026
+1712009   TO            Lajeado (TO)            2026   Nº 18 - 13/01/2026
+1712157   TO          Lavandeira (TO)           2025   Nº 17 - 31/12/2025
+1712454   TO          Luzinópolis (TO)          2023   Nº 1 - 30/06/2023
+1712504   TO   Marianópolis do Tocantins (TO)   2024   Nº 11 - 09/10/2024
+1712801   TO   Maurilândia do Tocantins (TO)    2023   Nº 1 - 30/06/2023
+1713205   TO    Miracema do Tocantins (TO)      2026   Nº 18 - 13/01/2026
+1713304   TO           Miranorte (TO)           2024   Nº 03 - 05/04/2024
+1713700   TO   Monte Santo do Tocantins (TO)    2026   Nº 18 - 13/01/2026
+1713809   TO    Palmeiras do Tocantins (TO)     2025   Nº 4 - 20/03/2025
+1713957   TO         Muricilândia (TO)          2024   Nº 03 - 05/04/2024
+1714302   TO            Nazaré (TO)             2024   Nº 8 - 03/07/2024
+1714880   TO         Nova Olinda (TO)           2024   Nº 8 - 03/07/2024
+1715507   TO       Oliveira de Fátima (TO)      2026   Nº 18 - 13/01/2026
+1715754   TO         Palmeirópolis (TO)         2016   Nº 5 - 03/08/2016
+1716109   TO     Paraíso do Tocantins (TO)      2026   Nº 18 - 13/01/2026
+1716208   TO            Paranã (TO)             2025   Nº 9 - 30/06/2025
+1716307   TO          Pau D'Arco (TO)           2026   Nº 18 - 13/01/2026
+1716505   TO         Pedro Afonso (TO)          2026   Nº 18 - 13/01/2026
+1716604   TO             Peixe (TO)             2026   Nº 18 - 13/01/2026
+1716653   TO          Pequizeiro (TO)           2025   Nº 17 - 31/12/2025
+1716703   TO           Colméia (TO)             2025   Nº 17 - 31/12/2025
+1717008   TO    Pindorama do Tocantins (TO)     2025   Nº 4 - 20/03/2025
+1717206   TO             Piraquê (TO)              2024   Nº 8 - 03/07/2024
+1717909   TO     Ponte Alta do Tocantins (TO)      2026   Nº 18 - 13/01/2026
+1718006   TO    Porto Alegre do Tocantins (TO)     2026   Nº 18 - 13/01/2026
+1718204   TO         Porto Nacional (TO)           2026   Nº 18 - 13/01/2026
+1718303   TO           Praia Norte (TO)            2025   Nº 17 - 31/12/2025
+1718402   TO       Presidente Kennedy (TO)         2014   Nº 4 - 20/03/2014
+1718550   TO            Riachinho (TO)             2024   Nº 03 - 05/04/2024
+1718659   TO        Rio da Conceição (TO)          2025   Nº 17 - 31/12/2025
+1718709   TO           Rio dos Bois (TO)           2018   Nº 4 - 17/04/2018
+1718758   TO            Rio Sono (TO)              2025   Nº 17 - 31/12/2025
+1718808   TO            Sampaio (TO)               2025   Nº 17 - 31/12/2025
+1718865   TO       Santa Fé do Araguaia (TO)       2025   Nº 17 - 31/12/2025
+1718881   TO    Santa Maria do Tocantins (TO)      2018   Nº 9 - 18/12/2018
+1719004   TO    Santa Tereza do Tocantins (TO)     2025   Nº 17 - 31/12/2025
+1720002   TO   Santa Terezinha do Tocantins (TO)   2024   Nº 03 - 05/04/2024
+1720101   TO     São Bento do Tocantins (TO)       2025   Nº 17 - 31/12/2025
+1720150   TO      São Félix do Tocantins (TO)      2025   Nº 17 - 31/12/2025
+1720259   TO    São Salvador do Tocantins (TO)     2016   Nº 5 - 03/08/2016
+1720309   TO   São Sebastião do Tocantins (TO)     2018   Nº 4 - 17/04/2018
+1720499   TO           São Valério (TO)            2024   Nº 03 - 05/04/2024
+1720804   TO     Sítio Novo do Tocantins (TO)      2018   Nº 4 - 17/04/2018
+1720903   TO           Taguatinga (TO)             2024   Nº 4 - 07/05/2024
+1720937   TO       Taipas do Tocantins (TO)        2025   Nº 17 - 31/12/2025
+1720978   TO             Talismã (TO)              2023   Nº 1 - 30/06/2023
+1721000   TO             Palmas (TO)               2024   Nº 7 - 21/06/2024
+1721109   TO            Tocantínia (TO)            2025   Nº 6 - 02/04/2025
+1721208   TO          Tocantinópolis (TO)          2025   Nº 9 - 30/06/2025
+1721307   TO            Tupiratins (TO)            2025   Nº 17 - 31/12/2025
+1722081   TO          Wanderlândia (TO)            2025   Nº 17 - 31/12/2025
+TOTAL                                                                          2.467
+
