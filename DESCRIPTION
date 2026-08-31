@@ -1,0 +1,31 @@
+Package: sisanmatching
+Type: Project
+Title: Municipal SISAN Adoption and PNAE Family Farming Purchases
+Version: 0.1.0
+Authors@R: person("Osmar", "Junior", role = c("aut", "cre"))
+Description: Reproducible cohort risk-set matching evaluation of municipal
+    adoption of SISAN and implementation of family-farming procurement in PNAE.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.3)
+Imports:
+    broom,
+    cobalt,
+    dplyr,
+    fixest,
+    ggplot2,
+    here,
+    MatchIt,
+    purrr,
+    readr,
+    readxl,
+    scales,
+    stringi,
+    stringr,
+    tibble,
+    tidyr,
+    WeightIt,
+    yaml
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

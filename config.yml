@@ -1,0 +1,20 @@
+project:
+  title: "Coordenação sem recursos? Efeitos da adesão municipal ao SISAN"
+  seed: 20260828
+
+analysis:
+  outcome_years: [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
+  cohorts: [2016, 2017, 2018, 2019]
+  pre_lags: [1, 2]
+  post_leads: [1, 2, 3]
+  match_ratio: 1
+  ps_caliper: 0.20
+  match_with_replacement: false
+  minimum_legal_share: 30
+  require_control_untreated_through_followup: true
+
+paths:
+  raw: "data-raw"
+  processed: "data/processed"
+  tables: "outputs/tables"
+  figures: "outputs/figures"

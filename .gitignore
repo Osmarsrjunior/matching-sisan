@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rlib/
+manuscript/_rendered/
+artifacts/_docx_render/
+*.tmp
+*.log
+~$*.docx
